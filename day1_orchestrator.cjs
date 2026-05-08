@@ -103,7 +103,8 @@ async function automateDay1() {
         // 3. Upload Video
         console.log("🚀 [3/3] Uploading Video to Social Media...");
         const uploadScript = path.join(__dirname, 'scripts/unified_uploader.py');
-        await runCommand('python', [`"${uploadScript}"`, `"${videoPath}"`], { cwd: __dirname });
+        const pythonCmd = process.platform === 'win32' ? 'py' : 'python';
+        await runCommand(pythonCmd, [`"${uploadScript}"`, `"${videoPath}"`], { cwd: __dirname });
 
         // 4. Update History
         saveHistory({

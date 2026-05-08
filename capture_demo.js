@@ -28,6 +28,10 @@ const FINAL_OUTPUT = './output_kreggscode.mp4';
     const page = await browser.newPage();
     await page.setViewport({ width: 1080, height: 1920 });
 
+    // Capture console logs from the browser
+    page.on('console', msg => console.log(`[BROWSER] ${msg.text()}`));
+    page.on('pageerror', err => console.error(`[BROWSER ERROR] ${err.message}`));
+
     const audioChunks = [];
     await page.exposeFunction('sendAudioChunk', (base64) => {
         audioChunks.push(Buffer.from(base64, 'base64'));
@@ -67,11 +71,14 @@ const FINAL_OUTPUT = './output_kreggscode.mp4';
     console.log('📡 Navigating to Application...');
     const url = `http://localhost:3001/?size=${SELECTED_SIZE}&speed=84&algorithm=${SELECTED_ALGO}&theme=${SELECTED_THEME}&shape=BAR&auto=false`;
     
-    // Use 'domcontentloaded' instead of 'networkidle2' as CI environments might have flaky network activity
-    await page.goto(url, { waitUntil: 'domcontentloaded', timeout: 60000 });
+    await page.goto(url, { waitUntil: 'networkidle2', timeout: 90000 });
     
-    // Extra wait for React hydration
-    await new Promise(r => setTimeout(r, 5000));
+    console.log('🖱️ Waiting for Begin button...');
+    await page.waitForSelector('button', { timeout: 60000 });
+
+    // Wait for the app to initialize and expose functions
+    console.log('⏳ Waiting for application hydration...');
+    await page.waitForFunction(() => typeof window.initAudioCapture === 'function' && typeof window.startSorting === 'function', { timeout: 60000 });
 
     const recorder = new PuppeteerScreenRecorder(page, {
         followNewTab: true,
@@ -80,16 +87,13 @@ const FINAL_OUTPUT = './output_kreggscode.mp4';
         aspectRatio: '9:16',
     });
 
-    console.log('🖱️ Waiting for Begin button...');
-    const beginBtn = await page.waitForSelector('button', { timeout: 60000 });
-    console.log('🖱️ Clicking Begin Experience...');
-
+    console.log('🖱️ Starting Experience...');
     await page.evaluate(() => window.initAudioCapture());
     await recorder.start(VIDEO_ONLY);
-    await beginBtn.click();
+    await page.evaluate(() => window.startSorting());
 
     console.log('⏳ Recording in progress...');
-    await page.waitForFunction(() => window.isSortingCompleted === true, { timeout: 180000 });
+    await page.waitForFunction(() => window.isSortingCompleted === true, { timeout: 300000 });
 
     // Extra buffer for finish sound
     await new Promise(r => setTimeout(r, 3000));
@@ -110,12 +114,25 @@ const FINAL_OUTPUT = './output_kreggscode.mp4';
 
     if (audioChunks.length > 0) {
         fs.writeFileSync(AUDIO_ONLY, Buffer.concat(audioChunks));
-        console.log('🎬 Merging with FFmpeg...');
+        console.log('🎬 Merging and Extracting Thumbnail with FFmpeg...');
         try {
+            // 1. Merge Video and Audio
             execSync(`ffmpeg -y -i ${VIDEO_ONLY} -i ${AUDIO_ONLY} -c:v copy -c:a aac -b:a 192k -shortest ${FINAL_OUTPUT}`);
+            
+            // 2. Extract Thumbnail at 10 seconds (with fallback to 0s)
+            const thumbName = FINAL_OUTPUT.replace('.mp4', '.jpg');
+            try {
+                console.log('🖼️ Attempting thumbnail extraction at 10s...');
+                execSync(`ffmpeg -y -i ${FINAL_OUTPUT} -ss 00:00:10 -update 1 -vframes 1 ${thumbName}`);
+            } catch (e) {
+                console.log('🖼️ Video might be shorter than 10s, fallback to 0s...');
+                execSync(`ffmpeg -y -i ${FINAL_OUTPUT} -ss 00:00:00 -update 1 -vframes 1 ${thumbName}`);
+            }
+            
             console.log(`✅ COMPLETE! Saved to: ${FINAL_OUTPUT}`);
+            console.log(`🖼️ Thumbnail: ${thumbName}`);
         } catch (e) {
-            console.error('Merge failed:', e.message);
+            console.error('FFmpeg failed:', e.message);
         }
     } else {
         console.error('⚠️ No audio captured!');

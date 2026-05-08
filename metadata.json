@@ -1,27 +1,22 @@
 {
-  "title": "Heap Sort: The ULTIMATE Sorting Algorithm You've NEVER Seen! 🤯",
-  "ig_caption": "Heap Sort, but make it ART. 🎨 Witness the elegance and power of this sorting algorithm like never before. Prepare to be amazed! ✨ #HeapSortMagic #CodeArt #AlgorithmGoals #TechVibes",
-  "fb_caption": "Ever wondered how computers sort massive amounts of data efficiently? 🤔 Meet Heap Sort! We've created a mind-blowing visualization that shows its inner workings step-by-step. Click to see the magic happen! ✨ You'll be hooked. 😉 #HeapSortExplained #CodingVisuals #TechBreakthrough #ProgrammingLife",
-  "threads_caption": "Heap Sort: It's not just sorting, it's a structured dance of data. 🕺💃 You won't look at arrays the same way again. #HeapSort #CodingHacks",
-  "hashtags": "#coding #ai #tech #Algorithm #DataStructures #ComputerScience #Programming #LearnToCode #ViralTech",
-  "yt_description": "Dive deep into the mesmerizing world of Heap Sort! ✨ We break down this powerful sorting algorithm with stunning visualizations that will change the way you think about code. 🚀 From building heaps to extracting elements, witness efficiency in action! Perfect for coders, students, and anyone curious about the magic behind sorting. 🤩 #HeapSort #Algorithm #DataStructures #ComputerScience #CodingTutorial #LearnToCode #Programming #TechExplained #ViralCode",
+  "title": "Selection Sort: The Algorithm That Picks the BEST! 🤯 (Visualized)",
+  "ig_caption": "Selection Sort: The MVP of simple sorting! 🏆 Watch it pick the smallest element, every single time. Visualize the magic! ✨ #CodeMagic #SortingMadeEasy #SelectionSortExplained",
+  "fb_caption": "Unlock the secrets of Selection Sort! 🔓 This algorithm might seem simple, but its visual elegance is undeniable. See how it finds and places the smallest element with perfect clarity. Perfect for anyone looking to grasp fundamental sorting concepts! Click to watch the mesmerizing visualization! 👇",
+  "threads_caption": "Selection Sort: It's not just sorting, it's *strategic selection*. 🎯 Watch it find the best move, one by one. #CodeLogic #AlgorithmArt",
+  "hashtags": "#coding #ai #tech #algorithms #datasructures #computerscience #programming #learncoding",
+  "yt_description": "Ever wondered how sorting algorithms actually WORK? 🤔 Join us for a mind-blowing visual journey into Selection Sort! 🚀 We break down this simple yet powerful algorithm step-by-step, showing you exactly how it finds and places the smallest element repeatedly. Perfect for beginners and a great refresher for coding pros! Watch now and level up your understanding! 💡\n\n#SelectionSort #Algorithm #DataStructures #ComputerScience #CodingTutorial #Programming #VisualCoding #LearnToCode #TechExplained",
   "yt_tags": [
-    "Heap Sort",
+    "Selection Sort",
     "Algorithm Visualization",
-    "Sorting Algorithms",
     "Data Structures",
     "Computer Science",
     "Coding Tutorial",
-    "Programming",
-    "Tech Explained",
-    "Learn to Code",
-    "Python",
-    "JavaScript",
-    "Efficiency",
-    "Big O Notation",
-    "Code Breakdown",
-    "Viral Coding"
+    "Programming Explained",
+    "How Selection Sort Works",
+    "Sorting Algorithms",
+    "Beginner Coding",
+    "Tech Education"
   ],
-  "vk_title": "Визуализация Сортировки Кучей: Откройте для себя мощь алгоритма! 🚀",
-  "vk_desc": "Погрузитесь в завораживающий мир Сортировки Кучей! ✨ Мы разберем этот мощный алгоритм с потрясающими визуализациями, которые изменят ваше представление о коде. 🚀 От построения кучи до извлечения элементов, наблюдайте за эффективностью в действии! Идеально для программистов, студентов и всех, кто интересуется магией сортировки. 🤩 #HeapSort #Алгоритмы #СтруктурыДанных #ComputerScience #Кодинг #ОбучениеПрограммированию #Технологии"
+  "vk_title": "Сортировка Выбором: Наглядная Визуализация Алгоритма!",
+  "vk_desc": "Разбираем алгоритм Сортировки Выбором простыми словами и красивой визуализацией! 🚀 Узнайте, как он находит минимальный элемент и ставит его на место. Идеально для начинающих программистов! #СортировкаВыбором #Алгоритмы #Программирование #КомпьютерныеНауки #ВизуализацияКода"
 }
