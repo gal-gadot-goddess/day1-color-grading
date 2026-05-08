@@ -12,7 +12,7 @@ from dotenv import load_dotenv
 # Load environment variables
 load_dotenv()
 
-def upload_to_instagram(video_path, caption, is_story=False):
+def upload_to_instagram(video_path, caption, is_story=False, thumb_path=None):
     """
     Upload video to Instagram via temporary public URL.
     Can be a Reel or a Story.
@@ -55,13 +55,32 @@ def upload_to_instagram(video_path, caption, is_story=False):
     print(f"[instagram] âœ… Video file found: {video_path}")
     print(f"[instagram] Video size: {file_size_mb:.2f} MB")
 
+    # Check thumbnail file
+    thumb_url = None
+    if thumb_path:
+        thumb_path_obj = Path(thumb_path)
+        if thumb_path_obj.exists():
+            print(f"[instagram] âœ… Thumbnail found: {thumb_path}")
+            try:
+                print(f"[instagram] ðŸ“¤ Uploading thumbnail to temporary hosting...")
+                with open(thumb_path_obj, 'rb') as thumb_file:
+                    files = {'file': ('thumb.jpg', thumb_file, 'image/jpeg')}
+                    t_response = requests.post('https://tmpfiles.org/api/v1/upload', files=files, timeout=60)
+                    if t_response.status_code == 200:
+                        t_data = t_response.json()
+                        t_url = t_data.get('data', {}).get('url', '')
+                        thumb_url = t_url.replace('tmpfiles.org/', 'tmpfiles.org/dl/')
+                        print(f"[instagram] âœ… Thumbnail URL created: {thumb_url}")
+            except Exception as e:
+                print(f"[instagram] âš ï¸ Thumbnail upload failed (skipping thumb): {e}")
+
     # Limit caption
     caption_limited = caption[:2200] if len(caption) > 2200 else caption
     print(f"[instagram] Caption length: {len(caption_limited)} characters")
 
     try:
         # Step 1: Upload to tmpfiles.org to get public URL
-        print(f"[instagram] ðŸ“¤ Step 1: Uploading to temporary hosting...")
+        print(f"[instagram] ðŸ“¤ Step 1: Uploading video to temporary hosting...")
 
         with open(video_path_obj, 'rb') as video_file:
             files = {'file': ('video.mp4', video_file, 'video/mp4')}
@@ -88,7 +107,7 @@ def upload_to_instagram(video_path, caption, is_story=False):
         temp_url = temp_data.get('data', {}).get('url', '')
         video_url = temp_url.replace('tmpfiles.org/', 'tmpfiles.org/dl/')
 
-        print(f"[instagram] âœ… Temporary URL created: {video_url}")
+        print(f"[instagram] âœ… Temporary video URL created: {video_url}")
 
         # Give some time for the file to be ready for external access
         print(f"[instagram] â³ Waiting 5s for URL stability...")
@@ -103,6 +122,9 @@ def upload_to_instagram(video_path, caption, is_story=False):
             'video_url': video_url,
             'access_token': access_token
         }
+
+        if thumb_url:
+            container_params['cover_url'] = thumb_url
 
         if not is_story:
             container_params['caption'] = caption_limited

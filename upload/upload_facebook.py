@@ -14,7 +14,7 @@ from dotenv import load_dotenv
 # Load environment variables
 load_dotenv()
 
-def upload_to_facebook(video_path, description, title="Algorithm Visualization"):
+def upload_to_facebook(video_path, description, title="Algorithm Visualization", thumb_path=None):
     """
     Upload video to Facebook Page as a Reel.
 
@@ -63,16 +63,22 @@ def upload_to_facebook(video_path, description, title="Algorithm Visualization")
     url = f"https://graph.facebook.com/v21.0/{page_id}/videos"
 
     try:
-        with open(video_path, 'rb') as video:
-            files = {'file': video}
-            data = {
-                'access_token': access_token,
-                'description': description,
-                'title': title,
-                'is_explicit_share': True,
-                'is_reel': True
-            }
+        files = {'file': open(video_path, 'rb')}
+        
+        # Add thumbnail if provided
+        if thumb_path and os.path.exists(thumb_path):
+            print(f"[facebook] âœ… Adding thumbnail: {thumb_path}")
+            files['thumb'] = open(thumb_path, 'rb')
 
+        data = {
+            'access_token': access_token,
+            'description': description,
+            'title': title,
+            'is_explicit_share': True,
+            'is_reel': True
+        }
+
+        try:
             print(f"[facebook] Sending request to Facebook API...")
             response = requests.post(url, files=files, data=data, timeout=300)
 
@@ -106,6 +112,9 @@ def upload_to_facebook(video_path, description, title="Algorithm Visualization")
                 print("=" * 60)
 
                 raise Exception(f"Facebook API Error {response.status_code}: {error_msg}")
+        finally:
+            # Ensure files are closed
+            for f in files.values(): f.close()
 
     except requests.exceptions.Timeout:
         error_msg = "â±ï¸ Upload timed out (video too large or slow connection)"
