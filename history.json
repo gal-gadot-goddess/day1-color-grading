@@ -1,0 +1,23 @@
+[
+  {
+    "algo": "BUBBLE",
+    "theme": "GREEN",
+    "size": 33,
+    "file": "output_BUBBLE_GREEN.mp4",
+    "date": "2026-05-08T06:04:00.000Z"
+  },
+  {
+    "algo": "MERGE",
+    "theme": "GREEN",
+    "size": 31,
+    "file": "output_MERGE_GREEN.mp4",
+    "date": "2026-05-08T06:05:00.000Z"
+  },
+  {
+    "algo": "COCKTAIL",
+    "theme": "GREEN",
+    "size": 28,
+    "file": "output_COCKTAIL_GREEN.mp4",
+    "date": "2026-05-08T06:06:00.000Z"
+  }
+]
