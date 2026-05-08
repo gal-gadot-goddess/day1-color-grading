@@ -66,7 +66,12 @@ const FINAL_OUTPUT = './output_kreggscode.mp4';
 
     console.log('📡 Navigating to Application...');
     const url = `http://localhost:3001/?size=${SELECTED_SIZE}&speed=84&algorithm=${SELECTED_ALGO}&theme=${SELECTED_THEME}&shape=BAR&auto=false`;
-    await page.goto(url, { waitUntil: 'networkidle2' });
+    
+    // Use 'domcontentloaded' instead of 'networkidle2' as CI environments might have flaky network activity
+    await page.goto(url, { waitUntil: 'domcontentloaded', timeout: 60000 });
+    
+    // Extra wait for React hydration
+    await new Promise(r => setTimeout(r, 5000));
 
     const recorder = new PuppeteerScreenRecorder(page, {
         followNewTab: true,
@@ -75,7 +80,8 @@ const FINAL_OUTPUT = './output_kreggscode.mp4';
         aspectRatio: '9:16',
     });
 
-    const beginBtn = await page.waitForSelector('button');
+    console.log('🖱️ Waiting for Begin button...');
+    const beginBtn = await page.waitForSelector('button', { timeout: 60000 });
     console.log('🖱️ Clicking Begin Experience...');
 
     await page.evaluate(() => window.initAudioCapture());
@@ -120,4 +126,7 @@ const FINAL_OUTPUT = './output_kreggscode.mp4';
     if (fs.existsSync(VIDEO_ONLY)) fs.unlinkSync(VIDEO_ONLY);
     if (fs.existsSync(AUDIO_ONLY)) fs.unlinkSync(AUDIO_ONLY);
 
-})().catch(err => console.error('💥 Error:', err));
+})().catch(err => {
+    console.error('💥 Error:', err);
+    process.exit(1);
+});
