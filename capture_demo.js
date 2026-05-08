@@ -17,7 +17,12 @@ const FINAL_OUTPUT = './output_kreggscode.mp4';
     console.log(`🚀 Launching Capture Engine: [${SELECTED_ALGO}] [${SELECTED_THEME}]...`);
     const browser = await puppeteer.launch({
         headless: "new",
-        args: ['--autoplay-policy=no-user-gesture-required']
+        args: [
+            '--no-sandbox',
+            '--disable-setuid-sandbox',
+            '--disable-dev-shm-usage',
+            '--autoplay-policy=no-user-gesture-required'
+        ]
     });
 
     const page = await browser.newPage();
