@@ -31,6 +31,14 @@ const FINAL_OUTPUT = './output_kreggscode.mp4';
     // Capture console logs from the browser
     page.on('console', msg => console.log(`[BROWSER] ${msg.text()}`));
     page.on('pageerror', err => console.error(`[BROWSER ERROR] ${err.message}`));
+    page.on('requestfailed', request => {
+        console.log(`[BROWSER FAILED REQUEST] ${request.url()} - ${request.failure()?.errorText || 'Unknown Error'}`);
+    });
+    page.on('response', response => {
+        if (response.status() >= 400) {
+            console.log(`[BROWSER ERROR RESPONSE] ${response.url()} - Status ${response.status()}`);
+        }
+    });
 
     const audioChunks = [];
     await page.exposeFunction('sendAudioChunk', (base64) => {
@@ -69,8 +77,8 @@ const FINAL_OUTPUT = './output_kreggscode.mp4';
     });
 
     console.log('📡 Navigating to Application...');
-    const url = `http://localhost:3001/?size=${SELECTED_SIZE}&speed=84&algorithm=${SELECTED_ALGO}&theme=${SELECTED_THEME}&shape=BAR&auto=false`;
-    
+    const url = `http://127.0.0.1:3001/?size=${SELECTED_SIZE}&speed=84&algorithm=${SELECTED_ALGO}&theme=${SELECTED_THEME}&shape=BAR&auto=false`;
+
     await page.goto(url, { waitUntil: 'networkidle2', timeout: 90000 });
     
     console.log('🖱️ Waiting for Begin button...');

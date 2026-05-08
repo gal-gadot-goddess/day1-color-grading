@@ -1,22 +1,27 @@
 {
-  "title": "Selection Sort: The Algorithm That Picks the BEST! 🤯 (Visualized)",
-  "ig_caption": "Selection Sort: The MVP of simple sorting! 🏆 Watch it pick the smallest element, every single time. Visualize the magic! ✨ #CodeMagic #SortingMadeEasy #SelectionSortExplained",
-  "fb_caption": "Unlock the secrets of Selection Sort! 🔓 This algorithm might seem simple, but its visual elegance is undeniable. See how it finds and places the smallest element with perfect clarity. Perfect for anyone looking to grasp fundamental sorting concepts! Click to watch the mesmerizing visualization! 👇",
-  "threads_caption": "Selection Sort: It's not just sorting, it's *strategic selection*. 🎯 Watch it find the best move, one by one. #CodeLogic #AlgorithmArt",
-  "hashtags": "#coding #ai #tech #algorithms #datasructures #computerscience #programming #learncoding",
-  "yt_description": "Ever wondered how sorting algorithms actually WORK? 🤔 Join us for a mind-blowing visual journey into Selection Sort! 🚀 We break down this simple yet powerful algorithm step-by-step, showing you exactly how it finds and places the smallest element repeatedly. Perfect for beginners and a great refresher for coding pros! Watch now and level up your understanding! 💡\n\n#SelectionSort #Algorithm #DataStructures #ComputerScience #CodingTutorial #Programming #VisualCoding #LearnToCode #TechExplained",
+  "title": "Cocktail Sort: The Algorithm That Shakes Things Up! 🍸 Sorting Chaos to Order!",
+  "ig_caption": "Shake, stir, sort! 🍸✨ Cocktail Sort is here to shuffle your understanding of sorting algorithms. You won't believe how this algorithm gets the job done! #CodingIsLit #AlgorithmArt #TechVibes",
+  "fb_caption": "Tired of the same old sorting algorithms? Meet Cocktail Sort – the algorithm that does the 'bartender's shuffle' to organize your data! 🍸 We're diving deep into its unique bidirectional approach. Click to see the magic unfold and level up your coding knowledge! #CodingFun #AlgorithmGeek #TechEducation #LearnCoding",
+  "threads_caption": "Cocktail Sort: It's not just a drink, it's a sorting strategy! See why this bidirectional bubble sort is surprisingly elegant. 🍸➡️⬆️⬇️",
+  "hashtags": "#coding #ai #tech #Algorithm #DataStructures #ComputerScience #LearnToCode #Programming #SoftwareDevelopment #ViralCode #CodingLife",
+  "yt_description": "Ever seen an algorithm do the cha-cha? 💃 Welcome to Cocktail Sort! We're visualizing how this unique sorting algorithm shuffles elements back and forth, like a drink being stirred, to achieve perfect order.  Watch as we break down the complexity and see why it's surprisingly effective!  Perfect for coding beginners and sorting enthusiasts.  #CocktailSort #AlgorithmVisualization #ComputerScience #DataStructures #CodingTutorial #LearnToCode #Programming #ViralCode",
   "yt_tags": [
-    "Selection Sort",
+    "Cocktail Sort",
+    "Sorting Algorithm",
     "Algorithm Visualization",
-    "Data Structures",
     "Computer Science",
+    "Data Structures",
     "Coding Tutorial",
-    "Programming Explained",
-    "How Selection Sort Works",
-    "Sorting Algorithms",
-    "Beginner Coding",
-    "Tech Education"
+    "Learn to Code",
+    "Programming",
+    "DevOps",
+    "Software Engineering",
+    "Python",
+    "JavaScript",
+    "Java",
+    "Algorithm Explained",
+    "Coding Challenges"
   ],
-  "vk_title": "Сортировка Выбором: Наглядная Визуализация Алгоритма!",
-  "vk_desc": "Разбираем алгоритм Сортировки Выбором простыми словами и красивой визуализацией! 🚀 Узнайте, как он находит минимальный элемент и ставит его на место. Идеально для начинающих программистов! #СортировкаВыбором #Алгоритмы #Программирование #КомпьютерныеНауки #ВизуализацияКода"
+  "vk_title": "Сортировка Коктейлем: Алгоритм, который всё встряхнёт!",
+  "vk_desc": "Визуализация алгоритма сортировки коктейлем! Узнайте, как этот необычный метод сортирует элементы, двигаясь туда-сюда, чтобы навести порядок. Отлично подходит для начинающих программистов и всех, кто интересуется структурами данных. #Программирование #Алгоритмы #Сортировка #КомпьютерныеНауки"
 }
