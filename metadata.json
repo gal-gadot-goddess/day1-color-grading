@@ -1,27 +1,24 @@
 {
-  "title": "Cocktail Sort: The Algorithm That Shakes Things Up! 🍸 Sorting Chaos to Order!",
-  "ig_caption": "Shake, stir, sort! 🍸✨ Cocktail Sort is here to shuffle your understanding of sorting algorithms. You won't believe how this algorithm gets the job done! #CodingIsLit #AlgorithmArt #TechVibes",
-  "fb_caption": "Tired of the same old sorting algorithms? Meet Cocktail Sort – the algorithm that does the 'bartender's shuffle' to organize your data! 🍸 We're diving deep into its unique bidirectional approach. Click to see the magic unfold and level up your coding knowledge! #CodingFun #AlgorithmGeek #TechEducation #LearnCoding",
-  "threads_caption": "Cocktail Sort: It's not just a drink, it's a sorting strategy! See why this bidirectional bubble sort is surprisingly elegant. 🍸➡️⬆️⬇️",
-  "hashtags": "#coding #ai #tech #Algorithm #DataStructures #ComputerScience #LearnToCode #Programming #SoftwareDevelopment #ViralCode #CodingLife",
-  "yt_description": "Ever seen an algorithm do the cha-cha? 💃 Welcome to Cocktail Sort! We're visualizing how this unique sorting algorithm shuffles elements back and forth, like a drink being stirred, to achieve perfect order.  Watch as we break down the complexity and see why it's surprisingly effective!  Perfect for coding beginners and sorting enthusiasts.  #CocktailSort #AlgorithmVisualization #ComputerScience #DataStructures #CodingTutorial #LearnToCode #Programming #ViralCode",
+  "title": "Merge Sort MAGIC ✨: The Elegant Dance of Divide & Conquer!",
+  "ig_caption": "Merge Sort: It's not just sorting, it's a symphony of logic. 🎶 Watch how this elegant algorithm conquers chaos, one merge at a time! ✨ #MergeSortMagic #CodeArt #AlgorithmGoals #TechTok #CodingLife",
+  "fb_caption": "Witness the beauty of Merge Sort unfold! 🤯 We've created a stunning visual explanation of this fundamental sorting algorithm.  Understand how divide and conquer leads to efficient sorting.  Click to see the magic happen! ✨ #MergeSort #Algorithm #ComputerScienceEducation #CodingForBeginners #TechSkills",
+  "threads_caption": "Merge Sort: The algorithm that proves order can emerge from chaos with pure elegance. 🤯 Prepare to have your mind sorted!",
+  "hashtags": "#coding #ai #tech #algorithms #computerscience #programming #datascience #softwaredevelopment #learntocode #education",
+  "yt_description": "🚀 Ever wondered how sorting can be an art form? Dive into the mesmerizing world of Merge Sort! We break down this powerful divide-and-conquer algorithm with stunning visualizations that make complex concepts crystal clear.  Perfect for students, developers, and anyone curious about the elegance of computer science!  See how we split, sort, and merge our way to perfect order. 📊 Get ready to be amazed! #MergeSort #AlgorithmExplained #ComputerScience #DataStructures #CodingTutorial #LearnToCode #TechExplained #DivideAndConquer",
   "yt_tags": [
-    "Cocktail Sort",
-    "Sorting Algorithm",
+    "Merge Sort",
     "Algorithm Visualization",
     "Computer Science",
     "Data Structures",
+    "Sorting Algorithms",
+    "Divide and Conquer",
     "Coding Tutorial",
     "Learn to Code",
     "Programming",
-    "DevOps",
+    "Tech Explained",
     "Software Engineering",
-    "Python",
-    "JavaScript",
-    "Java",
-    "Algorithm Explained",
-    "Coding Challenges"
+    "Big O Notation"
   ],
-  "vk_title": "Сортировка Коктейлем: Алгоритм, который всё встряхнёт!",
-  "vk_desc": "Визуализация алгоритма сортировки коктейлем! Узнайте, как этот необычный метод сортирует элементы, двигаясь туда-сюда, чтобы навести порядок. Отлично подходит для начинающих программистов и всех, кто интересуется структурами данных. #Программирование #Алгоритмы #Сортировка #КомпьютерныеНауки"
+  "vk_title": "Визуализация Сортировки Слиянием: Магия Алгоритмов!",
+  "vk_desc": "✨ Погрузитесь в завораживающий мир алгоритма Сортировки Слиянием! Понятная визуализация, которая раскрывает всю мощь подхода 'разделяй и властвуй'. Идеально для изучения основ информатики и программирования. 💻📊 #СортировкаСлиянием #Алгоритмы #Информатика #Программирование #ВизуализацияКода"
 }
