@@ -40,5 +40,12 @@
     "size": 28,
     "file": "output_MERGE_OCEAN.mp4",
     "date": "2026-05-08T16:53:34.359Z"
+  },
+  {
+    "algo": "COCKTAIL",
+    "theme": "RAINBOW",
+    "size": 16,
+    "file": "output_COCKTAIL_RAINBOW.mp4",
+    "date": "2026-05-08T20:05:34.970Z"
   }
 ]
