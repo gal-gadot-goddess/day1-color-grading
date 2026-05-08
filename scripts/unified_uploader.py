@@ -82,17 +82,22 @@ def main():
     content_hash = get_content_hash(f"UnifiedUpload_{title}")
     history = load_history()
 
+    thumb_path = video_path.with_suffix('.jpg')
+    has_thumb = thumb_path.exists()
+
     print(f"\n{'='*40}")
     print(f"ðŸš€ PUBLISHING VIZ: {title}")
     print(f"{'='*40}")
     print(f"ðŸ“‚ Video Path: {video_path}")
+    if has_thumb:
+        print(f"ðŸ–¼ï¸ Thumbnail Path: {thumb_path}")
     print(f"ðŸ”‘ Content Hash: {content_hash}\n")
 
     # 1. Instagram Reel
     if not is_uploaded(history, content_hash, 'instagram_reel'):
         print("ðŸ“¸ Starting Instagram Reel...")
         try:
-            upload_to_instagram(str(video_path), instagram_full, is_story=False)
+            upload_to_instagram(str(video_path), instagram_full, is_story=False, thumb_path=str(thumb_path) if has_thumb else None)
             mark_uploaded(history, content_hash, 'instagram_reel')
             print("âœ… Instagram Reel Success")
         except Exception as e: print(f"âŒ Instagram Reel failed: {e}")
@@ -112,7 +117,7 @@ def main():
     if not is_uploaded(history, content_hash, 'facebook_reel'):
         print("ðŸ“˜ Starting Facebook Reel...")
         try:
-            upload_to_facebook(str(video_path), facebook_full, title=title[:100])
+            upload_to_facebook(str(video_path), facebook_full, title=title[:100], thumb_path=str(thumb_path) if has_thumb else None)
             mark_uploaded(history, content_hash, 'facebook_reel')
             print("âœ… Facebook Reel Success")
         except Exception as e: print(f"âŒ Facebook Reel failed: {e}")
