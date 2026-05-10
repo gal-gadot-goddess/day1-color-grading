@@ -75,5 +75,12 @@
     "size": 15,
     "file": "output_QUICK_GREEN.mp4",
     "date": "2026-05-10T07:52:14.597Z"
+  },
+  {
+    "algo": "HEAP",
+    "theme": "GREEN",
+    "size": 16,
+    "file": "output_HEAP_GREEN.mp4",
+    "date": "2026-05-10T11:21:12.906Z"
   }
 ]

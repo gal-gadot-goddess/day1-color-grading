@@ -1,27 +1,24 @@
 {
-  "title": "🤯 Quick Sort Explained: The FASTEST Way to Sort (Visualized!)",
-  "ig_caption": "🤯 Quick Sort: The sorting algorithm that broke the internet! Watch our visualization and understand the magic behind its speed. ✨ #codingshorts #quickSort #datascience #programmingisfun #techviral",
-  "fb_caption": "Unlocking the secrets of Quick Sort! 🔑 We've created a stunning visualization to help you grasp this lightning-fast sorting algorithm. Dive in and supercharge your coding knowledge! 💡 #coding #programming #algorithms #computerscience #tech #education #quickSort",
-  "threads_caption": "Quick Sort: It's not just fast, it's *mind-blowingly* fast. Our latest visual breakdown reveals WHY. ⚡️ Link in bio!",
-  "hashtags": "#coding #ai #tech #computerscience #algorithm #datascience #programming #learncode #quickSort",
-  "yt_description": "🔥 Ever wondered how super-fast sorting algorithms actually work? Today, we're diving DEEP into Quick Sort! 🚀 Watch as we visually break down this incredibly efficient algorithm, step-by-step. Perfect for coders of all levels! 🧠\n\nWhat you'll learn:\n✅ How Quick Sort partitions an array\n✅ The power of recursion in sorting\n✅ Why it's so efficient (and when it's not!)\n\n#QuickSort #Algorithm #DataStructures #ComputerScience #CodingTutorial #LearnToCode #Programming #TechExplained #ViralCode",
+  "title": "Heap Sort Explained: The 🚀 Speed Secret of Sorting Algorithms! (Visualized)",
+  "ig_caption": "Heap Sort: The sorting algorithm that's secretly dominating your tech! 🚀 See it visualized and understand its power. ✨ #CodeExplosion #HeapSort #AlgorithmArt",
+  "fb_caption": "Ever wondered how sorting can be THIS fast? 🤔 Introducing Heap Sort, visualized! 🚀 We break down this powerful algorithm, showing you exactly how it achieves its incredible speed. Perfect for students, developers, and anyone curious about the magic behind efficient data management! ✨ Click to watch and level up your CS knowledge! #HeapSortExplained #CodingVisuals #AlgorithmDeepDive",
+  "threads_caption": "Heap Sort: It's not just fast, it's a structural marvel. Watch our visualization and see why this algorithm is a cornerstone of efficient data handling. 🚀🔥 #HeapSort #CodingMagic",
+  "hashtags": "#coding #ai #tech #algorithms #datascience #computerscience #programming #visualizationalgorithms #learncoding #softwaredevelopment",
+  "yt_description": "Dive into the mind-bending world of Heap Sort! 🧠 We'll visualize this powerful sorting algorithm step-by-step, revealing how it achieves its incredible efficiency. 🤯 Ever wondered how computers sort massive datasets super fast? This is your answer! Get ready for a visually stunning breakdown that will make complex concepts crystal clear. ✨\n\n✅ What is Heap Sort?\n✅ How does it work (visualized)?\n✅ Why is it so efficient?\n✅ Real-world applications\n\nDon't forget to LIKE 👍, SUBSCRIBE 🔔, and SHARE this with your fellow tech enthusiasts!",
   "yt_tags": [
-    "Quick Sort",
-    "Algorithm Visualization",
+    "Heap Sort",
+    "Sorting Algorithms",
     "Data Structures",
     "Computer Science",
+    "Algorithm Visualization",
     "Coding Tutorial",
-    "Learn to Code",
     "Programming",
-    "Python",
-    "JavaScript",
-    "Java",
-    "Efficiency",
-    "Sorting Algorithms",
-    "CS Explained",
     "Tech Explained",
-    "Viral Coding"
+    "Big O Notation",
+    "Learn to Code",
+    "Visual Learning",
+    "Fast Sorting"
   ],
-  "vk_title": "🚀 Quick Sort: Визуализация Самого Быстрого Алгоритма Сортировки!",
-  "vk_desc": "🔥 Изучаем Quick Sort! Смотрите, как этот невероятно эффективный алгоритм сортировки работает шаг за шагом с помощью наглядной визуализации. Идеально для всех, кто изучает программирование! 🚀 #QuickSort #Алгоритмы #СтруктурыДанных #Программирование #Код #CS"
+  "vk_title": "Визуализация Heap Sort: Секрет молниеносной сортировки!",
+  "vk_desc": "Погрузитесь в мир Heap Sort! 🚀 Мы наглядно покажем, как этот алгоритм сортировки работает и почему он так эффективен. Узнайте, как компьютеры обрабатывают огромные массивы данных за считанные секунды. 🤯 Визуализация, которая сделает сложные концепции простыми! ✨"
 }
