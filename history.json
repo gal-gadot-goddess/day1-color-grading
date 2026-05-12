@@ -96,5 +96,12 @@
     "size": 15,
     "file": "output_QUICK_OCEAN.mp4",
     "date": "2026-05-11T21:08:26.340Z"
+  },
+  {
+    "algo": "HEAP",
+    "theme": "OCEAN",
+    "size": 27,
+    "file": "output_HEAP_OCEAN.mp4",
+    "date": "2026-05-12T09:54:04.274Z"
   }
 ]
