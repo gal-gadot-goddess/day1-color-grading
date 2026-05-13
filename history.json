@@ -110,5 +110,12 @@
     "size": 21,
     "file": "output_HEAP_FIRE.mp4",
     "date": "2026-05-12T21:11:01.685Z"
+  },
+  {
+    "algo": "BUBBLE",
+    "theme": "RAINBOW",
+    "size": 17,
+    "file": "output_BUBBLE_RAINBOW.mp4",
+    "date": "2026-05-13T10:03:58.145Z"
   }
 ]
