@@ -138,5 +138,12 @@
     "size": 17,
     "file": "output_BUBBLE_FIRE.mp4",
     "date": "2026-05-14T20:58:59.725Z"
+  },
+  {
+    "algo": "INSERTION",
+    "theme": "GREEN",
+    "size": 31,
+    "file": "output_INSERTION_GREEN.mp4",
+    "date": "2026-05-15T10:08:37.156Z"
   }
 ]
