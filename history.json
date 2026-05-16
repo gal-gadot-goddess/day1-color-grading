@@ -159,5 +159,12 @@
     "size": 29,
     "file": "output_SELECTION_RAINBOW.mp4",
     "date": "2026-05-16T07:36:40.739Z"
+  },
+  {
+    "algo": "INSERTION",
+    "theme": "RAINBOW",
+    "size": 29,
+    "file": "output_INSERTION_RAINBOW.mp4",
+    "date": "2026-05-16T11:36:18.790Z"
   }
 ]

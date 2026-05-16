@@ -1,24 +1,22 @@
 {
-  "title": "Selection Sort: The SMARTEST Way to Sort? 🧠 (Visualized!)",
-  "ig_caption": "Selection Sort: The algorithm that *always* picks the smallest first! 🏆 Watch our visual breakdown and see how it works its magic! ✨ #Coding #Algorithms #DataStructures #Tech #LearnToCode #SelectionSort",
-  "fb_caption": "Ever wondered about the 'Selection Sort' algorithm? 🤔 We've got a super clear, visual explanation that makes understanding this classic sorting method a breeze! Perfect for anyone diving into computer science or just curious about how code sorts things out. Check it out! 👇 #CodingTips #AlgorithmExplained #SelectionSort #ComputerScienceBasics #TechEducation",
-  "threads_caption": "Selection Sort: It's not the fastest, but it's ruthlessly organized. Find out why this 'pick the smallest' approach is a classic! 👇",
-  "hashtags": "#coding #algorithms #datastructures #tech #learntocode #selectionsort #computerscience #programming",
-  "yt_description": "🤯 Ever wondered how computers sort millions of items? Dive into the world of Selection Sort with our mind-blowing visualization! We break down this classic algorithm step-by-step, showing you EXACTLY how it finds the smallest element and places it correctly. Perfect for beginners and anyone curious about the magic behind sorting! ✨\n\n🚀 What you'll learn:\n✅ The core logic of Selection Sort\n✅ How it compares elements\n✅ Its time complexity (and why it matters!)\n✅ Real-world applications (sort of 😉)\n\nDon't forget to LIKE, SUBSCRIBE, and hit that notification BELL for more epic algorithm visualizations! 🔔\n\n#SortingAlgorithms #ComputerScience #DataStructures #Programming #LearnToCode #AlgoVisuals #SelectionSortExplained",
+  "title": "🤯 Insertion Sort: The Lazy Coder's Secret Weapon (Visualized!)",
+  "ig_caption": "This is how Insertion Sort WORKS! 🤩 So satisfying to watch it build order from chaos. ✨ #CodeGoals",
+  "fb_caption": "Unlock the elegance of Insertion Sort! ✨ We've created a jaw-dropping visualization that makes this fundamental sorting algorithm crystal clear. Perfect for anyone looking to level up their coding game. Watch now and see how easy sorting can be! 👇 #CodeMagic #TechExplained",
+  "threads_caption": "Insertion Sort: Simple, elegant, and surprisingly effective. Watch it work its magic! 🪄",
+  "hashtags": "#coding #ai #tech #algorithms #datascience #computerscience #programming #dev #softwaredevelopment #codinglife",
+  "yt_description": "Ever wondered how to sort data without a huge fuss? 🤔 Meet Insertion Sort! 🚀 In this mind-blowing visualization, we'll break down this elegant sorting algorithm step-by-step. See how it builds a sorted array one element at a time, like a pro magician! ✨ Perfect for beginners and a great refresher for seasoned devs. Don't get lost in the complexity, master the simple elegance of Insertion Sort! #Algorithm #DataStructures #ComputerScience #LearnToCode #Programming",
   "yt_tags": [
-    "Selection Sort",
-    "Sorting Algorithms",
-    "Computer Science",
-    "Data Structures",
+    "Insertion Sort",
+    "Sorting Algorithm",
     "Algorithm Visualization",
-    "Programming Tutorial",
-    "Coding Explained",
-    "Learn to Code",
-    "Beginner Programming",
-    "Tech Explained",
+    "Data Structures",
+    "Computer Science",
+    "Coding Tutorial",
+    "Programming Explained",
+    "Beginner Coding",
     "Code Visualization",
-    "How Selection Sort Works"
+    "Algorithm Explained"
   ],
-  "vk_title": "Визуализация Сортировки Выбором: Пойми Алгоритм Легко!",
-  "vk_desc": "Разбираем алгоритм Сортировки Выбором (Selection Sort) шаг за шагом с наглядной визуализацией! Узнайте, как он находит минимальный элемент и ставит его на место. Идеально для начинающих программистов и всех, кто хочет понять основы сортировки. 💻📊\n\n#Программирование #Алгоритмы #СтруктурыДанных #КомпьютерныеНауки #СортировкаВыбором #ОбучениеКоду #ВизуализацияКода"
+  "vk_title": "Визуализация Сортировки Вставками: Проще Не Бывает!",
+  "vk_desc": "Погрузитесь в мир алгоритмов с нашей наглядной демонстрацией Сортировки Вставками! 🚀 Узнайте, как этот простой, но мощный метод сортирует данные поэлементно. Идеально для начинающих программистов! 💡 #программирование #алгоритмы #структурыданных #компьютерныенауки"
 }
