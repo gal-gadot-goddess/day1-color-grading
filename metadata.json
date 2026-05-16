@@ -1,27 +1,24 @@
 {
-  "title": "🔥 Merge Sort: The SAUCE of Sorting Algorithms! (Visualized!)",
-  "ig_caption": "Merge Sort: It's not just sorting, it's an ART. 🎨 Watch this visual masterpiece break down one of the most efficient algorithms!  🤯  #MergeSortMagic #CodeArt #AlgoVisuals #ViralCoding",
-  "fb_caption": "Unlock the secrets of Merge Sort! 🔑 We're bringing this classic sorting algorithm to life with a jaw-dropping visualization.  Prepare to be amazed by its elegant efficiency.  Tag a friend who needs to see this! 👇\n\n#MergeSort #AlgorithmExplained #CodingVisuals #ComputerScienceMadeEasy #TechEducation #ProgrammingTips",
-  "threads_caption": "Merge Sort: The algorithm that splits, conquers, and sorts like a BOSS. 👑 Visualized for maximum impact. You NEED to see this.",
-  "hashtags": "#coding #ai #tech #algorithms #computerscience #programming #datascience #softwaredevelopment #learntocode #codinglife #devcommunity #algorithmvisualization",
-  "yt_description": "Ever wondered how Merge Sort works its magic? ✨ We're breaking down this powerful sorting algorithm with a mind-blowing visualization!  🤯  Learn the 'divide and conquer' strategy that makes Merge Sort a legend in computer science. Perfect for students, developers, and anyone who loves elegant code! 💻\n\n🚀 What you'll learn:\n✅ The core logic of Merge Sort\n✅ How 'divide and conquer' applies\n✅ Step-by-step visualization\n✅ Time and space complexity (simplified!)\n\nDon't forget to LIKE, SUBSCRIBE, and hit the BELL for more epic algorithm breakdowns! 🔔\n\n#MergeSort #SortingAlgorithms #ComputerScience #DataStructures #AlgorithmsExplained #CodingTutorial #Programming #Tech #LearnToCode #ViralCoding",
+  "title": "Selection Sort: The SMARTEST Way to Sort? 🧠 (Visualized!)",
+  "ig_caption": "Selection Sort: The algorithm that *always* picks the smallest first! 🏆 Watch our visual breakdown and see how it works its magic! ✨ #Coding #Algorithms #DataStructures #Tech #LearnToCode #SelectionSort",
+  "fb_caption": "Ever wondered about the 'Selection Sort' algorithm? 🤔 We've got a super clear, visual explanation that makes understanding this classic sorting method a breeze! Perfect for anyone diving into computer science or just curious about how code sorts things out. Check it out! 👇 #CodingTips #AlgorithmExplained #SelectionSort #ComputerScienceBasics #TechEducation",
+  "threads_caption": "Selection Sort: It's not the fastest, but it's ruthlessly organized. Find out why this 'pick the smallest' approach is a classic! 👇",
+  "hashtags": "#coding #algorithms #datastructures #tech #learntocode #selectionsort #computerscience #programming",
+  "yt_description": "🤯 Ever wondered how computers sort millions of items? Dive into the world of Selection Sort with our mind-blowing visualization! We break down this classic algorithm step-by-step, showing you EXACTLY how it finds the smallest element and places it correctly. Perfect for beginners and anyone curious about the magic behind sorting! ✨\n\n🚀 What you'll learn:\n✅ The core logic of Selection Sort\n✅ How it compares elements\n✅ Its time complexity (and why it matters!)\n✅ Real-world applications (sort of 😉)\n\nDon't forget to LIKE, SUBSCRIBE, and hit that notification BELL for more epic algorithm visualizations! 🔔\n\n#SortingAlgorithms #ComputerScience #DataStructures #Programming #LearnToCode #AlgoVisuals #SelectionSortExplained",
   "yt_tags": [
-    "Merge Sort",
+    "Selection Sort",
     "Sorting Algorithms",
-    "Data Structures",
-    "Algorithms",
     "Computer Science",
-    "Coding",
-    "Programming",
+    "Data Structures",
     "Algorithm Visualization",
+    "Programming Tutorial",
+    "Coding Explained",
     "Learn to Code",
-    "Tech Tutorial",
-    "Divide and Conquer",
-    "Big O Notation",
-    "Time Complexity",
-    "Space Complexity",
-    "Software Engineering"
+    "Beginner Programming",
+    "Tech Explained",
+    "Code Visualization",
+    "How Selection Sort Works"
   ],
-  "vk_title": "Визуализация Сортировки Слиянием: Как это работает на самом деле! 🤯",
-  "vk_desc": "Разбираем алгоритм сортировки слиянием (Merge Sort) шаг за шагом с потрясающей визуализацией! 🚀 Узнайте, как работает принцип 'разделяй и властвуй' и почему Merge Sort так эффективен.  Идеально для студентов, программистов и всех, кто интересуется информатикой! 💻\n\n#MergeSort #Алгоритмы #СтруктурыДанных #Программирование #Код #Информатика #ВизуализацияАлгоритмов"
+  "vk_title": "Визуализация Сортировки Выбором: Пойми Алгоритм Легко!",
+  "vk_desc": "Разбираем алгоритм Сортировки Выбором (Selection Sort) шаг за шагом с наглядной визуализацией! Узнайте, как он находит минимальный элемент и ставит его на место. Идеально для начинающих программистов и всех, кто хочет понять основы сортировки. 💻📊\n\n#Программирование #Алгоритмы #СтруктурыДанных #КомпьютерныеНауки #СортировкаВыбором #ОбучениеКоду #ВизуализацияКода"
 }
