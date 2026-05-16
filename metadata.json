@@ -1,22 +1,24 @@
 {
-  "title": "🤯 Insertion Sort: The Lazy Coder's Secret Weapon (Visualized!)",
-  "ig_caption": "This is how Insertion Sort WORKS! 🤩 So satisfying to watch it build order from chaos. ✨ #CodeGoals",
-  "fb_caption": "Unlock the elegance of Insertion Sort! ✨ We've created a jaw-dropping visualization that makes this fundamental sorting algorithm crystal clear. Perfect for anyone looking to level up their coding game. Watch now and see how easy sorting can be! 👇 #CodeMagic #TechExplained",
-  "threads_caption": "Insertion Sort: Simple, elegant, and surprisingly effective. Watch it work its magic! 🪄",
-  "hashtags": "#coding #ai #tech #algorithms #datascience #computerscience #programming #dev #softwaredevelopment #codinglife",
-  "yt_description": "Ever wondered how to sort data without a huge fuss? 🤔 Meet Insertion Sort! 🚀 In this mind-blowing visualization, we'll break down this elegant sorting algorithm step-by-step. See how it builds a sorted array one element at a time, like a pro magician! ✨ Perfect for beginners and a great refresher for seasoned devs. Don't get lost in the complexity, master the simple elegance of Insertion Sort! #Algorithm #DataStructures #ComputerScience #LearnToCode #Programming",
+  "title": "Selection Sort: The Laziest Sorting Algorithm You'll LOVE! 🚀 (Visualized)",
+  "ig_caption": "Selection Sort: The 'pick and place' strategy explained visually! 🤩 Is it slow? Yes. Is it understandable? ABSOLUTELY! Let's dive in! 👇 #codewithme #algorithms #datascience #programminglife",
+  "fb_caption": "Unlock the secrets of Selection Sort! 🗝️ This visual breakdown makes understanding this fundamental sorting algorithm a breeze. See how it efficiently finds and places elements, one by one. Perfect for students and anyone curious about the magic behind sorting! ✨ Click to watch! ➡️",
+  "threads_caption": "Selection Sort: Finds the minimum, puts it in place. Repeat. Simple, yet it reveals the core of sorting logic! ✨ Visualizing makes all the difference. #codingthreads #algorithm #techie",
+  "hashtags": "#coding #ai #tech #algorithms #computerscience #programming",
+  "yt_description": "Ever wondered how sorting algorithms *actually* work? 🤔 Let's break down Selection Sort in the most EPIC way possible! 🤯 We'll visualize it step-by-step, making this 'slow' algorithm surprisingly understandable and maybe even... fun? 😄 Get ready to see how it finds the smallest element and places it perfectly, again and again. Perfect for beginners and anyone who loves a good visual explanation! 💡\n\n#SelectionSort #SortingAlgorithms #DataStructures #ComputerScience #AlgorithmVisualization #CodingTutorial #LearnToCode #Programming #TechExplained",
   "yt_tags": [
-    "Insertion Sort",
-    "Sorting Algorithm",
+    "Selection Sort",
+    "Sorting Algorithms",
     "Algorithm Visualization",
     "Data Structures",
     "Computer Science",
     "Coding Tutorial",
+    "Learn to Code",
     "Programming Explained",
     "Beginner Coding",
+    "Algorithm Explained",
     "Code Visualization",
-    "Algorithm Explained"
+    "CS Fundamentals"
   ],
-  "vk_title": "Визуализация Сортировки Вставками: Проще Не Бывает!",
-  "vk_desc": "Погрузитесь в мир алгоритмов с нашей наглядной демонстрацией Сортировки Вставками! 🚀 Узнайте, как этот простой, но мощный метод сортирует данные поэлементно. Идеально для начинающих программистов! 💡 #программирование #алгоритмы #структурыданных #компьютерныенауки"
+  "vk_title": "Визуализация Сортировки Выбором: Поймет Каждый! 🧠",
+  "vk_desc": "Разбираем алгоритм Сортировки Выбором шаг за шагом с наглядной визуализацией! 🚀 Отличный способ понять основы сортировки данных. Идеально для начинающих программистов и всех, кто хочет освежить знания. Смотри и запоминай! 😉 #программирование #алгоритмы #сортировка #компьютерныенауки #обучениекоду"
 }
