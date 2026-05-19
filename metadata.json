@@ -1,26 +1,27 @@
 {
-  "title": "Merge Sort: The Dance of Divide & Conquer! 🕺 | Algorithmic Visualizations ✨",
-  "ig_caption": "Merge Sort: It's not just sorting, it's an art form! 🎨 Witness the elegance of 'divide and conquer' in action. ✨ #MergeSortMagic #CodeArt #AlgorithmGoals",
-  "fb_caption": "Prepare to be amazed! 🤩 Our latest algorithmic visualization breaks down Merge Sort like never before. See the power of 'divide and conquer' and understand why this algorithm is a cornerstone of computer science. Click to watch the magic unfold! 🎬 #MergeSortExplained #CodingVisuals #TechEducation",
-  "threads_caption": "Merge Sort: Where chaos meets order, beautifully. See how it's done! 👇 #AlgorithmicArt",
-  "hashtags": "#coding #ai #tech #algorithm #datascience #computerscience #programming #learntocode #codinglife #developer",
-  "yt_description": "Ever wondered how sorting algorithms *actually* work? 🤔 Dive into the mesmerizing world of Merge Sort with our stunning algorithmic visualization! 🚀 Watch as we break down this powerful 'divide and conquer' strategy step-by-step, making complex logic crystal clear. Perfect for students, aspiring developers, and anyone curious about the magic behind efficient sorting! 💡\n\n#MergeSort #Algorithm #DataStructures #ComputerScience #CodingTutorial #Programming #Visualizations #Tech #LearnToCode #DivideAndConquer",
+  "title": "Merge Sort MAGIC ✨: The Algorithm That Never FORGETS How to Sort!",
+  "ig_caption": "Merge Sort: The OG of organized chaos! 🤯 Watch this algorithm split, sort, and merge its way to perfection. Visually stunning and incredibly efficient. ✨ #MergeSortMagic #CodingGoals",
+  "fb_caption": "Unlock the power of Merge Sort! 💡 This visually captivating breakdown shows you exactly how this divide-and-conquer algorithm sorts data with unmatched efficiency. A must-watch for aspiring developers and tech enthusiasts! 🚀 Share if you love clean code!",
+  "threads_caption": "Merge Sort: It's not just sorting, it's an organized march towards order. 📊 See it in action! #CodeArt",
+  "hashtags": "#coding #ai #tech #algorithms #datascience #programming #computerscience #softwaredevelopment #learntocode #techtrends #datavisualization",
+  "yt_description": "Ever wondered how some sorting algorithms are ridiculously fast and organized? 🤔 Meet Merge Sort! 🚀 In this video, we'll visually break down the elegant divide-and-conquer strategy of Merge Sort. See how it conquers large datasets by splitting, sorting, and merging its way to perfect order. Perfect for coders, students, and anyone who loves a good algorithm! 🧠💻\n\n#MergeSort #Algorithm #DataStructures #ComputerScience #CodingTutorial #Programming #LearnToCode #TechExplained #VisualCoding #DivideAndConquer",
   "yt_tags": [
     "Merge Sort",
-    "Algorithm Visualization",
+    "Algorithm",
     "Data Structures",
     "Computer Science",
     "Coding Tutorial",
     "Programming",
     "Learn to Code",
-    "Divide and Conquer",
+    "Visual Algorithm",
     "Sorting Algorithm",
-    "Educational Video",
-    "Tech Explained",
-    "Coding Visual",
-    "Algorithm Explained",
-    "CompSci"
+    "Divide and Conquer",
+    "Big O Notation",
+    "Time Complexity",
+    "Space Complexity",
+    "Algorithm Visualization",
+    "CS Explained"
   ],
-  "vk_title": "Визуализация Сортировки Слиянием: Искусство Разделяй и Властвуй! 💥",
-  "vk_desc": "Узнайте, как работает один из самых эффективных алгоритмов сортировки – Сортировка Слиянием! Наша уникальная визуализация покажет вам все этапы 'разделяй и властвуй' в действии. Идеально для студентов и всех, кто хочет понять основы информатики. 🎓💻 #СортировкаСлиянием #Алгоритмы #Программирование #КомпьютерныеНауки"
+  "vk_title": "Визуализация Сортировки Слиянием: Как это работает?",
+  "vk_desc": "Узнайте секреты Сортировки Слиянием (Merge Sort)! 🚀 Мы наглядно покажем, как этот мощный алгоритм делит, сортирует и объединяет данные для достижения идеального порядка. Отлично подходит для изучения структур данных и алгоритмов! 💻🧠 #Программирование #Алгоритмы #СортировкаСлиянием #CS"
 }
