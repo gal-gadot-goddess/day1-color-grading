@@ -26,5 +26,12 @@
     "size": 19,
     "file": "output_HEAP_GREEN.mp4",
     "date": "2026-05-20T10:41:41.349Z"
+  },
+  {
+    "algo": "INSERTION",
+    "theme": "GREEN",
+    "size": 17,
+    "file": "output_INSERTION_GREEN.mp4",
+    "date": "2026-05-20T22:15:23.731Z"
   }
 ]
