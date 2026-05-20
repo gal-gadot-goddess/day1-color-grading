@@ -19,5 +19,12 @@
     "size": 16,
     "file": "output_BUBBLE_FIRE.mp4",
     "date": "2026-05-19T21:10:34.075Z"
+  },
+  {
+    "algo": "HEAP",
+    "theme": "GREEN",
+    "size": 19,
+    "file": "output_HEAP_GREEN.mp4",
+    "date": "2026-05-20T10:41:41.349Z"
   }
 ]
