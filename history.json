@@ -40,5 +40,12 @@
     "size": 25,
     "file": "output_QUICK_OCEAN.mp4",
     "date": "2026-05-21T11:59:16.657Z"
+  },
+  {
+    "algo": "COCKTAIL",
+    "theme": "GREEN",
+    "size": 24,
+    "file": "output_COCKTAIL_GREEN.mp4",
+    "date": "2026-05-21T21:23:08.772Z"
   }
 ]
