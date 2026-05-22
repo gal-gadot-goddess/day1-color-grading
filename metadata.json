@@ -1,25 +1,22 @@
 {
-  "title": "Cocktail Sort: The Back-and-Forth Algorithm That ACTUALLY Works! 🍸",
-  "ig_caption": "Cocktail Sort: The algorithm that's shaking things up! 🍸 Watch it dance back and forth to sort data like a pro. You won't want to miss this visual! #CodeArt #SortingMagic #AlgorithmAlchemy",
-  "fb_caption": "Prepare to be shaken AND stirred by the Cocktail Sort algorithm! 🍸✨ We're diving deep into this fascinating bidirectional sorting method that cleans up data with a unique back-and-forth motion. Is it just a fancier Bubble Sort, or something more? Watch the visualization and decide! 👇 #CodingVisuals #AlgorithmDeepDive #TechEducation #Sorted",
-  "threads_caption": "Cocktail Sort: It's not just a drink, it's a sort that goes both ways! 🍸 Watch it conquer unsorted chaos with a clever bidirectional approach. Mind. Blown. 🤯",
-  "hashtags": "#coding #ai #tech #algorithms #datascience #computerscience #programming #learncode #codinglife #developers",
-  "yt_description": "Ever seen sorting algorithms do a wild dance? 💃 Get ready for Cocktail Sort, the bidirectional bubble sort that's both efficient AND oddly satisfying! We're breaking down how this unique approach shuffles elements from both ends, creating a visually stunning and surprisingly effective sort. Perfect for understanding sorting complexities and impressing your coding buddies! ✨ #CocktailSort #AlgorithmExplained #DataStructures #CodingVisualizations #ComputerScience #LearnToCode",
+  "title": "Bubble Sort: The SMALLEST Algorithm That's HUGE for Understanding Sorting! 🤯",
+  "ig_caption": "Bubble Sort: Simple to understand, mind-blowing to visualize! 🫧 Watch how elements 'bubble' up to their sorted positions. Perfect intro to algorithms! Link in bio! 🚀 #coding #algorithms #computerscience #datascience #programming #tech #tutorial #visualizations",
+  "fb_caption": "Ready to dive into the world of sorting algorithms? 🫧 We're breaking down Bubble Sort, the visually intuitive way to understand how data gets organized! It's simple, it's fun, and it's a foundational concept for any coder. Watch the full visualization and let us know what you think! 👇 #ComputerScience #CodingForBeginners #Algorithm #ProgrammingLife #TechEducation #DataStructures #BubbleSortExplained",
+  "threads_caption": "Bubble Sort: The OG of sorting. Looks simple, but watch it in action and you'll see the magic! ✨ Perfect for grasping the basics. 👀 #coding #algorithms #tech",
+  "hashtags": "#coding #algorithms #computerscience #datascience #programming #tech #tutorial #visualizations #bubblesort #learntocode",
+  "yt_description": "Ever wondered how computers sort things? 🤔 Let's dive into the simplest sorting algorithm: Bubble Sort! ✨ We'll visualize it step-by-step, showing you how those 'bubbles' rise to the top. Perfect for beginners and a fun refresher! 🚀\n\nIn this video, you'll learn:\n✅ What Bubble Sort is\n✅ How it works visually\n✅ Its time complexity (and why it's not always the best!) 😅\n✅ Practical applications (where it *might* still be useful!)\n\nDon't forget to LIKE 👍, SUBSCRIBE 🔴, and hit the NOTIFICATIONS BELL 🔔 so you don't miss our next algorithmic adventure!\n\n#BubbleSort #SortingAlgorithms #ComputerScience #Programming #CodingTutorial #DataStructures #AlgorithmVisualization #LearnToCode #TechExplained",
   "yt_tags": [
-    "Cocktail Sort",
-    "Algorithm",
-    "Sorting Algorithm",
-    "Data Structures",
-    "Computer Science",
-    "Coding",
-    "Programming",
-    "Visualization",
     "Bubble Sort",
-    "Bidirectional Sort",
-    "Efficiency",
-    "Code Tutorial",
-    "Tech"
+    "Sorting Algorithms",
+    "Algorithm Visualization",
+    "Computer Science",
+    "Programming Tutorial",
+    "Data Structures",
+    "Learn to Code",
+    "Coding Explained",
+    "Beginner Programming",
+    "How Bubble Sort Works"
   ],
-  "vk_title": "Алгоритм Сортировки 'Коктейль': Визуализация и Объяснение 🍸",
-  "vk_desc": "Узнайте, как работает уникальный алгоритм сортировки 'Коктейль'! Этот двунаправленный вариант пузырьковой сортировки эффективно перемещает элементы из обоих концов массива. Посмотрите на наглядную визуализацию и поймите логику работы. Идеально для студентов и разработчиков! #Алгоритмы #Сортировка #Программирование #КомпьютерныеНауки #ВизуализацияКода"
+  "vk_title": "Визуализация Пузырьковой Сортировки: Простое Погружение в Алгоритмы!",
+  "vk_desc": "Как работает самая простая сортировка? 🤔 Разбираем Пузырьковую Сортировку по шагам с наглядной визуализацией! Идеально для новичков и освежения знаний. 🚀 Смотрите, ставьте лайки и подписывайтесь!"
 }
