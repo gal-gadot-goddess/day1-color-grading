@@ -1,22 +1,24 @@
 {
-  "title": "Bubble Sort: The SMALLEST Algorithm That's HUGE for Understanding Sorting! 🤯",
-  "ig_caption": "Bubble Sort: Simple to understand, mind-blowing to visualize! 🫧 Watch how elements 'bubble' up to their sorted positions. Perfect intro to algorithms! Link in bio! 🚀 #coding #algorithms #computerscience #datascience #programming #tech #tutorial #visualizations",
-  "fb_caption": "Ready to dive into the world of sorting algorithms? 🫧 We're breaking down Bubble Sort, the visually intuitive way to understand how data gets organized! It's simple, it's fun, and it's a foundational concept for any coder. Watch the full visualization and let us know what you think! 👇 #ComputerScience #CodingForBeginners #Algorithm #ProgrammingLife #TechEducation #DataStructures #BubbleSortExplained",
-  "threads_caption": "Bubble Sort: The OG of sorting. Looks simple, but watch it in action and you'll see the magic! ✨ Perfect for grasping the basics. 👀 #coding #algorithms #tech",
-  "hashtags": "#coding #algorithms #computerscience #datascience #programming #tech #tutorial #visualizations #bubblesort #learntocode",
-  "yt_description": "Ever wondered how computers sort things? 🤔 Let's dive into the simplest sorting algorithm: Bubble Sort! ✨ We'll visualize it step-by-step, showing you how those 'bubbles' rise to the top. Perfect for beginners and a fun refresher! 🚀\n\nIn this video, you'll learn:\n✅ What Bubble Sort is\n✅ How it works visually\n✅ Its time complexity (and why it's not always the best!) 😅\n✅ Practical applications (where it *might* still be useful!)\n\nDon't forget to LIKE 👍, SUBSCRIBE 🔴, and hit the NOTIFICATIONS BELL 🔔 so you don't miss our next algorithmic adventure!\n\n#BubbleSort #SortingAlgorithms #ComputerScience #Programming #CodingTutorial #DataStructures #AlgorithmVisualization #LearnToCode #TechExplained",
+  "title": "Bubble Sort: The Easiest Way to CONFUSE Your Brain! 🤯 (Algorithmic Visualization)",
+  "ig_caption": "Watch Bubble Sort POP off! 💥 This simple sorting algorithm is surprisingly satisfying to visualize. ✨ Tag a friend who needs to see this! 👇",
+  "fb_caption": "Ever wondered how computers sort things? 🤔 Let's break down Bubble Sort with this awesome visualization! It's simpler than you think, and way more fun to watch. Click to learn! 👇",
+  "threads_caption": "Bubble Sort: Where elements gently float into place... or awkwardly bump into each other. 😂 See the magic (and the chaos) unfold!",
+  "hashtags": "#coding #ai #tech #algorithm #bubblesort #computerscience #datascience #programming #developer #softwareengineering #learntocode #codinglife #techtrends",
+  "yt_description": "Dive into the mesmerizing world of algorithms with a crystal-clear visualization of Bubble Sort! ✨ See how this simple sorting method works, step-by-step. Perfect for beginners and anyone who loves a good visual explanation! 🧠💡 #BubbleSort #Algorithm #DataStructures #ComputerScience #LearnToCode #CodingTutorial #Programming #Visualisation #TechExplained",
   "yt_tags": [
-    "Bubble Sort",
-    "Sorting Algorithms",
-    "Algorithm Visualization",
-    "Computer Science",
-    "Programming Tutorial",
-    "Data Structures",
-    "Learn to Code",
-    "Coding Explained",
-    "Beginner Programming",
-    "How Bubble Sort Works"
+    "bubble sort",
+    "algorithm visualization",
+    "data structures",
+    "computer science",
+    "learn to code",
+    "coding tutorial",
+    "programming",
+    "sorting algorithms",
+    "beginner coding",
+    "tech explanation",
+    "developer",
+    "software engineering"
   ],
-  "vk_title": "Визуализация Пузырьковой Сортировки: Простое Погружение в Алгоритмы!",
-  "vk_desc": "Как работает самая простая сортировка? 🤔 Разбираем Пузырьковую Сортировку по шагам с наглядной визуализацией! Идеально для новичков и освежения знаний. 🚀 Смотрите, ставьте лайки и подписывайтесь!"
+  "vk_title": "Визуализация Сортировки Пузырьком: Просто и Понятно!",
+  "vk_desc": "Разбираемся в одном из самых простых алгоритмов сортировки – Сортировке Пузырьком! 🧼 Пошаговая визуализация поможет понять, как он работает. Идеально для новичков в программировании! 💻"
 }
