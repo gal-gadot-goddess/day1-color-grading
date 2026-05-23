@@ -61,5 +61,12 @@
     "size": 21,
     "file": "output_BUBBLE_OCEAN.mp4",
     "date": "2026-05-22T20:59:13.476Z"
+  },
+  {
+    "algo": "BUBBLE",
+    "theme": "GREEN",
+    "size": 31,
+    "file": "output_BUBBLE_GREEN.mp4",
+    "date": "2026-05-23T08:05:28.305Z"
   }
 ]
