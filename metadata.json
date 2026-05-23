@@ -1,22 +1,24 @@
 {
-  "title": "Bubble Sort: The SIMPLEST Sorting Algorithm (But Is It USEFUL?) 🤔",
-  "ig_caption": "Bubble Sort: So simple, it's almost hypnotic! 🫧✨ Ever wondered how your code sorts things? Let's bubble up some knowledge! #BubbleSort #CodingLife #AlgorithmArt",
-  "fb_caption": "Ever get confused by sorting algorithms? 🤯 Let's break down Bubble Sort with a super cool visualization! It might not be the fastest, but it's definitely one of the easiest to understand. Perfect for anyone starting their coding journey! 🫧 #CodingForBeginners #AlgorithmExplained #TechTok",
-  "threads_caption": "Bubble Sort: The algorithm that's as easy to grasp as... well, a bubble! 🫧 Let's see it in action. #CodeVis",
-  "hashtags": "#coding #ai #tech #Algorithm #DataStructures #ComputerScience #Programming #LearnToCode #TechEducation",
-  "yt_description": "Dive into the quirky world of Bubble Sort! 🫧 We'll break down how this straightforward sorting algorithm works, visualize its steps in a mesmerizing way, and uncover why, despite its simplicity, it's a foundational concept every coder should know. ✨ Is it the fastest? Nope! Is it easy to understand? ABSOLUTELY! Perfect for beginners and a fun reminder for veterans. \n\n\n#BubbleSort #Algorithm #DataStructures #ComputerScience #CodingTutorial #LearnToCode #Programming #Visualizations #TechExplained",
+  "title": "Cocktail Sort: The Algorithm That Shakes Things Up! 🍹 | Coding Visualization",
+  "ig_caption": "Shake, rattle, and SORT! 🍹 Witness the funkiest algorithm in town: Cocktail Sort! ✨ #CodeGoals #AlgoParty",
+  "fb_caption": "Tired of the same old sorting algorithms? Get ready for a refreshing twist! 🍹 Introducing Cocktail Sort – the algorithm that shakes, rattles, and sorts from BOTH ends! See how this bidirectional marvel cleans up data in a way you won't forget. Perfect for students, developers, and anyone who loves a good visual explanation of complex concepts! #CocktailSort #Algorithm #Coding #Tech #DataScience #ProgrammingTutorial",
+  "threads_caption": "Cocktail Sort: It's not just a drink, it's a sorting algorithm that goes both ways! 🍸➡️⬅️ Get ready for some serious data-shuffling.",
+  "hashtags": "#coding #ai #tech #algorithms #computerscience #datascience #programming #development #softwaredevelopment #codinglife #learncoding #techie #viraltech",
+  "yt_description": "🤯 Ever seen sorting get THIS wild? Dive into the mind-bending world of Cocktail Sort! This bidirectional bubble sort is a visual treat that's surprisingly effective (and kinda hypnotic!). Watch it in action as it shuffles and bounces its way to a sorted list. Perfect for understanding sorting algorithms or just for some mesmerizing code art! 💃🕺\n\n#CocktailSort #SortingAlgorithms #DataStructures #ComputerScience #Programming #CodeVisualization #LearnToCode #AlgorithmExplained #ViralCode",
   "yt_tags": [
-    "Bubble Sort",
-    "Algorithm Visualization",
+    "Cocktail Sort",
     "Sorting Algorithms",
-    "Computer Science Explained",
-    "Learn Programming",
-    "Coding Basics",
     "Data Structures",
-    "Algorithm Tutorial",
-    "Simple Sort",
-    "Educational Video"
+    "Computer Science",
+    "Programming",
+    "Algorithm Visualization",
+    "Learn to Code",
+    "Coding Tutorial",
+    "Bubble Sort",
+    "Bidirectional Sort",
+    "Tech Explained",
+    "CS Concepts"
   ],
-  "vk_title": "Сортировка пузырьком: Просто, как дважды два! 🫧",
-  "vk_desc": "Разбираем один из самых понятных алгоритмов сортировки – пузырьковую сортировку. Визуализация, объяснение и почему он важен для новичков. Смотри, как пузырьки поднимаются! ✨"
+  "vk_title": "Сортировка Коктейль: Алгоритм, который всё взбалтывает! 🍹 | Визуализация Кода",
+  "vk_desc": "🤯 Видели ли вы когда-нибудь такую ​​дикую сортировку? Погрузитесь в умопомрачительный мир сортировки коктейлем! Этот двунаправленный пузырьковый сорт - визуальное наслаждение, которое удивительно эффективно (и довольно гипнотично!). Наблюдайте, как он перемешивается и прыгает к отсортированному списку. Идеально подходит для понимания алгоритмов сортировки или просто для завораживающего искусства кода! 💃🕺\n\n#CocktailSort #SortingAlgorithms #DataStructures #ComputerScience #Programming #CodeVisualization #LearnToCode #AlgorithmExplained #ViralCode"
 }
