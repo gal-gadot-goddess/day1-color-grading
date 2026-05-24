@@ -1,25 +1,27 @@
 {
-  "title": "🤯 Insertion Sort: The 'Smartest' Way to Sort? (Algorithm Explained Visually!)",
-  "ig_caption": "Insertion Sort: It's not just sorting, it's building the perfect sorted list, one element at a time! 🧱 Watch our visual breakdown – you won't look at sorting the same way again! 🔥",
-  "fb_caption": "Is Insertion Sort the unsung hero of sorting algorithms? 🤔 We've created a mind-blowing visual guide that breaks down exactly how it works, step-by-step! Perfect for anyone curious about the magic behind sorting. ✨ Click to watch and impress your friends with your newfound algorithmic knowledge! 🤓",
-  "threads_caption": "Insertion Sort: Imagine sorting a hand of cards. That's Insertion Sort. Mind. Blown. 🤯 Visualizer drops tomorrow!",
-  "hashtags": "#coding #algorithms #insertionsort #computerscience #datascructure #learncoding #tech #programming #codinglife #developer",
-  "yt_description": "Ever wondered how computers sort data? 🤔 Let's dive deep into Insertion Sort! We'll visualize this classic algorithm step-by-step, breaking down its logic with dazzling animations. ✨ Perfect for beginners and seasoned coders alike! Watch now and level up your algorithm game! 🚀\n\n#InsertionSort #SortingAlgorithms #DataStructures #ComputerScience #LearnToCode #Programming #AlgorithmVisualization #CodingTutorial #TechExplained",
+  "title": "🤯 Quick Sort: The Algorithm That REVOLUTIONIZED Sorting! (Visualized)",
+  "ig_caption": "Quick Sort: The algorithm that's FAST, CLEVER, and visually SATISFYING! ⚡️ Watch how this 'divide and conquer' magic sorts data in a flash. ✨ #QuickSort #Coding #Algorithms #Tech #Visuals",
+  "fb_caption": "Prepare to be amazed by the elegance of Quick Sort! 🤩 This powerful sorting algorithm uses a 'divide and conquer' strategy to achieve incredible speed. Watch our visualization to see exactly how it works its magic! ✨ Perfect for anyone learning to code or looking to brush up on fundamental CS concepts. #QuickSort #Algorithm #CodingLife #TechExplained #ComputerScienceForBeginners #ProgrammingTips",
+  "threads_caption": "Quick Sort: Divide. Conquer. SORT. 💥 See the genius in action. 🔥",
+  "hashtags": "#coding #ai #tech #algorithms #computerscience #datascience #programming #softwaredevelopment #learntocode #techie #developer",
+  "yt_description": "Ever wondered how sorting algorithms actually work? 🤔 Dive into the mesmerizing world of Quick Sort with our stunning visual explanation! ✨ We'll break down this powerful divide-and-conquer strategy step-by-step, showing you exactly how it efficiently sorts data. Perfect for coders, students, and anyone curious about the magic behind efficient algorithms! 🚀\n\n#QuickSort #AlgorithmVisualization #ComputerScience #DataStructures #CodingTutorial #LearnToCode #Programming #TechExplained #VisualLearning #DevLife",
   "yt_tags": [
-    "Insertion Sort",
-    "Sorting Algorithms",
+    "Quick Sort",
+    "Sorting Algorithm",
     "Algorithm Visualization",
     "Computer Science",
     "Data Structures",
+    "Coding Tutorial",
+    "Programming Concepts",
+    "Divide and Conquer",
+    "Efficient Sorting",
+    "Code Explained",
     "Learn to Code",
-    "Programming Tutorial",
-    "Coding Explained",
-    "Python",
-    "Java",
-    "JavaScript",
+    "Tech Education",
+    "Algorithm Animation",
     "Big O Notation",
-    "Time Complexity"
+    "Software Development"
   ],
-  "vk_title": "Сортировка вставками: Как это работает? Визуализация алгоритма!",
-  "vk_desc": "Учимся сортировать! 🤓 В этом видео мы наглядно покажем, как работает алгоритм сортировки вставками. Отличный способ понять основы Computer Science и улучшить свои навыки программирования. Смотри и становись гуру алгоритмов! 💡"
+  "vk_title": "Быстрая Сортировка: Как это Работает (Визуализация)",
+  "vk_desc": "🚀 Погрузитесь в мир алгоритмов с визуализацией Быстрой Сортировки! 📊 Узнайте, как этот мощный 'разделяй и властвуй' подход эффективно сортирует данные. Идеально для программистов, студентов и всех, кто хочет понять основы информатики! ✨ #БыстраяСортировка #Алгоритмы #Программирование #КомпьютерныеНауки #Визуализация"
 }
