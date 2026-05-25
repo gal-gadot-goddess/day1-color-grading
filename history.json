@@ -103,5 +103,12 @@
     "size": 16,
     "file": "output_HEAP_RAINBOW.mp4",
     "date": "2026-05-25T12:55:21.127Z"
+  },
+  {
+    "algo": "INSERTION",
+    "theme": "RAINBOW",
+    "size": 18,
+    "file": "output_INSERTION_RAINBOW.mp4",
+    "date": "2026-05-25T20:56:25.309Z"
   }
 ]
