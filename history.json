@@ -131,5 +131,12 @@
     "size": 19,
     "file": "output_INSERTION_OCEAN.mp4",
     "date": "2026-05-27T22:24:16.578Z"
+  },
+  {
+    "algo": "SELECTION",
+    "theme": "OCEAN",
+    "size": 35,
+    "file": "output_SELECTION_OCEAN.mp4",
+    "date": "2026-05-28T22:22:51.580Z"
   }
 ]
