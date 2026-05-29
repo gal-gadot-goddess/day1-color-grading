@@ -1,24 +1,22 @@
 {
-  "title": "Selection Sort: The Simplest Sorting Algorithm (Explained Visually!)",
-  "ig_caption": "Selection Sort: Making sense of chaos, one swap at a time! 🤯 Watch this simple yet powerful sorting algorithm come to life. #SelectionSort #CodeArt #AlgorithmGeek #ProgrammingLife",
-  "fb_caption": "Unlock the secrets of Selection Sort! 🔑 We've created a super-clear visual breakdown of this fundamental sorting algorithm. Whether you're a coding newbie or a seasoned pro, you'll appreciate the elegance of finding the minimum and placing it correctly. Hit play and let the data sort itself out! 👇",
-  "threads_caption": "Selection Sort: So intuitive, it feels like magic. ✨ But it's just pure logic! Watch it unfold.",
-  "hashtags": "#coding #ai #tech #algorithms #computerscience #datascience #programming #developer #softwareengineer #learncode",
-  "yt_description": "Ever wondered how sorting algorithms work? 🤔 Let's dive into Selection Sort! We'll break down this fundamental algorithm step-by-step with clear, intuitive visualizations. Perfect for beginners learning to code or anyone who loves seeing data dance! 💃🕺 Discover the logic behind finding the minimum element and placing it in its correct position. ✨\n\n#SelectionSort #SortingAlgorithms #DataStructures #ComputerScience #CodingTutorial #LearnToCode #AlgorithmVisualization #Programming #TechExplained",
+  "title": "Selection Sort: The Simplest Sorting Algorithm (Explained Visually!) 🤯",
+  "ig_caption": "Selection Sort: Simple, but effective! Watch us visually sort numbers like magic ✨ #Coding #Algorithm #Tech",
+  "fb_caption": "Unlock the secrets of Selection Sort! 🗝️ We've created a super engaging visual breakdown that makes understanding this fundamental sorting algorithm a breeze. Perfect for students and aspiring developers! Watch now and level up your coding knowledge! 💪",
+  "threads_caption": "Selection Sort: Find the smallest, swap it in. Repeat. Easy peasy sorting! 🤏",
+  "hashtags": "#coding #ai #tech #computerscience #programming #algorithm",
+  "yt_description": "Ever wondered how computers sort lists? 🤔 Dive into the world of Selection Sort with our super clear, visual explanation! We break down this fundamental sorting algorithm step-by-step, showing you exactly how it works. Perfect for beginners or anyone wanting to brush up on their CS fundamentals! \n\n✨ What you'll learn:\n- The core logic of Selection Sort\n- How it finds the minimum element\n- When it's useful (and when it's not!)\n- A clear, animated visualization\n\n#SelectionSort #SortingAlgorithms #ComputerScience #DataStructures #Programming #LearnToCode #AlgorithmVisualization #TechExplained #CodingTutorial #BeginnerCoding",
   "yt_tags": [
     "Selection Sort",
     "Sorting Algorithms",
     "Data Structures",
     "Computer Science",
-    "Coding Tutorial",
-    "Learn to Code",
     "Algorithm Visualization",
     "Programming",
-    "Basic Algorithms",
-    "Intro to CS",
-    "How Sorting Works",
-    "Simple Sorting"
+    "Coding Tutorial",
+    "Learn to Code",
+    "Beginner Programming",
+    "CS Fundamentals"
   ],
-  "vk_title": "Визуализация Сортировки Выбором: Пошаговое Объяснение",
-  "vk_desc": "Разбираем простой и понятный алгоритм сортировки выбором. Идеально для начинающих программистов! Смотрите, как работает поиск минимального элемента и его перемещение. 💻📊 #СортировкаВыбором #Алгоритмы #Программирование #КомпьютерныеНауки"
+  "vk_title": "Сортировка Выбором: Визуальное Объяснение Простейшего Алгоритма",
+  "vk_desc": "Разбираем алгоритм сортировки выбором шаг за шагом с наглядной анимацией. Идеально для новичков в программировании и информатике!"
 }
