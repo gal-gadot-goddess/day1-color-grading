@@ -1,22 +1,22 @@
 {
-  "title": "Selection Sort: The Simplest Sorting Algorithm (Explained Visually!) 🤯",
-  "ig_caption": "Selection Sort: Simple, but effective! Watch us visually sort numbers like magic ✨ #Coding #Algorithm #Tech",
-  "fb_caption": "Unlock the secrets of Selection Sort! 🗝️ We've created a super engaging visual breakdown that makes understanding this fundamental sorting algorithm a breeze. Perfect for students and aspiring developers! Watch now and level up your coding knowledge! 💪",
-  "threads_caption": "Selection Sort: Find the smallest, swap it in. Repeat. Easy peasy sorting! 🤏",
-  "hashtags": "#coding #ai #tech #computerscience #programming #algorithm",
-  "yt_description": "Ever wondered how computers sort lists? 🤔 Dive into the world of Selection Sort with our super clear, visual explanation! We break down this fundamental sorting algorithm step-by-step, showing you exactly how it works. Perfect for beginners or anyone wanting to brush up on their CS fundamentals! \n\n✨ What you'll learn:\n- The core logic of Selection Sort\n- How it finds the minimum element\n- When it's useful (and when it's not!)\n- A clear, animated visualization\n\n#SelectionSort #SortingAlgorithms #ComputerScience #DataStructures #Programming #LearnToCode #AlgorithmVisualization #TechExplained #CodingTutorial #BeginnerCoding",
+  "title": "Cocktail Sort: The Algorithm That Shakes Things Up! 🍸 (Visualized!)",
+  "ig_caption": "Shaken, not stirred! 🍸 Witness the quirky dance of Cocktail Sort. It's the sorting algorithm that literally goes both ways! 😂 #CodingVibes #AlgoArt #DevLife",
+  "fb_caption": "Prepare to be stirred! 🍸 We're diving deep into the fascinating world of Cocktail Sort. This algorithm doesn't just sort; it boogies! Watch the visualization and see why it's a unique take on sorting. Is it efficient? Is it fun? Let's find out! 👇 #CodeLife #AlgorithmGeek #TechExplained",
+  "threads_caption": "Cocktail Sort: It's not just a drink, it's a sorting strategy that's double the fun (and maybe double the moves?)! 😉",
+  "hashtags": "#coding #ai #tech #algorithms #datasructures #computerscience #programming #codinglife #developer #softwareengineer #techtrends #visualizations #cocktailsort",
+  "yt_description": "Ever seen an algorithm do the cha-cha? 🤔 Meet Cocktail Sort, also known as bidirectional bubble sort! It's like Bubble Sort's cooler, more energetic cousin. Watch as we visualize this sorting algorithm in action, making it super easy to understand. Perfect for your next coding challenge or just for some satisfying algorithm ASMR! 🤩\n\n✨ What is Cocktail Sort?\n✨ How does it work?\n✨ Visualizing the sorting process\n✨ Time Complexity Breakdown\n✨ When to use (and NOT use) it!\n\n#Algorithm #DataStructures #CodingTutorial #ComputerScience #Programming",
   "yt_tags": [
-    "Selection Sort",
+    "Cocktail Sort",
+    "Bidirectional Bubble Sort",
     "Sorting Algorithms",
+    "Algorithm Visualization",
     "Data Structures",
     "Computer Science",
-    "Algorithm Visualization",
-    "Programming",
-    "Coding Tutorial",
+    "Programming Tutorial",
+    "Code Explained",
     "Learn to Code",
-    "Beginner Programming",
-    "CS Fundamentals"
+    "Coding Concepts"
   ],
-  "vk_title": "Сортировка Выбором: Визуальное Объяснение Простейшего Алгоритма",
-  "vk_desc": "Разбираем алгоритм сортировки выбором шаг за шагом с наглядной анимацией. Идеально для новичков в программировании и информатике!"
+  "vk_title": "Сортировка \"Коктейль\": Алгоритм, который всё встряхнет! 🍸 (Визуализация)",
+  "vk_desc": "Познакомьтесь с \"Сортировкой Коктейль\" (она же двунаправленная сортировка пузырьком) – более энергичной версией обычной сортировки пузырьком. Смотрите, как этот алгоритм сортирует данные в обоих направлениях! Отлично подходит для понимания основ сортировки. 🤩 #программирование #алгоритмы #структурыданных #компьютерныенауки #визуализация"
 }
