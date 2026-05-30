@@ -1,22 +1,24 @@
 {
-  "title": "Cocktail Sort: The Algorithm That Shakes Things Up! 🍸 (Visualized!)",
-  "ig_caption": "Shaken, not stirred! 🍸 Witness the quirky dance of Cocktail Sort. It's the sorting algorithm that literally goes both ways! 😂 #CodingVibes #AlgoArt #DevLife",
-  "fb_caption": "Prepare to be stirred! 🍸 We're diving deep into the fascinating world of Cocktail Sort. This algorithm doesn't just sort; it boogies! Watch the visualization and see why it's a unique take on sorting. Is it efficient? Is it fun? Let's find out! 👇 #CodeLife #AlgorithmGeek #TechExplained",
-  "threads_caption": "Cocktail Sort: It's not just a drink, it's a sorting strategy that's double the fun (and maybe double the moves?)! 😉",
-  "hashtags": "#coding #ai #tech #algorithms #datasructures #computerscience #programming #codinglife #developer #softwareengineer #techtrends #visualizations #cocktailsort",
-  "yt_description": "Ever seen an algorithm do the cha-cha? 🤔 Meet Cocktail Sort, also known as bidirectional bubble sort! It's like Bubble Sort's cooler, more energetic cousin. Watch as we visualize this sorting algorithm in action, making it super easy to understand. Perfect for your next coding challenge or just for some satisfying algorithm ASMR! 🤩\n\n✨ What is Cocktail Sort?\n✨ How does it work?\n✨ Visualizing the sorting process\n✨ Time Complexity Breakdown\n✨ When to use (and NOT use) it!\n\n#Algorithm #DataStructures #CodingTutorial #ComputerScience #Programming",
+  "title": "🤯 Heap Sort: The SECRET Algorithm to UNLOCK Insane Speed! 🚀 (Visualized!)",
+  "ig_caption": "Unlock sorting superpowers! 🚀 Heap Sort visualized & explained. This algorithm is FAST. 🔥 #HeapSort #Coding #AlgorithmVisualized #TechMagic",
+  "fb_caption": "Ever wondered how some sorting is INSTANT? 🤔 Meet Heap Sort! We've created mind-blowing visualizations to show you exactly how this lightning-fast algorithm works. Boost your coding game and understand efficiency like never before! ✨ Click to watch! 🚀",
+  "threads_caption": "Heap Sort: It's not just sorting, it's SUPERCHARGED sorting. See it in action! 🤯",
+  "hashtags": "#coding #ai #tech #algorithm #datascience #computerscience #programming #softwaredevelopment #learntocode #codinglife #developer",
+  "yt_description": "Tired of slow sorting? 😴 Dive into the magical world of Heap Sort! ✨ We're breaking down this powerful sorting algorithm with stunning visualizations that will make your code SOAR. 🚀 Learn how it works, why it's FAST, and how you can use it. Perfect for coders, students, and anyone who loves efficient solutions! 🧠\n\n#HeapSort #Algorithm #DataStructures #ComputerScience #CodingTutorial #Programming #TechExplained #Visualizations #LearnToCode #SoftwareEngineering #CodingTips",
   "yt_tags": [
-    "Cocktail Sort",
-    "Bidirectional Bubble Sort",
-    "Sorting Algorithms",
-    "Algorithm Visualization",
+    "Heap Sort",
+    "Sorting Algorithm",
     "Data Structures",
+    "Algorithms",
     "Computer Science",
     "Programming Tutorial",
-    "Code Explained",
-    "Learn to Code",
-    "Coding Concepts"
+    "Coding Visualization",
+    "Algorithm Explained",
+    "Big O Notation",
+    "Time Complexity",
+    "Software Development",
+    "Learn to Code"
   ],
-  "vk_title": "Сортировка \"Коктейль\": Алгоритм, который всё встряхнет! 🍸 (Визуализация)",
-  "vk_desc": "Познакомьтесь с \"Сортировкой Коктейль\" (она же двунаправленная сортировка пузырьком) – более энергичной версией обычной сортировки пузырьком. Смотрите, как этот алгоритм сортирует данные в обоих направлениях! Отлично подходит для понимания основ сортировки. 🤩 #программирование #алгоритмы #структурыданных #компьютерныенауки #визуализация"
+  "vk_title": "Сортировка Кучей (Heap Sort): Визуализация и Объяснение!",
+  "vk_desc": "Разбираем быструю сортировку Heap Sort с наглядными визуализациями! 🚀 Узнайте, как работает этот мощный алгоритм и почему он так эффективен. Идеально для программистов и студентов! 💡 #HeapSort #Алгоритмы #СтруктурыДанных #Программирование"
 }
