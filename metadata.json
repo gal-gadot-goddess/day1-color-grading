@@ -1,27 +1,22 @@
 {
-  "title": "Selection Sort: The 'Smartest' Way to Sort? 🤔 (Visualized!)",
-  "ig_caption": "Selection Sort: The OG of sorting! 🤯 Watch how it finds the *smallest* element, time after time. Is it genius or just… patient? You decide! 👇 #SelectionSort #Algorithm #Coding #DataStructures #ComputerScience #LearnToCode #ViralTech",
-  "fb_caption": "Unlock the secrets of Selection Sort! 🗝️ We've created a stunning visualization that breaks down this fundamental sorting algorithm like never before. Understand its core logic, see it in action, and discover its place in the algorithmic landscape. Perfect for students, developers, and anyone curious about how things get sorted! 🤓👇",
-  "threads_caption": "Selection Sort: It finds the smallest, puts it first. Repeat. Simple. Effective? Let's visualize the magic (and the madness). ✨",
-  "hashtags": "#coding #ai #tech #algorithms #datascience #computerscience #programming #learntocode #dev #softwaredeveloper #javascript #python",
-  "yt_description": "Ever wondered how computers sort data? Today, we're diving deep into Selection Sort! 🚀 Watch this mind-bending visualization to understand its elegant, albeit sometimes slow, approach to ordering arrays. We'll break down the logic, show you its inner workings, and discuss when this classic algorithm shines (and when it doesn't!). Get ready to level up your coding game! 💪\n\n#SelectionSort #AlgorithmVisualization #ComputerScience #DataStructures #CodingTutorial #LearnToCode #Programming #DevLife #TechExplained",
+  "title": "Selection Sort: The 'Find the Smallest' Algorithm Explained Visually! 🤯",
+  "ig_caption": "Selection Sort: The OG of finding the smallest! 🏆 Watch it unfold visually. Can you guess the next step? 👇 #coding #algorithms #computerscience #tech #developer #programmingisfun",
+  "fb_caption": "🤯 Prepare to have your mind BLOWN by the elegance of Selection Sort! We've created a super-visual explanation that makes understanding this fundamental sorting algorithm a breeze. Perfect for students, aspiring developers, or anyone curious about how computers organize data. Watch now and level up your coding game! 💪",
+  "threads_caption": "Selection Sort: It's like a scavenger hunt for the smallest number. 🧐 See it in action! #CodeVisuals #AlgorithmAdventures",
+  "hashtags": "#coding #ai #tech #algorithms #computerscience #datascience #programming #developer #softwareengineering #webdevelopment #learncoding #codinglife #techstartup #artificialintelligence #machinelearning",
+  "yt_description": "Ever wondered how computers sort data? 🤔 Dive into the world of algorithms with a crystal-clear, visual breakdown of Selection Sort! We'll show you step-by-step how it finds the smallest element and places it in its correct position. Perfect for beginners and a great refresher for experienced coders! 🚀\n\n✨ What you'll learn:\n✅ The core logic of Selection Sort\n✅ How it compares elements\n✅ Its time complexity (when it's good, when it's not!)\n✅ A fun, intuitive visualization to make it stick!\n\n#SelectionSort #AlgorithmExplained #ComputerScience #CodingTutorial #DataStructures #LearnToCode #Programming",
   "yt_tags": [
     "Selection Sort",
-    "Algorithm",
-    "Sorting Algorithm",
-    "Data Structures",
+    "Algorithm Visualization",
+    "Coding Tutorial",
     "Computer Science",
-    "Coding Visualization",
-    "Programming Tutorial",
-    "Learn Coding",
-    "Best Sorting Algorithm",
-    "Simple Sorting",
-    "Iterative Sort",
-    "Array Sorting",
-    "Algorithmic Thinking",
-    "Code Explained",
-    "Tech Education"
+    "Data Structures",
+    "Programming",
+    "Learn to Code",
+    "Sorting Algorithms",
+    "Beginner Coding",
+    "CS Explained"
   ],
-  "vk_title": "Визуализация Сортировки Выбором: Пошаговое Объяснение",
-  "vk_desc": "Разбираем алгоритм Сортировки Выбором! 🚀 Узнайте, как он работает, шаг за шагом, с наглядной визуализацией. Идеально для начинающих программистов и всех, кто хочет понять основы структур данных. 🤓"
+  "vk_title": "Сортировка Выбором: Визуальный Разбор Алгоритма!",
+  "vk_desc": "Погрузитесь в мир алгоритмов с наглядной визуализацией сортировки выбором! Пошагово покажем, как этот алгоритм находит минимальный элемент и ставит его на нужное место. Идеально для начинающих и для тех, кто хочет освежить знания. 🚀 #Программирование #Алгоритмы #КомпьютерныеНауки #Сортировка"
 }
