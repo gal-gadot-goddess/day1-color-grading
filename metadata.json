@@ -1,22 +1,22 @@
 {
-  "title": "Selection Sort: The 'Find the Smallest' Algorithm Explained Visually! 🤯",
-  "ig_caption": "Selection Sort: The OG of finding the smallest! 🏆 Watch it unfold visually. Can you guess the next step? 👇 #coding #algorithms #computerscience #tech #developer #programmingisfun",
-  "fb_caption": "🤯 Prepare to have your mind BLOWN by the elegance of Selection Sort! We've created a super-visual explanation that makes understanding this fundamental sorting algorithm a breeze. Perfect for students, aspiring developers, or anyone curious about how computers organize data. Watch now and level up your coding game! 💪",
-  "threads_caption": "Selection Sort: It's like a scavenger hunt for the smallest number. 🧐 See it in action! #CodeVisuals #AlgorithmAdventures",
-  "hashtags": "#coding #ai #tech #algorithms #computerscience #datascience #programming #developer #softwareengineering #webdevelopment #learncoding #codinglife #techstartup #artificialintelligence #machinelearning",
-  "yt_description": "Ever wondered how computers sort data? 🤔 Dive into the world of algorithms with a crystal-clear, visual breakdown of Selection Sort! We'll show you step-by-step how it finds the smallest element and places it in its correct position. Perfect for beginners and a great refresher for experienced coders! 🚀\n\n✨ What you'll learn:\n✅ The core logic of Selection Sort\n✅ How it compares elements\n✅ Its time complexity (when it's good, when it's not!)\n✅ A fun, intuitive visualization to make it stick!\n\n#SelectionSort #AlgorithmExplained #ComputerScience #CodingTutorial #DataStructures #LearnToCode #Programming",
+  "title": "🤯 QuickSort: The Fastest Sorting Algorithm EVER (Visualized!)",
+  "ig_caption": "Watch QuickSort DESTROY unsorted data! 🤯 Visual proof of algorithmic genius. #coding #computerscience #tech",
+  "fb_caption": "Ever wondered how computers sort massive amounts of data at lightning speed? 🤔 Meet QuickSort! We've created a mind-blowing visualization to show you exactly how this powerful algorithm works. Click to see the magic! ✨ #QuickSort #CodingExplained #TechTrends",
+  "threads_caption": "QuickSort: The algorithm that doesn't mess around. See why it's a legend.",
+  "hashtags": "#coding #ai #tech #algorithms #datastructures #computerscience #programming #softwareengineering #learntocode #dev",
+  "yt_description": "Dive into the electrifying world of QuickSort! ⚡️ We break down one of the most efficient sorting algorithms with stunning, easy-to-understand visualizations. See how it slices and dices data like a pro! Perfect for CS students, developers, and anyone curious about how computers sort things lightning fast! 🚀 #Algorithm #DataStructures #ComputerScience",
   "yt_tags": [
-    "Selection Sort",
+    "QuickSort",
+    "Sorting Algorithm",
     "Algorithm Visualization",
-    "Coding Tutorial",
-    "Computer Science",
     "Data Structures",
+    "Computer Science",
     "Programming",
+    "Coding Explained",
     "Learn to Code",
-    "Sorting Algorithms",
-    "Beginner Coding",
-    "CS Explained"
+    "Software Engineering",
+    "Dev"
   ],
-  "vk_title": "Сортировка Выбором: Визуальный Разбор Алгоритма!",
-  "vk_desc": "Погрузитесь в мир алгоритмов с наглядной визуализацией сортировки выбором! Пошагово покажем, как этот алгоритм находит минимальный элемент и ставит его на нужное место. Идеально для начинающих и для тех, кто хочет освежить знания. 🚀 #Программирование #Алгоритмы #КомпьютерныеНауки #Сортировка"
+  "vk_title": "Быстрая сортировка (QuickSort): Визуализация и объяснение",
+  "vk_desc": "Разбираем один из самых быстрых алгоритмов сортировки - QuickSort! Потрясающая визуализация поможет понять, как он работает. Идеально для студентов, разработчиков и всех, кто хочет знать, как компьютеры сортируют данные. 🚀 #программирование #алгоритмы #компьютерныенауки"
 }
