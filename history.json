@@ -187,5 +187,12 @@
     "size": 25,
     "file": "output_QUICK_GREEN.mp4",
     "date": "2026-06-01T19:31:19.530Z"
+  },
+  {
+    "algo": "QUICK",
+    "theme": "RAINBOW",
+    "size": 21,
+    "file": "output_QUICK_RAINBOW.mp4",
+    "date": "2026-06-02T13:00:55.735Z"
   }
 ]
