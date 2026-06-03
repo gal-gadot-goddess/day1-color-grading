@@ -97,7 +97,7 @@ def main():
     if not is_uploaded(history, content_hash, 'instagram_reel'):
         print("ðŸ“¸ Starting Instagram Reel...")
         try:
-            upload_to_instagram(str(video_path), instagram_full, is_story=False, thumb_path=str(thumb_path) if has_thumb else None)
+            upload_to_instagram(str(video_path), instagram_full, is_story=False)
             mark_uploaded(history, content_hash, 'instagram_reel')
             print("âœ… Instagram Reel Success")
         except Exception as e: print(f"âŒ Instagram Reel failed: {e}")
