@@ -11,7 +11,17 @@ import {
   quickSort,
   mergeSort,
   heapSort,
-  cocktailShakerSort
+  cocktailShakerSort,
+  gnomeSort,
+  shellSort,
+  combSort,
+  cycleSort,
+  oddEvenSort,
+  pancakeSort,
+  stoogeSort,
+  radixSort,
+  timSort,
+  bogoSort
 } from './services/sortingService';
 
 declare global {
@@ -38,7 +48,7 @@ const App: React.FC = () => {
   const [theme, setTheme] = useState<ColorTheme>(() => {
     const params = new URLSearchParams(window.location.search);
     const t = params.get('theme');
-    return (t && ['GREEN', 'RAINBOW', 'FIRE', 'OCEAN'].includes(t)) ? (t as ColorTheme) : 'GREEN';
+    return (t && ['GREEN', 'RAINBOW', 'FIRE', 'OCEAN', 'RANDOM'].includes(t)) ? (t as ColorTheme) : 'GREEN';
   });
   const [shape, setShape] = useState<VisualShape>(() => {
     const params = new URLSearchParams(window.location.search);
@@ -107,7 +117,17 @@ const App: React.FC = () => {
         QUICK: quickSort,
         MERGE: mergeSort,
         HEAP: heapSort,
-        COCKTAIL: cocktailShakerSort
+        COCKTAIL: cocktailShakerSort,
+        GNOME: gnomeSort,
+        SHELL: shellSort,
+        COMB: combSort,
+        CYCLE: cycleSort,
+        ODDEVEN: oddEvenSort,
+        PANCAKE: pancakeSort,
+        STOOGE: stoogeSort,
+        RADIX: radixSort,
+        TIM: timSort,
+        BOGO: bogoSort
       };
       // We start from the current items state
       sortingGeneratorRef.current = sortingServiceMap[algorithm]([...items]);
@@ -178,12 +198,13 @@ const App: React.FC = () => {
   const metadata = ALGORITHM_DATA[algorithm];
 
   // Dynamic Highlighter Color: Prioritize active element's hex, fallback to theme primary
-  const themePrimary = {
+  const themePrimary = ({
     GREEN: '#39FF14',
     FIRE: '#FF3300',
     OCEAN: '#00D4FF',
-    RAINBOW: '#BD93F9'
-  }[theme];
+    RAINBOW: '#BD93F9',
+    RANDOM: '#BD93F9'
+  } as Record<string, string>)[theme];
 
   const highlightColor = (currentStep && (currentStep.swappingIndices.length > 0 || currentStep.comparingIndices.length > 0))
     ? (currentStep.array[currentStep.swappingIndices[0] ?? currentStep.comparingIndices[0]].hex)

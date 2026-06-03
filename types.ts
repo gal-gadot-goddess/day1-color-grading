@@ -1,5 +1,5 @@
-export type AlgorithmType = 'BUBBLE' | 'INSERTION' | 'SELECTION' | 'QUICK' | 'MERGE' | 'HEAP' | 'COCKTAIL';
-export type ColorTheme = 'GREEN' | 'RAINBOW' | 'FIRE' | 'OCEAN';
+export type AlgorithmType = 'BUBBLE' | 'INSERTION' | 'SELECTION' | 'QUICK' | 'MERGE' | 'HEAP' | 'COCKTAIL' | 'GNOME' | 'SHELL' | 'COMB' | 'CYCLE' | 'ODDEVEN' | 'PANCAKE' | 'STOOGE' | 'RADIX' | 'TIM' | 'BOGO';
+export type ColorTheme = 'GREEN' | 'RAINBOW' | 'FIRE' | 'OCEAN' | 'RANDOM';
 export type VisualShape = 'BAR' | 'BUBBLE';
 
 export interface ColorItem {

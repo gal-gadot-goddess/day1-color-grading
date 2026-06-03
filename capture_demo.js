@@ -13,8 +13,10 @@ const FINAL_OUTPUT = './output_kreggscode.mp4';
     const SELECTED_ALGO = args[0] || 'HEAP';
     const SELECTED_THEME = args[1] || 'GREEN';
     const SELECTED_SIZE = args[2] || '24';
+    const SELECTED_SPEED = args[3] || '84';
+    const SELECTED_SHAPE = args[4] || 'BAR';
 
-    console.log(`🚀 Launching Capture Engine: [${SELECTED_ALGO}] [${SELECTED_THEME}]...`);
+    console.log(`🚀 Launching Capture Engine: [${SELECTED_ALGO}] [${SELECTED_THEME}] size=${SELECTED_SIZE} speed=${SELECTED_SPEED} shape=${SELECTED_SHAPE}...`);
     const browser = await puppeteer.launch({
         headless: "new",
         args: [
@@ -77,7 +79,7 @@ const FINAL_OUTPUT = './output_kreggscode.mp4';
     });
 
     console.log('📡 Navigating to Application...');
-    const url = `http://127.0.0.1:3001/?size=${SELECTED_SIZE}&speed=84&algorithm=${SELECTED_ALGO}&theme=${SELECTED_THEME}&shape=BAR&auto=false`;
+    const url = `http://127.0.0.1:3001/?size=${SELECTED_SIZE}&speed=${SELECTED_SPEED}&algorithm=${SELECTED_ALGO}&theme=${SELECTED_THEME}&shape=${SELECTED_SHAPE}&auto=false`;
 
     await page.goto(url, { waitUntil: 'networkidle2', timeout: 90000 });
     

@@ -131,5 +131,186 @@ export const ALGORITHM_DATA: Record<AlgorithmType, AlgorithmMetadata & { descrip
       "  }",
       "}"
     ]
+  },
+  GNOME: {
+    name: 'Gnome Sort',
+    description: 'A simple sorting algorithm that works by repeatedly swapping adjacent elements if they are in the wrong order, similar to insertion sort.',
+    timeComplexity: 'O(n²)',
+    spaceComplexity: 'O(1)',
+    code: [
+      "function gnomeSort(arr) {",
+      "  let pos = 0;",
+      "  while (pos < arr.length) {",
+      "    if (pos === 0 || arr[pos] >= arr[pos-1]) pos++;",
+      "    else { swap(arr, pos, pos-1); pos--; }",
+      "  }",
+      "}"
+    ]
+  },
+  SHELL: {
+    name: 'Shell Sort',
+    description: 'A generalization of insertion sort that allows the exchange of far-apart elements, using decreasing gaps to sort more efficiently.',
+    timeComplexity: 'O(n log² n)',
+    spaceComplexity: 'O(1)',
+    code: [
+      "function shellSort(arr) {",
+      "  for (let gap = n/2; gap > 0; gap /= 2) {",
+      "    for (let i = gap; i < n; i++) {",
+      "      let temp = arr[i], j = i;",
+      "      while (j >= gap && arr[j-gap] > temp) {",
+      "        arr[j] = arr[j-gap]; j -= gap;",
+      "      }",
+      "      arr[j] = temp;",
+      "    }",
+      "  }",
+      "}"
+    ]
+  },
+  COMB: {
+    name: 'Comb Sort',
+    description: 'An improved bubble sort that eliminates turtles by comparing elements with a decreasing gap, starting wide and narrowing.',
+    timeComplexity: 'O(n²/2^p)',
+    spaceComplexity: 'O(1)',
+    code: [
+      "function combSort(arr) {",
+      "  let gap = arr.length;",
+      "  let swapped = true;",
+      "  while (gap > 1 || swapped) {",
+      "    gap = max(1, floor(gap / 1.3));",
+      "    swapped = false;",
+      "    for (let i = 0; i + gap < n; i++) {",
+      "      if (arr[i] > arr[i+gap]) {",
+      "        swap(arr, i, i+gap); swapped = true;",
+      "      }",
+      "    }",
+      "  }",
+      "}"
+    ]
+  },
+  CYCLE: {
+    name: 'Cycle Sort',
+    description: 'An in-place sorting algorithm that minimizes memory writes by rotating cycles of misplaced elements.',
+    timeComplexity: 'O(n²)',
+    spaceComplexity: 'O(1)',
+    code: [
+      "function cycleSort(arr) {",
+      "  for (let start = 0; start < n-1; start++) {",
+      "    let item = arr[start], pos = start;",
+      "    for (let i = start+1; i < n; i++)",
+      "      if (arr[i] < item) pos++;",
+      "    if (pos === start) continue;",
+      "    swap(item, arr[pos]);",
+      "    while (pos !== start) {",
+      "      pos = start;",
+      "      for (let i = start+1; i < n; i++)",
+      "        if (arr[i] < item) pos++;",
+      "      swap(item, arr[pos]);",
+      "    }",
+      "  }",
+      "}"
+    ]
+  },
+  ODDEVEN: {
+    name: 'Odd-Even Sort',
+    description: 'A parallel-friendly sorting algorithm that alternates comparing odd-indexed and even-indexed adjacent pairs.',
+    timeComplexity: 'O(n²)',
+    spaceComplexity: 'O(1)',
+    code: [
+      "function oddEvenSort(arr) {",
+      "  let sorted = false;",
+      "  while (!sorted) {",
+      "    sorted = true;",
+      "    for (let i = 1; i < n-1; i += 2)",
+      "      if (arr[i] > arr[i+1]) { swap(arr, i, i+1); sorted = false; }",
+      "    for (let i = 0; i < n-1; i += 2)",
+      "      if (arr[i] > arr[i+1]) { swap(arr, i, i+1); sorted = false; }",
+      "  }",
+      "}"
+    ]
+  },
+  PANCAKE: {
+    name: 'Pancake Sort',
+    description: 'A sorting algorithm that uses only prefix reversals (flips), like flipping a stack of pancakes to the correct order.',
+    timeComplexity: 'O(n²)',
+    spaceComplexity: 'O(1)',
+    code: [
+      "function pancakeSort(arr) {",
+      "  for (let n = arr.length; n > 1; n--) {",
+      "    let max = 0;",
+      "    for (let i = 1; i < n; i++)",
+      "      if (arr[i] > arr[max]) max = i;",
+      "    if (max !== n-1) {",
+      "      flip(arr, 0, max);",
+      "      flip(arr, 0, n-1);",
+      "    }",
+      "  }",
+      "}"
+    ]
+  },
+  STOOGE: {
+    name: 'Stooge Sort',
+    description: 'A notoriously inefficient recursive sorting algorithm that sorts the first 2/3, last 2/3, then first 2/3 again.',
+    timeComplexity: 'O(n^2.7)',
+    spaceComplexity: 'O(n)',
+    code: [
+      "function stoogeSort(arr, l, r) {",
+      "  if (arr[l] > arr[r]) swap(arr, l, r);",
+      "  if (r - l + 1 > 2) {",
+      "    let t = floor((r - l + 1) / 3);",
+      "    stoogeSort(arr, l, r - t);",
+      "    stoogeSort(arr, l + t, r);",
+      "    stoogeSort(arr, l, r - t);",
+      "  }",
+      "}"
+    ]
+  },
+  RADIX: {
+    name: 'Radix Sort',
+    description: 'A non-comparative integer sort that processes digits individually, grouping elements by each digit position.',
+    timeComplexity: 'O(nk)',
+    spaceComplexity: 'O(n+k)',
+    code: [
+      "function radixSort(arr) {",
+      "  const max = maxValue(arr);",
+      "  for (let digit = 0; digit < digits(max); digit++) {",
+      "    const buckets = Array.from({length: 10}, () => []);",
+      "    for (const x of arr)",
+      "      buckets[digitAt(x, digit)].push(x);",
+      "    arr = [].concat(...buckets);",
+      "  }",
+      "}"
+    ]
+  },
+  TIM: {
+    name: 'Tim Sort',
+    description: 'A hybrid stable sorting algorithm derived from merge sort and insertion sort, used in Python and Java standard libraries.',
+    timeComplexity: 'O(n log n)',
+    spaceComplexity: 'O(n)',
+    code: [
+      "function timSort(arr) {",
+      "  const RUN = 32;",
+      "  for (let i = 0; i < n; i += RUN)",
+      "    insertionSort(arr, i, min(i+RUN-1, n-1));",
+      "  for (let s = RUN; s < n; s *= 2) {",
+      "    for (let l = 0; l < n; l += 2*s) {",
+      "      const m = l + s - 1, r = min(l + 2*s - 1, n-1);",
+      "      if (m < r) merge(arr, l, m, r);",
+      "    }",
+      "  }",
+      "}"
+    ]
+  },
+  BOGO: {
+    name: 'Bogo Sort',
+    description: 'A highly inefficient sorting algorithm that repeatedly shuffles the array until it happens to be sorted by chance.',
+    timeComplexity: 'O((n+1)!)',
+    spaceComplexity: 'O(1)',
+    code: [
+      "function bogoSort(arr) {",
+      "  while (!isSorted(arr)) {",
+      "    shuffle(arr);",
+      "  }",
+      "}"
+    ]
   }
 };
