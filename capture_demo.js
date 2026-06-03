@@ -104,9 +104,10 @@ const FINAL_OUTPUT = './output_kreggscode.mp4';
 
     console.log('⏳ Recording in progress...');
     await Promise.race([
-        page.waitForFunction(() => window.isSortingCompleted === true, { timeout: 60000 }),
-        new Promise(r => setTimeout(r, 60000))
+        page.waitForFunction(() => window.isSortingCompleted === true, { timeout: 90000 }).catch(() => {}),
+        new Promise(r => setTimeout(r, 75000))
     ]);
+    console.log('⏳ Capture complete or timed out.');
 
     await new Promise(r => setTimeout(r, 2000));
 
