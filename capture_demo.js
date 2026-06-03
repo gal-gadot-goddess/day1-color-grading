@@ -103,10 +103,12 @@ const FINAL_OUTPUT = './output_kreggscode.mp4';
     await page.evaluate(() => window.startSorting());
 
     console.log('⏳ Recording in progress...');
-    await page.waitForFunction(() => window.isSortingCompleted === true, { timeout: 300000 });
+    await Promise.race([
+        page.waitForFunction(() => window.isSortingCompleted === true, { timeout: 60000 }),
+        new Promise(r => setTimeout(r, 60000))
+    ]);
 
-    // Extra buffer for finish sound
-    await new Promise(r => setTimeout(r, 3000));
+    await new Promise(r => setTimeout(r, 2000));
 
     console.log('✨ Sort finished. Capturing finale...');
 
