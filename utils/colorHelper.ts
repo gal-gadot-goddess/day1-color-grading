@@ -17,20 +17,24 @@ export const generateThemeArray = (count: number, theme: ColorTheme): ColorItem[
 
     switch (theme) {
       case 'GREEN':
-        // Wide lightness range (5% to 85%) for maximum visual sorting clarity
         hex = `hsl(120, ${saturation}%, ${5 + (val * 85)}%)`;
         break;
       case 'RAINBOW':
         hex = `hsl(${val * 360}, ${saturation}%, 50%)`;
         break;
       case 'FIRE':
-        // Red to Yellow
         hex = `hsl(${val * 60}, 100%, 50%)`;
         break;
       case 'OCEAN':
-        // Blue to Cyan/Purple
         hex = `hsl(${180 + (val * 60)}, 100%, ${30 + (val * 50)}%)`;
         break;
+      case 'RANDOM': {
+        const h = Math.floor(Math.random() * 360);
+        const s = 80 + Math.floor(Math.random() * 20);
+        const l = 30 + Math.floor(Math.random() * 50);
+        hex = `hsl(${h}, ${s}%, ${l}%)`;
+        break;
+      }
     }
 
     return {
