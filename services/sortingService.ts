@@ -223,3 +223,242 @@ export function* cocktailShakerSort(array: ColorItem[]): Generator<SortStep> {
     yield { array: [...arr], comparingIndices: [], swappingIndices: [], activeIndices: [], currentLine: 17 };
   }
 }
+
+export function* gnomeSort(array: ColorItem[]): Generator<SortStep> {
+  const arr = [...array];
+  let pos = 0;
+  while (pos < arr.length) {
+    yield { array: [...arr], comparingIndices: [pos], swappingIndices: [], activeIndices: [], currentLine: 2 };
+    if (pos === 0 || arr[pos].value >= arr[pos - 1].value) {
+      pos++;
+    } else {
+      [arr[pos], arr[pos - 1]] = [arr[pos - 1], arr[pos]];
+      yield { array: [...arr], comparingIndices: [], swappingIndices: [pos, pos - 1], activeIndices: [], currentLine: 4 };
+      pos--;
+    }
+  }
+}
+
+export function* shellSort(array: ColorItem[]): Generator<SortStep> {
+  const arr = [...array];
+  let gap = Math.floor(arr.length / 2);
+  while (gap > 0) {
+    yield { array: [...arr], comparingIndices: [], swappingIndices: [], activeIndices: [], currentLine: 2 };
+    for (let i = gap; i < arr.length; i++) {
+      let temp = arr[i];
+      let j = i;
+      yield { array: [...arr], comparingIndices: [j], swappingIndices: [], activeIndices: [], currentLine: 3 };
+      while (j >= gap && arr[j - gap].value > temp.value) {
+        arr[j] = arr[j - gap];
+        yield { array: [...arr], comparingIndices: [], swappingIndices: [j, j - gap], activeIndices: [], currentLine: 5 };
+        j -= gap;
+      }
+      arr[j] = temp;
+      yield { array: [...arr], comparingIndices: [], swappingIndices: [j], activeIndices: [], currentLine: 7 };
+    }
+    gap = Math.floor(gap / 2);
+  }
+}
+
+export function* combSort(array: ColorItem[]): Generator<SortStep> {
+  const arr = [...array];
+  let gap = arr.length;
+  let swapped = true;
+  while (gap > 1 || swapped) {
+    gap = Math.max(1, Math.floor(gap / 1.3));
+    swapped = false;
+    yield { array: [...arr], comparingIndices: [], swappingIndices: [], activeIndices: [], currentLine: 2 };
+    for (let i = 0; i + gap < arr.length; i++) {
+      yield { array: [...arr], comparingIndices: [i, i + gap], swappingIndices: [], activeIndices: [], currentLine: 3 };
+      if (arr[i].value > arr[i + gap].value) {
+        [arr[i], arr[i + gap]] = [arr[i + gap], arr[i]];
+        yield { array: [...arr], comparingIndices: [], swappingIndices: [i, i + gap], activeIndices: [], currentLine: 4 };
+        swapped = true;
+      }
+    }
+  }
+}
+
+export function* cycleSort(array: ColorItem[]): Generator<SortStep> {
+  const arr = [...array];
+  for (let cycleStart = 0; cycleStart < arr.length - 1; cycleStart++) {
+    let item = arr[cycleStart];
+    let pos = cycleStart;
+    yield { array: [...arr], comparingIndices: [cycleStart], swappingIndices: [], activeIndices: [], currentLine: 2 };
+    for (let i = cycleStart + 1; i < arr.length; i++) {
+      if (arr[i].value < item.value) pos++;
+    }
+    if (pos === cycleStart) continue;
+    while (item.value === arr[pos].value) pos++;
+    if (pos !== cycleStart) {
+      [item, arr[pos]] = [arr[pos], item];
+      yield { array: [...arr], comparingIndices: [], swappingIndices: [cycleStart, pos], activeIndices: [], currentLine: 7 };
+    }
+    while (pos !== cycleStart) {
+      pos = cycleStart;
+      for (let i = cycleStart + 1; i < arr.length; i++) {
+        if (arr[i].value < item.value) pos++;
+      }
+      while (item.value === arr[pos].value) pos++;
+      if (item.value !== arr[pos].value) {
+        [item, arr[pos]] = [arr[pos], item];
+        yield { array: [...arr], comparingIndices: [], swappingIndices: [cycleStart, pos], activeIndices: [], currentLine: 12 };
+      }
+    }
+  }
+}
+
+export function* oddEvenSort(array: ColorItem[]): Generator<SortStep> {
+  const arr = [...array];
+  let sorted = false;
+  while (!sorted) {
+    sorted = true;
+    for (let i = 1; i < arr.length - 1; i += 2) {
+      yield { array: [...arr], comparingIndices: [i, i + 1], swappingIndices: [], activeIndices: [], currentLine: 3 };
+      if (arr[i].value > arr[i + 1].value) {
+        [arr[i], arr[i + 1]] = [arr[i + 1], arr[i]];
+        sorted = false;
+        yield { array: [...arr], comparingIndices: [], swappingIndices: [i, i + 1], activeIndices: [], currentLine: 4 };
+      }
+    }
+    for (let i = 0; i < arr.length - 1; i += 2) {
+      yield { array: [...arr], comparingIndices: [i, i + 1], swappingIndices: [], activeIndices: [], currentLine: 7 };
+      if (arr[i].value > arr[i + 1].value) {
+        [arr[i], arr[i + 1]] = [arr[i + 1], arr[i]];
+        sorted = false;
+        yield { array: [...arr], comparingIndices: [], swappingIndices: [i, i + 1], activeIndices: [], currentLine: 8 };
+      }
+    }
+  }
+}
+
+export function* pancakeSort(array: ColorItem[]): Generator<SortStep> {
+  const arr = [...array];
+  for (let n = arr.length; n > 1; n--) {
+    let maxIdx = 0;
+    for (let i = 1; i < n; i++) {
+      yield { array: [...arr], comparingIndices: [i, maxIdx], swappingIndices: [], activeIndices: [], currentLine: 3 };
+      if (arr[i].value > arr[maxIdx].value) maxIdx = i;
+    }
+    if (maxIdx !== n - 1) {
+      let l = 0, r = maxIdx;
+      while (l < r) {
+        [arr[l], arr[r]] = [arr[r], arr[l]];
+        yield { array: [...arr], comparingIndices: [], swappingIndices: [l, r], activeIndices: [], currentLine: 6 };
+        l++; r--;
+      }
+      l = 0; r = n - 1;
+      while (l < r) {
+        [arr[l], arr[r]] = [arr[r], arr[l]];
+        yield { array: [...arr], comparingIndices: [], swappingIndices: [l, r], activeIndices: [], currentLine: 9 };
+        l++; r--;
+      }
+    }
+  }
+}
+
+export function* stoogeSort(array: ColorItem[]): Generator<SortStep> {
+  const arr = [...array];
+  yield* stoogeSortHelper(arr, 0, arr.length - 1);
+}
+
+function* stoogeSortHelper(arr: ColorItem[], l: number, r: number): Generator<SortStep> {
+  yield { array: [...arr], comparingIndices: [l, r], swappingIndices: [], activeIndices: [], currentLine: 2 };
+  if (arr[l].value > arr[r].value) {
+    [arr[l], arr[r]] = [arr[r], arr[l]];
+    yield { array: [...arr], comparingIndices: [], swappingIndices: [l, r], activeIndices: [], currentLine: 3 };
+  }
+  if (r - l + 1 > 2) {
+    const t = Math.floor((r - l + 1) / 3);
+    yield* stoogeSortHelper(arr, l, r - t);
+    yield* stoogeSortHelper(arr, l + t, r);
+    yield* stoogeSortHelper(arr, l, r - t);
+  }
+}
+
+export function* radixSort(array: ColorItem[]): Generator<SortStep> {
+  const arr = [...array];
+  const max = Math.max(...arr.map(x => x.value));
+  const maxDigits = Math.floor(Math.log10(max)) + 1;
+  for (let digit = 0; digit < maxDigits; digit++) {
+    const buckets: ColorItem[][] = Array.from({ length: 10 }, () => []);
+    yield { array: [...arr], comparingIndices: [], swappingIndices: [], activeIndices: [], currentLine: 2 };
+    for (let i = 0; i < arr.length; i++) {
+      const bucketIdx = Math.floor(arr[i].value / Math.pow(10, digit)) % 10;
+      buckets[bucketIdx].push(arr[i]);
+      yield { array: [...arr], comparingIndices: [i], swappingIndices: [], activeIndices: [], currentLine: 3 };
+    }
+    let idx = 0;
+    for (const bucket of buckets) {
+      for (const item of bucket) {
+        arr[idx] = item;
+        yield { array: [...arr], comparingIndices: [], swappingIndices: [idx], activeIndices: [], currentLine: 6 };
+        idx++;
+      }
+    }
+  }
+}
+
+export function* timSort(array: ColorItem[]): Generator<SortStep> {
+  const arr = [...array];
+  const RUN = 32;
+  for (let i = 0; i < arr.length; i += RUN) {
+    const end = Math.min(i + RUN - 1, arr.length - 1);
+    for (let j = i + 1; j <= end; j++) {
+      let key = arr[j];
+      let k = j - 1;
+      yield { array: [...arr], comparingIndices: [k, j], swappingIndices: [], activeIndices: [], currentLine: 3 };
+      while (k >= i && arr[k].value > key.value) {
+        arr[k + 1] = arr[k];
+        yield { array: [...arr], comparingIndices: [], swappingIndices: [k, k + 1], activeIndices: [], currentLine: 5 };
+        k--;
+      }
+      arr[k + 1] = key;
+    }
+  }
+  for (let size = RUN; size < arr.length; size *= 2) {
+    for (let left = 0; left < arr.length; left += 2 * size) {
+      const mid = Math.min(left + size - 1, arr.length - 1);
+      const right = Math.min(left + 2 * size - 1, arr.length - 1);
+      if (mid < right) {
+        yield* timMerge(arr, left, mid, right);
+      }
+    }
+  }
+}
+
+function* timMerge(arr: ColorItem[], l: number, m: number, r: number): Generator<SortStep> {
+  const L = arr.slice(l, m + 1);
+  const R = arr.slice(m + 1, r + 1);
+  let i = 0, j = 0, k = l;
+  while (i < L.length && j < R.length) {
+    yield { array: [...arr], comparingIndices: [k], swappingIndices: [], activeIndices: [], currentLine: 3 };
+    if (L[i].value <= R[j].value) {
+      arr[k] = L[i]; i++;
+    } else {
+      arr[k] = R[j]; j++;
+    }
+    yield { array: [...arr], comparingIndices: [], swappingIndices: [k], activeIndices: [], currentLine: 4 };
+    k++;
+  }
+  while (i < L.length) { arr[k] = L[i]; i++; k++; }
+  while (j < R.length) { arr[k] = R[j]; j++; k++; }
+}
+
+export function* bogoSort(array: ColorItem[]): Generator<SortStep> {
+  const arr = [...array];
+  function isSorted(a: ColorItem[]): boolean {
+    for (let i = 1; i < a.length; i++) {
+      if (a[i - 1].value > a[i].value) return false;
+    }
+    return true;
+  }
+  while (!isSorted(arr)) {
+    for (let i = arr.length - 1; i > 0; i--) {
+      const j = Math.floor(Math.random() * (i + 1));
+      [arr[i], arr[j]] = [arr[j], arr[i]];
+    }
+    yield { array: [...arr], comparingIndices: [], swappingIndices: [], activeIndices: [], currentLine: 2 };
+  }
+  yield { array: [...arr], comparingIndices: [], swappingIndices: [], activeIndices: [], currentLine: 4 };
+}
