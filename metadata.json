@@ -1,24 +1,24 @@
 {
-  "title": "🥞 Pancake Sort: The WACKIEST Way to Sort! (Visualized)",
-  "ig_caption": "Prepare for a FLIP! 🥞 Introducing Pancake Sort - the algorithm that's more fun than efficient. Watch arrays get sorted by flipping! 😂 #PancakeSort #Coding #Algorithm #Tech #DataStructures #Programming #ViralCoding",
-  "fb_caption": "Get ready for a mind-bending, array-flipping adventure! 🥞 We're diving deep into the quirky world of Pancake Sort, a sorting algorithm that's as entertaining as it is... well, not the fastest. 😂 Watch how we stack and flip our way to an ordered array! Is this the most absurd sorting method ever? Let us know what you think! 👇 #PancakeSort #CodingFun #AlgorithmExplained #ComputerScienceFacts #ProgrammingHumor #TechTrends #LearnSomethingNew",
-  "threads_caption": "Pancake Sort: Because sometimes, the most absurd solutions are the most memorable. 🥞 Watch us flip arrays into order... hilariously! #CodingHumor #AlgorithmAdventures",
-  "hashtags": "#coding #ai #tech #algorithms #datasructures #computerscience #programming #learncode #codinglife #techtrends #visualisation",
-  "yt_description": "Ever seen sorting algorithms that are just... boring? 🤔 Get ready for Pancake Sort! 🥞 We're flipping arrays like pancakes to get them in order. Watch this hilariously inefficient but surprisingly educational visualization!  \n\nThink you know sorting? Think again! We break down the logic, the flips, and why you'd *never* use this in production (but it's SO fun to watch! 😂).\n\n✨ What you'll learn:\n- The core concept of Pancake Sort 🥞\n- How the 'flip' operation works 🔄\n- A visual walkthrough of the algorithm in action 🎬\n- Why it's more of a quirky puzzle than a practical solution! 🧩\n\n#PancakeSort #Algorithm #DataStructures #ComputerScience #Coding #Programming #Tech #Visualizations #LearnToCode #FunnyCoding",
+  "title": "Heap Sort: The Tree-Shaped Sorting Algorithm That's NOT Binary Search!",
+  "ig_caption": "Heap Sort: The unsung hero of sorting! 🤯 Visualizing this tree-based marvel is mind-blowing. Watch how it rebuilds the heap for ultimate efficiency! 🚀 #HeapSort #Coding #DataStructures #Algorithm #TechTok",
+  "fb_caption": "🤯 Prepare to be amazed by Heap Sort! This isn't your average sorting algorithm. We're visualizing how it uses a heap (think a special tree!) to sort data in O(n log n) time. Perfect for developers looking to boost their algorithm knowledge. Click to watch the full breakdown! 👇 #HeapSort #AlgorithmVisualization #CodingTips #ComputerScienceFacts",
+  "threads_caption": "Heap Sort: It's not just a sort, it's a *structural* triumph! 🤯 Watch the magic unfold as we build and extract from the heap. O(n log n) efficiency unlocked! 🚀 #HeapSort #Algorithms",
+  "hashtags": "#coding #datascience #algorithms #computerscience #programming #tech #learncoding #softwareengineering #visualisation #sorting",
+  "yt_description": "Ever wondered how to sort data efficiently using a tree-like structure? 🌳 Enter Heap Sort! We're diving deep into this powerful sorting algorithm, breaking down how it works, its time complexity (O(n log n) 🚀), and why it's a must-know for any aspiring coder. Forget binary trees, this is all about the HEAP! Watch now and master Heap Sort! 💪 #DataStructures #Algorithms #CodingExplained",
   "yt_tags": [
-    "Pancake Sort",
-    "Sorting Algorithm",
+    "Heap Sort",
+    "Sorting Algorithms",
     "Data Structures",
     "Computer Science",
     "Algorithm Visualization",
-    "Coding Tutorial",
-    "Programming Explained",
-    "Funny Coding",
-    "Inefficient Algorithms",
+    "Programming",
+    "Code",
     "Learn to Code",
-    "Tech Education",
-    "Coding Humor"
+    "Big O Notation",
+    "O(n log n)",
+    "Coding Tutorial",
+    "Tech Explained"
   ],
-  "vk_title": "🥞 Сортировка блинами: Самый Странный Алгоритм Сортировки! (Визуализация)",
-  "vk_desc": "Вы когда-нибудь видели алгоритмы сортировки, которые просто... скучные? 🤔 Приготовьтесь к Сортировке блинами! 🥞 Мы переворачиваем массивы, как блины, чтобы привести их в порядок. Смотрите эту уморительно неэффективную, но удивительно познавательную визуализацию! \n\nДумаете, вы знаете сортировку? Подумайте еще раз! Мы разбираем логику, перевороты и почему вы *никогда* не будете использовать это на практике (но смотреть на это так весело! 😂).\n\n✨ Что вы узнаете:\n- Основная концепция Сортировки блинами 🥞\n- Как работает операция 'переворот' 🔄\n- Визуальный разбор алгоритма в действии 🎬\n- Почему это скорее причудливая головоломка, чем практическое решение! 🧩\n\n#СортировкаБлинами #Алгоритмы #СтруктурыДанных #КомпьютерныеНауки #Программирование #ВизуализацияКода #Технологии #ОбучениеКоду #СмешнойКод"
+  "vk_title": "Визуализация Сортировки Кучей (Heap Sort)",
+  "vk_desc": "Изучаем один из самых эффективных алгоритмов сортировки — Сортировку Кучей (Heap Sort)! 🌳 Разбираем, как работает эта древовидная структура и почему её сложность O(n log n) делает её идеальной для больших данных. Смотрите наш полный разбор! 👇 #СортировкаКучей #Алгоритмы #СтруктурыДанных"
 }
