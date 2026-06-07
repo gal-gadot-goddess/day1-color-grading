@@ -1,27 +1,22 @@
 {
-  "title": "Gnome Sort: The Simplest Sorting Algorithm? 🍄 Explained!",
-  "ig_caption": "Meet Gnome Sort! 🍄 The easiest sorting algorithm you'll ever see. Watch how this little guy tidies up arrays like magic! ✨ #GnomeSort #CodingMagic #Algorithm #DataStructures #LearnToCode #TechTok #ProgrammingHumor",
-  "fb_caption": "Is Gnome Sort the MOST intuitive sorting algorithm? 🤔 We think so! Join us for a visual breakdown of how this charmingly simple algorithm works. Perfect for anyone learning about sorting or just curious about the quirky side of computer science! 🍄 #GnomeSort #CodingEducation #AlgorithmExplained #ComputerScienceBasics #ProgrammingForBeginners #TechTutorial",
-  "threads_caption": "Gnome Sort: So simple, even a gnome can do it! 🍄 Watch it sort arrays with a single comparison and a step back. Wildly inefficient, ridiculously easy to grasp! 🔥",
-  "hashtags": "#coding #algorithm #gnomesort #computerscience #datascructures #learntocode #programming #tech #softwaredevelopment #visualgo",
-  "yt_description": "Ever wondered how sorting algorithms work? 🤔 Today, we're diving into Gnome Sort! It's incredibly simple, almost like a gnome tidying up its garden. 🌷 We'll visualize this quirky algorithm step-by-step, showing you exactly how it sorts arrays with its unique 'move back and compare' strategy. Perfect for beginners and anyone curious about the magic behind sorting! ✨\n\nWhat you'll learn:\n✅ Gnome Sort logic explained visually\n✅ Step-by-step sorting process\n✅ When (and when NOT) to use Gnome Sort\n✅ Its surprising simplicity!\n\n#GnomeSort #SortingAlgorithms #ComputerScience #DataStructures #Programming #LearnToCode #AlgorithmVisualization #CodingTutorial #TechExplained",
+  "title": "Odd-Even Sort: The Sorting Algorithm That's BOTH Simple & Surprisingly Fast! 🤯",
+  "ig_caption": "Unlocking the secrets of Odd-Even Sort! 🚀 This algorithm is deceptively simple yet packs a punch. Watch it in action! 👇",
+  "fb_caption": "Is Odd-Even Sort the hidden gem of sorting algorithms? 🤔 We break down its unique approach to ordering data with a super clear visualization. You won't believe how elegant this is! 👇 Click to learn more!",
+  "threads_caption": "Odd-Even Sort: So simple, it's genius. Watch how it sorts like a boss. 🤯 #CodingMagic",
+  "hashtags": "#coding #ai #tech #algorithms #datascience #computerscience #programming #softwaredevelopment #learntocode #odd evensort",
+  "yt_description": "Ever wondered how computers sort massive amounts of data? 🤔 Dive into the quirky world of Odd-Even Sort! 🧐 This visual explanation breaks down how this parallel sorting algorithm works, comparing adjacent elements on odd and even passes. See how it stacks up against other sorting methods in terms of efficiency and simplicity. Perfect for coding beginners and algorithm enthusiasts alike! ✨ \n\n#Algorithm #DataStructures #ComputerScience #Programming #LearnToCode #CodingTutorial #OddEvenSort #SortingAlgorithms #TechExplained",
   "yt_tags": [
-    "Gnome Sort",
-    "Sorting Algorithms",
+    "Odd-Even Sort",
+    "Sorting Algorithm",
     "Algorithm Visualization",
     "Computer Science",
     "Data Structures",
-    "Programming",
+    "Programming Tutorial",
+    "Coding Explained",
     "Learn to Code",
-    "Coding Tutorial",
-    "Beginner Programming",
-    "Simple Algorithms",
-    "Array Sorting",
-    "Tech Explained",
-    "Educational Coding",
-    "Code Visualization",
-    "Programming Concepts"
+    "Parallel Sorting",
+    "Algorithm Efficiency"
   ],
-  "vk_title": "Гном Сортировка: Алгоритм, Который По Силам Каждому! 🍄",
-  "vk_desc": "Откройте для себя один из самых простых алгоритмов сортировки - Сортировка Гнома! 🌷 Мы визуализируем его работу шаг за шагом, чтобы вы поняли, как этот 'гном' наводит порядок в массивах. Идеально для начинающих и всех, кто хочет разобраться в основах алгоритмов. ✨\n\n#ГномСортировка #АлгоритмыСортировки #КомпьютерныеНауки #СтруктурыДанных #Программирование #УчимКод #ВизуализацияАлгоритмов"
+  "vk_title": "Визуализация Сортировки По Нечетным и Четным Числам (Odd-Even Sort)",
+  "vk_desc": "Узнайте, как работает алгоритм сортировки по нечетным и четным числам! Простая и наглядная визуализация для понимания основ. Отличный старт для начинающих программистов. 💻 #программирование #алгоритмы #компьютерныенауки"
 }
