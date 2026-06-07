@@ -1,22 +1,26 @@
 {
-  "title": "Odd-Even Sort: The Sorting Algorithm That's BOTH Simple & Surprisingly Fast! 🤯",
-  "ig_caption": "Unlocking the secrets of Odd-Even Sort! 🚀 This algorithm is deceptively simple yet packs a punch. Watch it in action! 👇",
-  "fb_caption": "Is Odd-Even Sort the hidden gem of sorting algorithms? 🤔 We break down its unique approach to ordering data with a super clear visualization. You won't believe how elegant this is! 👇 Click to learn more!",
-  "threads_caption": "Odd-Even Sort: So simple, it's genius. Watch how it sorts like a boss. 🤯 #CodingMagic",
-  "hashtags": "#coding #ai #tech #algorithms #datascience #computerscience #programming #softwaredevelopment #learntocode #odd evensort",
-  "yt_description": "Ever wondered how computers sort massive amounts of data? 🤔 Dive into the quirky world of Odd-Even Sort! 🧐 This visual explanation breaks down how this parallel sorting algorithm works, comparing adjacent elements on odd and even passes. See how it stacks up against other sorting methods in terms of efficiency and simplicity. Perfect for coding beginners and algorithm enthusiasts alike! ✨ \n\n#Algorithm #DataStructures #ComputerScience #Programming #LearnToCode #CodingTutorial #OddEvenSort #SortingAlgorithms #TechExplained",
+  "title": "Radix Sort: The SECRET Algorithm That Sorts FASTER Than You Think! 🤯",
+  "ig_caption": "Radix Sort: More than just sorting, it's sorting with SUPERPOWERS! ⚡️ Watch our visualization and see how it works its magic!",
+  "fb_caption": "Mind. Blown. 🤯 Radix Sort is the sorting algorithm you've probably never heard of, but definitely need to know! Watch our visual explanation and see how it handles numbers with incredible speed and efficiency.  Are you ready to level up your coding game? 💪",
+  "threads_caption": "Radix Sort: If your sorting algorithm is slow, you're doing it wrong. 😉 See the speed difference! 👇",
+  "hashtags": "#coding #ai #tech #algorithims #radixsort #datascience #computerscience #programming #softwaredevelopment #techie",
+  "yt_description": "Ever wondered how sorting algorithms handle massive amounts of data efficiently? 🤔 Enter Radix Sort! ✨ In this video, we'll dive deep into the magic behind Radix Sort, visualizing its step-by-step process and revealing why it's a hidden gem in computer science. 💎 Prepare to have your mind blown by its elegance and speed! 🚀\n\n#RadixSort #Algorithm #DataStructures #ComputerScience #Programming #CodingTutorial #TechExplained #ViralCoding",
   "yt_tags": [
-    "Odd-Even Sort",
-    "Sorting Algorithm",
+    "Radix Sort",
     "Algorithm Visualization",
-    "Computer Science",
+    "Sorting Algorithms",
     "Data Structures",
-    "Programming Tutorial",
-    "Coding Explained",
+    "Computer Science",
+    "Programming",
+    "Coding Tutorial",
+    "Tech Explained",
+    "Big O Notation",
+    "Algorithm Analysis",
     "Learn to Code",
-    "Parallel Sorting",
-    "Algorithm Efficiency"
+    "Code Optimization",
+    "CS Fundamentals",
+    "Software Engineering"
   ],
-  "vk_title": "Визуализация Сортировки По Нечетным и Четным Числам (Odd-Even Sort)",
-  "vk_desc": "Узнайте, как работает алгоритм сортировки по нечетным и четным числам! Простая и наглядная визуализация для понимания основ. Отличный старт для начинающих программистов. 💻 #программирование #алгоритмы #компьютерныенауки"
+  "vk_title": "Радикс Сортировка: Секретный Алгоритм Скоростной Сортировки!",
+  "vk_desc": "Узнайте, как Ра́дикс Сортировка (Radix Sort) может сортировать данные гораздо быстрее, чем вы думаете! Визуализируем процесс шаг за шагом и объясняем её преимущества. 🚀 #программирование #алгоритмы #компьютерныенауки #сортировка"
 }
