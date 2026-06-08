@@ -1,24 +1,27 @@
 {
-  "title": "🔥 Pancake Sort: The Flippiest Way to Sort Your Data! 🥞 | Algorithm Explained",
-  "ig_caption": "Sorting your data one FLIP at a time! 🥞😂 Ever seen Pancake Sort? It's as wild as it sounds! Full breakdown on our channel. Link in bio! #PancakeSort #CodingLife #AlgoHumor #TechTok",
-  "fb_caption": "Ready for a sorting algorithm that's as fun as it is unusual? 🥞 Introducing Pancake Sort! We're breaking down this unique approach to ordering data with crystal-clear visualizations. Perfect for students and curious developers alike! What's the most surprising algorithm you've ever learned? Let us know in the comments! 👇\n\n#PancakeSort #AlgorithmExplained #ComputerScienceFacts #CodingCommunity #TechEducation",
-  "threads_caption": "Pancake Sort: It's not just for breakfast anymore. 🥞 Sort your arrays like you're stacking flapjacks. You won't believe how it works. (Spoiler: it's all about the flips!) 😉 #PancakeSort #CodingTricks",
-  "hashtags": "#coding #ai #tech #algorithms #datascience #computerscience #programming #softwaredevelopment #learntocode",
-  "yt_description": "Ever wondered how to sort things with a giant spatula? 🤔 Welcome to Pancake Sort! 🥞 We dive deep into this quirky sorting algorithm, explaining its mechanics and unique approach to ordering data. Perfect for coders, CS students, and anyone who loves a good algorithmic puzzle! 🤓\n\nWhat you'll learn:\n✅ The core concept of Pancake Sort\n✅ How the 'flip' operation works\n✅ Step-by-step visualization\n✅ Its time complexity and practical applications (or lack thereof 😉)\n\n#PancakeSort #Algorithms #DataStructures #ComputerScience #Coding #Programming #LearnToCode #TechExplained #ViralCoding",
+  "title": "Pancake Sort: The Flip-Tastic Sorting Algorithm You Won't Forget! 🥞✨",
+  "ig_caption": "Forget bubble sort, meet the algorithm that's ready to FLIP out! 🥞✨ Pancake Sort is here to make your data stack neat and tidy. Can you handle the flips? 😉 #PancakeSort #Coding #AlgorithmArt #DataStructures #CS #ProgrammingHumor #TechTok #LearnCoding #Viral",
+  "fb_caption": "Ever heard of sorting your data like a stack of pancakes? 🥞 Introducing Pancake Sort! We're breaking down this fun algorithm with mind-blowing visualizations. Watch how it works and impress your friends with your algorithmic prowess! 😉 Click to learn more! #PancakeSort #CodingFun #AlgorithmBreakdown #ComputerScienceEducation #LearnToCode #TechTuesday",
+  "threads_caption": "Pancake Sort: It's not just for breakfast anymore! 🥞 We're visualizing the craziest sorting algorithm that involves *flipping* your data. Get ready for some serious algorithmic acrobatics! #PancakeSort #CodingChallenge",
+  "hashtags": "#coding #algorithm #datascience #computerscience #programming #tech #learncode #codinglife #softwareengineering #visualisation #dev #developer",
+  "yt_description": "Ever wondered how to sort a stack of pancakes? 🤔 Meet Pancake Sort! We're diving deep into this quirky, yet surprisingly efficient, sorting algorithm. Watch as we visualize the 'flipping' mechanism and understand its time complexity in a fun, engaging way. Perfect for coding enthusiasts, students, and anyone curious about the magic behind sorting! 🚀\n\nWhat you'll learn:\n✅ The core concept of Pancake Sort\n✅ Step-by-step visualization of the flipping process\n✅ Time complexity analysis (O(n^2) beast!)\n✅ When this algorithm might actually be useful (yes, it has its niche!)\n\nDon't forget to LIKE, SUBSCRIBE, and hit that NOTIFICATION BELL for more awesome algorithm breakdowns! 🛎️\n\n#PancakeSort #Algorithm #DataStructures #ComputerScience #CodingTutorial #LearnToCode #Programming #Visualisation #TechExplained #ViralCoding",
   "yt_tags": [
     "Pancake Sort",
     "Sorting Algorithms",
-    "Algorithms Explained",
+    "Algorithm Visualization",
     "Computer Science",
     "Data Structures",
     "Coding Tutorial",
     "Programming",
-    "Algorithm Visualization",
     "Learn to Code",
-    "CS",
-    "Software Engineering",
-    "Tech"
+    "Tech Explained",
+    "Coding Tricks",
+    "O(n^2)",
+    "Educational",
+    "Viral Coding",
+    "Software Development",
+    "Dev Life"
   ],
-  "vk_title": "Сортировка Блинами: Самый Необычный Алгоритм Сортировки! 🥞",
-  "vk_desc": "Давайте разберем Сортировку Блинами (Pancake Sort) – один из самых нестандартных алгоритмов сортировки! 🥞 Мы покажем, как он работает, пошагово объясним логику и обсудим его особенности. Идеально для тех, кто изучает информатику и любит интересные задачи! ✨\n\n#алгоритмы #сортировка #информатика #программирование #PancakeSort"
+  "vk_title": "Сортировка Блинами: Забавный Алгоритм Сортировки 🥞",
+  "vk_desc": "Знакомьтесь с алгоритмом сортировки блинами! Мы наглядно покажем, как работает этот необычный метод сортировки данных с помощью 'переворотов'. Идеально для изучения информатики и программирования. 🚀 #СортировкаБлинами #Алгоритмы #Программирование #Информатика #Визуализация"
 }
