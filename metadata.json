@@ -1,27 +1,24 @@
 {
-  "title": "Stooge Sort: The ABSURDLY Inefficient Sorting Algorithm 🤯 (Can You Handle It?)",
-  "ig_caption": "🤯 You've seen Bubble Sort, Merge Sort... but have you met the legendary Stooge Sort? This algorithm is SO BAD it's good! 🤣 Watch the madness unfold and maybe, just maybe, appreciate your favorite sorting method a little more. 😉 #StoogeSort #CodingHumor #Algorithm #ComputerScience #ProgrammerLife #Tech",
-  "fb_caption": "Ever wondered what the *least* efficient sorting algorithm looks like? 🤔 Meet Stooge Sort! It's baffling, it's slow, and it's a masterclass in how NOT to sort. 😂 We've visualized this bizarre algorithm so you don't have to! Click to witness the comedic genius (or madness) of Stooge Sort. 👇 #StoogeSort #Coding #Algorithm #ComputerScience #ProgrammingHumor #TechEducation",
-  "threads_caption": "Stooge Sort: Proof that sometimes, the worst ideas are the most memorable. 😂 Let's see how many microseconds it takes for this gem to sort... hint: A LOT. ⏳ #Coding #Algorithm",
-  "hashtags": "#coding #algorithm #computerscience #programming #tech #stoogesort #learncode",
-  "yt_description": "Prepare to question EVERYTHING you thought you knew about sorting algorithms! 🤪 We're diving deep into the utterly ridiculous, hilariously slow, and surprisingly fascinating world of Stooge Sort. Watch as we visualize this bizarre algorithm that's guaranteed to make you appreciate Bubble Sort! 📉 Is it practical? Absolutely not. Is it educational? Surprisingly, yes! Learn why this algorithm exists (we're still not sure 😂) and marvel at its inefficiency. Perfect for coders looking for a laugh or a reminder of how far we've come! 🚀\n\n#StoogeSort #SortingAlgorithms #ComputerScience #AlgorithmVisualization #CodingHumor #LearnToCode #Programming #DataStructures #InefficientCode #WeirdTech",
+  "title": "🔥 Pancake Sort: The Flippiest Way to Sort Your Data! 🥞 | Algorithm Explained",
+  "ig_caption": "Sorting your data one FLIP at a time! 🥞😂 Ever seen Pancake Sort? It's as wild as it sounds! Full breakdown on our channel. Link in bio! #PancakeSort #CodingLife #AlgoHumor #TechTok",
+  "fb_caption": "Ready for a sorting algorithm that's as fun as it is unusual? 🥞 Introducing Pancake Sort! We're breaking down this unique approach to ordering data with crystal-clear visualizations. Perfect for students and curious developers alike! What's the most surprising algorithm you've ever learned? Let us know in the comments! 👇\n\n#PancakeSort #AlgorithmExplained #ComputerScienceFacts #CodingCommunity #TechEducation",
+  "threads_caption": "Pancake Sort: It's not just for breakfast anymore. 🥞 Sort your arrays like you're stacking flapjacks. You won't believe how it works. (Spoiler: it's all about the flips!) 😉 #PancakeSort #CodingTricks",
+  "hashtags": "#coding #ai #tech #algorithms #datascience #computerscience #programming #softwaredevelopment #learntocode",
+  "yt_description": "Ever wondered how to sort things with a giant spatula? 🤔 Welcome to Pancake Sort! 🥞 We dive deep into this quirky sorting algorithm, explaining its mechanics and unique approach to ordering data. Perfect for coders, CS students, and anyone who loves a good algorithmic puzzle! 🤓\n\nWhat you'll learn:\n✅ The core concept of Pancake Sort\n✅ How the 'flip' operation works\n✅ Step-by-step visualization\n✅ Its time complexity and practical applications (or lack thereof 😉)\n\n#PancakeSort #Algorithms #DataStructures #ComputerScience #Coding #Programming #LearnToCode #TechExplained #ViralCoding",
   "yt_tags": [
-    "Stooge Sort",
+    "Pancake Sort",
     "Sorting Algorithms",
-    "Algorithm Visualization",
+    "Algorithms Explained",
     "Computer Science",
-    "Programming",
     "Data Structures",
-    "Coding",
-    "Tutorial",
-    "Inefficient Algorithm",
-    "Funny Coding",
-    "Educational",
-    "Tech",
-    "Development",
+    "Coding Tutorial",
+    "Programming",
+    "Algorithm Visualization",
+    "Learn to Code",
+    "CS",
     "Software Engineering",
-    "Learn To Code"
+    "Tech"
   ],
-  "vk_title": "Сортировка Тупица: Самый Неэффективный Алгоритм в Истории! 🤣",
-  "vk_desc": "Привет, кодеры! Сегодня мы погружаемся в мир абсурда с алгоритмом 'Сортировка Тупица' (Stooge Sort). Приготовьтесь к медленному, нелогичному и до смешного неэффективному процессу сортировки. 🤔 Посмотрим, как этот монстр работает и почему он до сих пор существует. Обязательно к просмотру для всех, кто любит программирование и хороший юмор! 😂👍\n\n#программирование #алгоритмы #компьютерныенауки #stoogesort #обучениекоду #технологии #юмор"
+  "vk_title": "Сортировка Блинами: Самый Необычный Алгоритм Сортировки! 🥞",
+  "vk_desc": "Давайте разберем Сортировку Блинами (Pancake Sort) – один из самых нестандартных алгоритмов сортировки! 🥞 Мы покажем, как он работает, пошагово объясним логику и обсудим его особенности. Идеально для тех, кто изучает информатику и любит интересные задачи! ✨\n\n#алгоритмы #сортировка #информатика #программирование #PancakeSort"
 }
