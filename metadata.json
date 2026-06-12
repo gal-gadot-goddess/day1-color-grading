@@ -1,22 +1,22 @@
 {
-  "title": "Radix Sort: The Secret to Lightning-Fast Sorting You've Never Seen! ⚡️",
-  "ig_caption": "Forget bubble sort, this is RADIX SORT! 🤯 Visualizing the fastest way to sort numbers? You gotta see this! 🚀 #CodingMagic #AlgorithmArt #TechTok",
-  "fb_caption": "Ever wondered if there's a sorting algorithm that doesn't rely on comparing elements? Meet Radix Sort! We're breaking down this incredibly efficient algorithm with a visualization that will blow your mind. 🧠 Don't miss out on understanding the secrets behind lightning-fast sorting! #RadixSortExplained #AlgorithmDeepDive #CodingForBeginners #TechBreakthrough",
-  "threads_caption": "Radix Sort: It's not magic, it's math. Sorting faster than you thought possible. Watch this. 🤯",
-  "hashtags": "#coding #ai #tech #computerscience #algorithims #datasructures #programming #learntocode #softwareengineering #devlife",
-  "yt_description": "Tired of slow sorting algorithms? 🤔 Meet Radix Sort, the algorithm that sorts numbers (and strings!) by looking at digits, not just comparisons! 🤯 We're diving deep into how it works, its surprising efficiency, and why it's a game-changer in computer science.  Get ready for a mind-bending visualization that will make you rethink everything you know about sorting! 🚀 #RadixSort #Algorithm #DataStructures #ComputerScience #CodingTutorial #Programming #LearnToCode #TechExplained #ViralCoding",
+  "title": "Merge Sort Explained: The MOST ELEGANT Sorting Algorithm EVER? ✨🧠",
+  "ig_caption": "Merge Sort: Elegant, efficient, and a coding masterpiece! ✨ Watch it in action! 🌊 #MergeSortMagic #CodeGlowUp #AlgorithmArt",
+  "fb_caption": "Ever wondered how computers sort massive amounts of data with such grace? 🤔 Meet Merge Sort! We're breaking down this iconic algorithm visually. You won't want to miss this! 👇",
+  "threads_caption": "Merge Sort: Divide. Conquer. Sort. It's that simple (and that brilliant). 🤯 Who knew sorting could be this satisfying?",
+  "hashtags": "#coding #ai #tech #programming #computerscience #datastructures #algorithms",
+  "yt_description": "Dive into the magic of Merge Sort! 🌊 We'll visually break down how this divide-and-conquer sorcery sorts data like a dream. Perfect for understanding algorithms, preparing for tech interviews, or just satisfying your coding curiosity! 🚀 Get ready to be amazed by its efficiency and simplicity. #MergeSort #Algorithm #DataStructures #ComputerScience #CodingTutorial #Programming #LearnToCode #TechExplained #ViralCoding",
   "yt_tags": [
-    "Radix Sort",
-    "Sorting Algorithm",
+    "Merge Sort",
+    "Sorting Algorithms",
     "Data Structures",
     "Computer Science",
-    "Algorithm Visualization",
+    "Algorithms Explained",
     "Coding Tutorial",
-    "Programming",
-    "Fast Sorting",
-    "Big O Notation",
-    "In-depth Explanation"
+    "Programming Concepts",
+    "Tech Interview Prep",
+    "Divide and Conquer",
+    "Algorithm Visualization"
   ],
-  "vk_title": "Radix Sort: Ускоряем сортировку до предела! 🚀",
-  "vk_desc": "Забудьте о медленных алгоритмах! Радикcорт - это революция в сортировке чисел и строк. Визуализируем, как он работает, и почему он так быстр! 🤯 Погрузитесь в мир эффективных алгоритмов. #РадиксСорт #Алгоритмы #СтруктурыДанных #Программирование"
+  "vk_title": "Визуализация Сортировки Слиянием: Как это работает? 🧠",
+  "vk_desc": "Погрузитесь в мир алгоритмов с Сортировкой Слиянием! 🌊 Визуально разберем, как этот элегантный алгоритм сортирует данные. Идеально для изучения, подготовки к IT-собеседованиям и просто для любопытства! 🚀 #СортировкаСлиянием #Алгоритмы #СтруктурыДанных #КомпьютерныеНауки #Программирование"
 }
