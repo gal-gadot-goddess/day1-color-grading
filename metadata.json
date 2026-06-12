@@ -1,22 +1,27 @@
 {
-  "title": "Merge Sort Explained: The MOST ELEGANT Sorting Algorithm EVER? ✨🧠",
-  "ig_caption": "Merge Sort: Elegant, efficient, and a coding masterpiece! ✨ Watch it in action! 🌊 #MergeSortMagic #CodeGlowUp #AlgorithmArt",
-  "fb_caption": "Ever wondered how computers sort massive amounts of data with such grace? 🤔 Meet Merge Sort! We're breaking down this iconic algorithm visually. You won't want to miss this! 👇",
-  "threads_caption": "Merge Sort: Divide. Conquer. Sort. It's that simple (and that brilliant). 🤯 Who knew sorting could be this satisfying?",
-  "hashtags": "#coding #ai #tech #programming #computerscience #datastructures #algorithms",
-  "yt_description": "Dive into the magic of Merge Sort! 🌊 We'll visually break down how this divide-and-conquer sorcery sorts data like a dream. Perfect for understanding algorithms, preparing for tech interviews, or just satisfying your coding curiosity! 🚀 Get ready to be amazed by its efficiency and simplicity. #MergeSort #Algorithm #DataStructures #ComputerScience #CodingTutorial #Programming #LearnToCode #TechExplained #ViralCoding",
+  "title": "🤯 Quick Sort: The Algorithm That's FASTER Than You Think! (Visualized)",
+  "ig_caption": "Unlocking the speed of Quick Sort! 🚀 See how this incredible algorithm sorts data in a flash. 🔥 #coding #computerscience #algorithm",
+  "fb_caption": "Is Quick Sort the king of sorting algorithms? 🤔 See it in action with our captivating visualization! We break down its elegance and efficiency. Perfect for your next coding deep-dive! Watch now and level up your understanding. 🚀 #coding #algorithm #computerscience #programmingtutorial #learntocode",
+  "threads_caption": "Quick Sort: So fast, it's practically magic. ✨ We break down the visual sorcery. You won't believe how it works! 👇",
+  "hashtags": "#QuickSort #Algorithm #DataStructures #Coding #Programming #LearnToCode #Tech #ComputerScience #Dev",
+  "yt_description": "Ever wondered how sorting happens at lightning speed? ⚡️ Dive into the mesmerizing world of Quick Sort! We break down this powerful algorithm step-by-step with stunning visualizations, making complex concepts crystal clear. Perfect for aspiring developers and curious minds! 🚀\n\nIn this video, you'll learn:\n✅ The core idea behind Quick Sort\n✅ How pivot selection impacts performance\n✅ Visual walkthrough of the partitioning process\n✅ Why Quick Sort is a go-to for many applications\n\nDon't forget to LIKE, COMMENT with your sorting algorithm questions, and SUBSCRIBE for more mind-blowing tech and coding content! 👇\n\n#QuickSort #Algorithm #DataStructures #ComputerScience #CodingTutorial #LearnToCode #Programming",
   "yt_tags": [
-    "Merge Sort",
-    "Sorting Algorithms",
+    "Quick Sort",
+    "Algorithm Visualization",
     "Data Structures",
     "Computer Science",
-    "Algorithms Explained",
     "Coding Tutorial",
-    "Programming Concepts",
-    "Tech Interview Prep",
+    "Programming",
+    "Learn to Code",
+    "Software Engineering",
+    "Time Complexity",
     "Divide and Conquer",
-    "Algorithm Visualization"
+    "Sorting Algorithms",
+    "Code Explained",
+    "Tech Education",
+    "Developer Life",
+    "Fast Sorting"
   ],
-  "vk_title": "Визуализация Сортировки Слиянием: Как это работает? 🧠",
-  "vk_desc": "Погрузитесь в мир алгоритмов с Сортировкой Слиянием! 🌊 Визуально разберем, как этот элегантный алгоритм сортирует данные. Идеально для изучения, подготовки к IT-собеседованиям и просто для любопытства! 🚀 #СортировкаСлиянием #Алгоритмы #СтруктурыДанных #КомпьютерныеНауки #Программирование"
+  "vk_title": "🚀 Быстрая Сортировка: Алгоритм, Который Ускорит Ваш Код! (Визуализация)",
+  "vk_desc": "Погрузитесь в мир алгоритмов с визуализацией быстрой сортировки! ⚡️ Поймите, как работает один из самых эффективных способов сортировки данных, шаг за шагом. Идеально для начинающих программистов и всех, кто интересуется технологиями. 💻\n\n#программирование #алгоритмы #компьютерныенауки #быстраясортировка #обучениекоду"
 }
