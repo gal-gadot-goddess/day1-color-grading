@@ -1,27 +1,22 @@
 {
-  "title": "Shell Sort: The Secret Speed Hack Your Code NEEDS! 🤯 (Visualized)",
-  "ig_caption": "Shell Sort unlocked! 🚀 Ever wonder how to sort data *super* fast? This is your answer! Watch the magic happen. ✨ #codinghacks #algos #developers #techsecrets #fastcode",
-  "fb_caption": "🤯 Shell Sort: The Algorithm That Bridges the Gap! 🤯\n\nForget the slow-and-steady pace of basic sorts. Shell Sort introduces a 'gap' that allows elements to move further, faster! See this incredible optimization in action with our crystal-clear visualization. Perfect for anyone looking to understand advanced sorting techniques and boost their coding prowess. \n\nWhat's your favorite sorting algorithm? Let us know in the comments! 👇\n#ShellSortExplained #AlgorithmGeek #CodingTips #TechEducation #ProgrammingCommunity",
-  "threads_caption": "Shell Sort: It's like insertion sort, but with superpowers. Watch how it leaps through your data! ⚡️",
-  "hashtags": "#coding #ai #tech #algorithms #datascience #programming #computerscience #developers #learnprogramming #codinglife",
-  "yt_description": "Tired of slow sorting? 🤔 Discover Shell Sort, a powerful algorithm that's way more efficient than bubble or insertion sort! Watch its magic unfold with our unique visualization and understand WHY it's so fast. Perfect for learning, interviews, or just bragging rights! 😉\n\nIn this video, we'll cover:\n✨ What is Shell Sort?\n✨ How does it work (step-by-step visualization)?\n✨ Why is it better than simpler sorts?\n✨ Real-world applications & complexity\n\n#ShellSort #Algorithm #DataStructures #CodingTutorial #Programming #ComputerScience #LearnToCode #ViralCode",
+  "title": "Selection Sort: The MOST Intuitive Sorting Algorithm? (Visualized!)",
+  "ig_caption": "Selection Sort: So simple, it's genius! ✨ Watch it work its magic, one swap at a time. Can you guess the next step? 😉 #Coding #Algorithm #SelectionSort #TechTok #LearnToCode #CS",
+  "fb_caption": "Unlock the secrets of Selection Sort! 🔓 This algorithm is all about finding the smallest element and putting it in its rightful place. We've got a super clear visualization to show you exactly how it works, step-by-step. Perfect for anyone dipping their toes into coding or data structures! What sorting algorithm should we visualize next? Let us know below! 👇 #SelectionSort #Algorithm #CodingEducation #ComputerScienceExplained #LearnToProgram #Tech",
+  "threads_caption": "Selection Sort: Finding the smallest, one by one. It's the 'patient' sorter of the algorithm world. 😉 See the visual breakdown!",
+  "hashtags": "#coding #ai #tech #algorithms #computerscience #programming #datastrctures #visualizations",
+  "yt_description": "🚀 Ever wondered how computers sort things? Dive into the mesmerizing world of Selection Sort! 🤩 We break down this fundamental algorithm with crystal-clear visualizations, making complex concepts simple. See how it finds the smallest element and places it perfectly, step-by-step! Perfect for beginners and anyone curious about the magic behind sorting.\n\n✅ What you'll learn:\n- The core logic of Selection Sort\n- How it compares to other sorting methods (briefly!)\n- Why it's easy to understand\n- Real-world (simple) applications\n\nDon't forget to LIKE, SUBSCRIBE, and hit the BELL for more mind-bending algorithm visualizations! 🔔\n#SelectionSort #SortingAlgorithms #ComputerScience #LearnToCode #AlgorithmVisualization #CodingExplained #TechEducation #Programming",
   "yt_tags": [
-    "Shell Sort",
+    "Selection Sort",
+    "Sorting Algorithms",
     "Algorithm Visualization",
-    "Sorting Algorithm",
     "Computer Science",
+    "Learn to Code",
+    "Programming Tutorial",
     "Data Structures",
-    "Coding Tutorial",
-    "Programming Explained",
-    "How Shell Sort Works",
-    "Efficient Sorting",
-    "Interview Prep",
-    "Code Optimization",
-    "Algorithms Explained",
-    "Big O Notation",
-    "Gap Sequence",
-    "Insertion Sort"
+    "Coding Explained",
+    "Beginner Coding",
+    "Visual Coding"
   ],
-  "vk_title": "Сортировка Шелла: Визуализация и Секреты Скорости 🚀",
-  "vk_desc": "Узнайте, как работает сортировка Шелла! Более быстрый и эффективный алгоритм, чем простые методы. Пошаговая визуализация поможет понять его магию. Идеально для изучения, подготовки к собеседованиям и оптимизации кода. ✨ #СортировкаШелла #Алгоритмы #СтруктурыДанных #Программирование #Код"
+  "vk_title": "Визуализация Сортировки Выбором (Selection Sort): Пошаговое Объяснение",
+  "vk_desc": "Изучите алгоритм сортировки выбором (Selection Sort) с помощью наглядной визуализации! Поймите, как он находит минимальный элемент и перемещает его на нужное место. Идеально для начинающих программистов и всех, кто хочет разобраться в основах информатики. 💡 #СортировкаВыбором #Алгоритмы #Программирование #Информатика #ОбучениеКоду"
 }
