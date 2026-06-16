@@ -572,5 +572,12 @@
     "facebook_reel",
     "facebook_story",
     "vk"
+  ],
+  "bcfacec39e959dbb2345129e11b549fe": [
+    "instagram_reel",
+    "instagram_story",
+    "facebook_reel",
+    "facebook_story",
+    "vk"
   ]
 }

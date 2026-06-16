@@ -1,22 +1,27 @@
 {
-  "title": "Selection Sort: The MOST Intuitive Sorting Algorithm? (Visualized!)",
-  "ig_caption": "Selection Sort: So simple, it's genius! ✨ Watch it work its magic, one swap at a time. Can you guess the next step? 😉 #Coding #Algorithm #SelectionSort #TechTok #LearnToCode #CS",
-  "fb_caption": "Unlock the secrets of Selection Sort! 🔓 This algorithm is all about finding the smallest element and putting it in its rightful place. We've got a super clear visualization to show you exactly how it works, step-by-step. Perfect for anyone dipping their toes into coding or data structures! What sorting algorithm should we visualize next? Let us know below! 👇 #SelectionSort #Algorithm #CodingEducation #ComputerScienceExplained #LearnToProgram #Tech",
-  "threads_caption": "Selection Sort: Finding the smallest, one by one. It's the 'patient' sorter of the algorithm world. 😉 See the visual breakdown!",
-  "hashtags": "#coding #ai #tech #algorithms #computerscience #programming #datastrctures #visualizations",
-  "yt_description": "🚀 Ever wondered how computers sort things? Dive into the mesmerizing world of Selection Sort! 🤩 We break down this fundamental algorithm with crystal-clear visualizations, making complex concepts simple. See how it finds the smallest element and places it perfectly, step-by-step! Perfect for beginners and anyone curious about the magic behind sorting.\n\n✅ What you'll learn:\n- The core logic of Selection Sort\n- How it compares to other sorting methods (briefly!)\n- Why it's easy to understand\n- Real-world (simple) applications\n\nDon't forget to LIKE, SUBSCRIBE, and hit the BELL for more mind-bending algorithm visualizations! 🔔\n#SelectionSort #SortingAlgorithms #ComputerScience #LearnToCode #AlgorithmVisualization #CodingExplained #TechEducation #Programming",
+  "title": "Cycle Sort: The MOST 'Inefficient' Sorting Algorithm That's SECRETLY Genius? 🤯",
+  "ig_caption": "Cycle Sort: The algorithm that makes you rethink EVERYTHING about sorting. 🌀 Mind-blowing visualization coming your way! 🔥 #CycleSort #CodingGeek #AlgorithmArt #DataScience",
+  "fb_caption": "Prepare to be amazed! 🤩 We're demystifying Cycle Sort – a sorting algorithm with a twist! See its unique in-place magic unfold in our latest visualization. Is it the most underrated? Let us know what you think! 👇 #CycleSort #Algorithm #ComputerScienceEducation #CodingVlog #TechExplained",
+  "threads_caption": "Cycle Sort: The algorithm that's either a genius or a prank. You decide. 😉Visuals drop SOON!",
+  "hashtags": "#coding #ai #tech #algorithms #computerscience #programming #datascience #softwareengineering #learntocode #dataviz",
+  "yt_description": "Ever wondered about sorting algorithms that aren't the usual suspects? 🤔 Today, we dive DEEP into Cycle Sort! ✨ You'll be shocked by its unique approach to sorting in-place with minimal writes. We'll visualize how it works, its pros, cons, and why it's NOT as 'bad' as you might think! Perfect for anyone curious about the quirky corners of computer science. 🚀\n\n#CycleSort #AlgorithmExplained #DataStructures #ComputerScience #CodingTutorial #LearnToCode #Programming #InPlaceSort #UniqueAlgorithms #TechExplained",
   "yt_tags": [
-    "Selection Sort",
+    "Cycle Sort",
     "Sorting Algorithms",
-    "Algorithm Visualization",
-    "Computer Science",
-    "Learn to Code",
-    "Programming Tutorial",
     "Data Structures",
-    "Coding Explained",
-    "Beginner Coding",
-    "Visual Coding"
+    "Computer Science",
+    "Algorithm Visualization",
+    "Coding Tutorial",
+    "Programming",
+    "In-place Sorting",
+    "Time Complexity",
+    "Space Complexity",
+    "Learn to Code",
+    "Algorithm Explained",
+    "Tech",
+    "Software Engineering",
+    "Best Sorting Algorithm"
   ],
-  "vk_title": "Визуализация Сортировки Выбором (Selection Sort): Пошаговое Объяснение",
-  "vk_desc": "Изучите алгоритм сортировки выбором (Selection Sort) с помощью наглядной визуализации! Поймите, как он находит минимальный элемент и перемещает его на нужное место. Идеально для начинающих программистов и всех, кто хочет разобраться в основах информатики. 💡 #СортировкаВыбором #Алгоритмы #Программирование #Информатика #ОбучениеКоду"
+  "vk_title": "Сортировка циклом: Необычный алгоритм сортировки 🤯",
+  "vk_desc": "Разбираем алгоритм Сортировки циклом! Узнайте, как он работает, его преимущества и почему он так уникален. Отличная визуализация для понимания! 💡 #программирование #алгоритмы #компьютерныенауки #сортировка"
 }
