@@ -1,22 +1,27 @@
 {
-  "title": "🤯 Selection Sort: The Simplest Sorting Algorithm EXPLAINED (Visualized!)",
-  "ig_caption": "Selection Sort: So simple, yet so powerful! 💪 Watch how we find the smallest element and swap it into place, step-by-step! ✨ #CodeVis #AlgoArt #SelectionSortMagic",
-  "fb_caption": "Unlock the mystery of Selection Sort! 🔑 We're breaking down one of the most intuitive sorting algorithms with a killer visualization. See exactly how it finds the smallest element and places it correctly. Ready to level up your algorithm game? Watch now! 👇",
-  "threads_caption": "Selection Sort: Finding the minimum, one swap at a time. 🤏 It's the OG of simple sorts! #CodeBreakdown",
-  "hashtags": "#coding #ai #tech #algorithms #computerscience #datasructures #programming #learncode #codinglife #developers",
-  "yt_description": "Ever wondered how computers sort lists? 🤔 Dive into the world of Selection Sort! We break down this fundamental algorithm with a super clear, visual explanation that'll make your coding brain light up! ✨ Perfect for beginners and a great refresher for experienced devs. Watch now and master Selection Sort! 🚀\n\n#SelectionSort #Algorithms #DataStructures #ComputerScience #CodingTutorial #LearnToCode #Programming #TechExplained #VisualLearning",
+  "title": "🤯 QUICK SORT: The Insanely FAST Sorting Algorithm Explained VISUALLY! | Algorithmic Magic ✨",
+  "ig_caption": "🚀 Quick Sort: The SPEED DEMON of sorting! 🤯 Watch our visual breakdown and unlock the secrets of this algorithmic powerhouse. You won't believe how fast data can be sorted! ✨ #coding #algorithms #quicksort #datasructures #computerscience #programminglife #tech #learncoding",
+  "fb_caption": "🤯 Is this the FASTEST way to sort? 🤔 We're diving deep into Quick Sort with mind-blowing visualizations that demystify this essential algorithm! Watch how it partitions and conquers data. Click to learn and impress your tech friends! 👇 #QuickSort #AlgorithmVisualization #CodingForBeginners #ComputerScienceFacts #ProgrammingTips #LearnSomethingNew #TechExplained",
+  "threads_caption": "Quick Sort: It's not just fast, it's *algorithmically* fast. 🔥 See the visual magic unfold! Link in bio! #coding #algorithms #quicksort",
+  "hashtags": "#coding #ai #tech #algorithms #quicksort #datasructures #computerscience #programming #learntocode #techtrends",
+  "yt_description": "Ever wondered how super-fast sorting algorithms work? 🤔 Dive into the mesmerizing world of Quick Sort! 🚀 We'll break down this powerful divide-and-conquer technique with stunning visualizations that make complex concepts crystal clear. 💡 See how it partitions arrays and conquers data like a champ! Perfect for coders, CS students, and anyone curious about algorithmic efficiency. 📈\n\nIn this video, you'll learn:\n✅ The core idea behind Quick Sort\n✅ How partitioning works in detail\n✅ Its time complexity (best, average, worst cases)\n✅ Real-world applications\n\n#QuickSort #Algorithms #DataStructures #ComputerScience #CodingTutorial #Programming #LearnToCode #TechExplained #Visualization #CSExplained",
   "yt_tags": [
-    "Selection Sort",
+    "Quick Sort",
     "Sorting Algorithms",
-    "Algorithm Visualization",
-    "Computer Science Basics",
     "Data Structures",
-    "Learn Programming",
+    "Computer Science",
+    "Algorithms Explained",
     "Coding Tutorial",
-    "Beginner Coding",
-    "Algorithm Explained",
-    "How to Sort"
+    "Programming",
+    "Learn to Code",
+    "Algorithm Visualization",
+    "Divide and Conquer",
+    "Time Complexity",
+    "Big O Notation",
+    "CS Concepts",
+    "Tech Education",
+    "Software Development"
   ],
-  "vk_title": "Визуализация Сортировки Выбором: Пошаговое Объяснение",
-  "vk_desc": "Разбираем алгоритм Сортировки Выбором (Selection Sort) простыми словами и наглядными примерами! Идеально для начинающих программистов. Узнайте, как этот фундаментальный алгоритм работает шаг за шагом. Смотрите прямо сейчас! 🚀 #программирование #алгоритмы #сортировка #компьютерныенауки"
+  "vk_title": "🚀 Быстрая Сортировка: Визуальное Объяснение Алгоритма!",
+  "vk_desc": "Откройте для себя мир быстрой сортировки (Quick Sort) с помощью завораживающих визуализаций! ⚡️ Мы разберем этот мощный алгоритм 'разделяй и властвуй', чтобы вы поняли, как он работает и почему он так эффективен. Идеально для всех, кто изучает программирование и информатику! 💻 #программирование #алгоритмы #quicksort #структурыданных #компьютерныенауки #обучениекоду"
 }
