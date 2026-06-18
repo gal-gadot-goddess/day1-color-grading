@@ -1,27 +1,26 @@
 {
-  "title": "Tim Sort: The Unsung Hero of Sorting (Visually Explained!) 🤯",
-  "ig_caption": "Tim Sort: The secret sauce behind lightning-fast sorting! ⚡️ Watch our visualization and understand the magic. ✨ #CodeMagic #AlgorithmArt #SortingSecrets",
-  "fb_caption": "Forget everything you thought you knew about sorting! 🚀 Tim Sort is here to revolutionize your understanding. We've broken down this incredibly efficient algorithm with stunning visuals. Dive in and see how it works! 👇 #Coding #Algorithms #TechBreakthrough #LearnToCode #SoftwareEngineering",
-  "threads_caption": "Tim Sort: It's not just sorting, it's an art form. See why it's the king of efficiency! 👑 #AlgorithmKing",
-  "hashtags": "#coding #ai #tech #algorithm #computerscience #programming #datascience #softwaredevelopment #codinglife #learncoding #developer",
-  "yt_description": "Ever wondered how your favorite apps sort massive lists lightning fast? 🤔 Meet Tim Sort, the hybrid sorting algorithm that powers Python, Java, and more! We're diving deep into its ingenious merge and insertion sort magic with mind-blowing visualizations. 🚀 Get ready to see the data dance! ✨ #TimSort #Algorithm #ComputerScience #CodingExplained #DataStructures #Programming #Tech",
+  "title": "🤯 Cocktail Sort: The Algorithm That Shakes Up Your Data! (Visualized)",
+  "ig_caption": "This algorithm literally shuffles back and forth! 🤯 Watch Cocktail Sort in action and level up your coding game. #codingvibes #algos #tech #devlife",
+  "fb_caption": "Get ready for a sorting algorithm with a twist! 🍹 We're diving deep into Cocktail Sort, showing you how it cleverly sorts data by moving elements in both directions. Perfect for anyone looking to master sorting algorithms or just enjoy a cool visual! What other algorithms should we visualize next? Let us know in the comments! 👇",
+  "threads_caption": "Cocktail Sort: It's not just sorting, it's a *motion* 🍸 Watch the back-and-forth magic happen!",
+  "hashtags": "#coding #ai #tech #algorithms #computerscience #programming #datavisualization #learntocode #softwaredevelopment #codingchallenge #cocktailsort #bubblesort",
+  "yt_description": "Ever seen an algorithm do a little dance? 🕺 Prepare to be mesmerized by Cocktail Sort, also known as Bidirectional Bubble Sort! We're visualizing this unique sorting algorithm step-by-step, showing you exactly how it 'cocktails' your data into perfect order. Watch as it efficiently bubbles elements both forwards AND backwards! 🌊 Perfect for understanding sorting logic and a fun watch for any coder. \n\n#Coding #Algorithm #DataStructures #Programming #ComputerScience #CocktailSort #BubbleSort #Visualization #LearnToCode #TechExplained",
   "yt_tags": [
-    "Tim Sort",
+    "Cocktail Sort",
+    "Bidirectional Bubble Sort",
     "Sorting Algorithm",
     "Algorithm Visualization",
     "Computer Science",
     "Data Structures",
     "Programming Tutorial",
-    "Python Sorting",
-    "Java Sorting",
-    "Efficient Algorithms",
+    "Learn to Code",
     "Coding Explained",
-    "Tech Explained",
-    "Hybrid Algorithm",
-    "Merge Sort",
-    "Insertion Sort",
-    "Computational Complexity"
+    "Tech Animation",
+    "Efficient Sorting",
+    "Educational Coding",
+    "Bubble Sort vs Cocktail Sort",
+    "How Cocktail Sort Works"
   ],
-  "vk_title": "Tim Sort: Визуализация самого быстрого алгоритма сортировки!",
-  "vk_desc": "Разбираем Tim Sort – гибридный алгоритм, который лежит в основе многих языков программирования. Узнайте, как он работает, с помощью наглядных примеров и анимации! 🚀 #Программирование #Алгоритмы #TimSort #КомпьютерныеНауки"
+  "vk_title": "Сортировка коктейлем: Визуализация и объяснение",
+  "vk_desc": "Узнайте, как работает уникальный алгоритм сортировки 'Коктейль' (или двунаправленная сортировка пузырьком). Пошаговая визуализация и простое объяснение для программистов любого уровня. 🚀 #программирование #алгоритмы #компьютерныенауки #сортировка #обучениекоду"
 }
