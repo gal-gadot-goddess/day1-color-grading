@@ -1,25 +1,25 @@
 {
-  "title": "Comb Sort: The Sorting Algorithm That's NOT Bubble Sort! 🤯 (Visualization)",
-  "ig_caption": "Comb Sort is here to blow your mind! 💥 Faster than Bubble Sort, visually stunning. ✨ Watch it in action! #CombSort #Coding #Tech #Algorithm #DataScience",
-  "fb_caption": "Unlock the secrets of Comb Sort! 🗝️ This powerful sorting algorithm is a step up from Bubble Sort, and our latest visualization makes it crystal clear how it works. Perfect for students, developers, and anyone curious about the magic behind efficient data handling! ✨ Click to watch!",
-  "threads_caption": "Comb Sort: Because sometimes you just need to comb through the chaos a little faster. 😉",
-  "hashtags": "#coding #ai #tech #algorithms #datascience #computerscience #programming #dev #developer #softwaredevelopment #learncoding #codinglife #techtrends",
-  "yt_description": "Tired of slow sorting algorithms? 🤔 Meet Comb Sort! We're diving deep into how this fascinating algorithm works with a super cool, easy-to-understand visualization. Comb Sort improves on Bubble Sort by eliminating 'turtles' (small values near the end) using a shrinking gap. Watch as we visually sort data and uncover why it's faster! 🚀  #CombSort #SortingAlgorithms #DataStructures #ComputerScience #Programming #AlgorithmVisualization #CodingTutorial #LearnToCode",
+  "title": "Cycle Sort: The Mind-Bending Algorithm That RECYCLES Data! 🤯♻️",
+  "ig_caption": "Cycle Sort: Sorting smarter, not harder! 🧠♻️ Ever seen an algorithm that's *this* efficient at relocating elements? Prepare to be amazed! #CycleSort #CodingLife #AlgorithmGeek",
+  "fb_caption": "Prepare to have your mind blown by Cycle Sort! 🤯 This algorithm is a masterclass in efficiency, cleverly rearranging data by finding and resolving 'cycles'. It's perfect for scenarios where minimizing writes is key. Watch our visual breakdown and see why this elegant solution deserves a spot in your algorithmic toolkit! ✨ #CycleSort #Programming #AlgorithmsExplained #TechEducation",
+  "threads_caption": "Cycle Sort: It's like playing Tetris with your data, but way more efficient. Tetrisception!",
+  "hashtags": "#coding #ai #tech #Algorithm #DataScience #ComputerScience #LearnToCode #Programming #DevLife #TechTrends",
+  "yt_description": "Unlock the secrets of Cycle Sort! 🤫 This isn't your average sorting algorithm. We dive deep into how it ingeniously sorts elements by placing them in their correct positions, minimizing writes and making it super efficient for certain scenarios. Think of it as a data recycling plant! 🌿\n\nIn this video, you'll learn:\n✨ The core logic of Cycle Sort explained step-by-step.\n✨ Why it's optimal for arrays with many duplicate elements.\n✨ A visual breakdown of the cycle detection and rotation process.\n✨ When to use Cycle Sort over other sorting algorithms.\n\nDon't miss this one if you love elegant and efficient algorithms! #DataStructures #Algorithms #Programming",
   "yt_tags": [
-    "Comb Sort",
+    "Cycle Sort",
     "Sorting Algorithms",
-    "Data Structures",
-    "Computer Science",
     "Algorithm Visualization",
-    "Programming Tutorial",
+    "Computer Science",
+    "Data Structures",
+    "Programming",
+    "Coding",
+    "Tech Explained",
     "Learn to Code",
-    "Big O Notation",
-    "Time Complexity",
-    "Code Explanation",
-    "Best Sorting Algorithm",
-    "Algorithm Animation",
-    "Educational Coding"
+    "Algorithm Tutorial",
+    "Efficient Algorithms",
+    "Code Visualization",
+    "Interview Prep"
   ],
-  "vk_title": "Comb Sort: Визуализация и Объяснение Алгоритма Сортировки",
-  "vk_desc": "Узнайте, как работает алгоритм сортировки Comb Sort! Мы покажем наглядную визуализацию и объясним, почему он эффективнее Bubble Sort. Идеально для изучения структур данных и алгоритмов. 💻✨"
+  "vk_title": "Сортировка Циклами: Невероятная Оптимизация Данных! 🤯♻️",
+  "vk_desc": "Погрузитесь в мир Сортировки Циклами! 🤫 Это не просто алгоритм сортировки. Мы подробно расскажем, как он гениально размещает элементы на их правильных позициях, минимизируя операции записи и делая его чрезвычайно эффективным в определенных случаях. Представьте себе завод по переработке данных! 🌿\n\nВ этом видео вы узнаете:\n✨ Основную логику Сортировки Циклами, объясненную шаг за шагом.\n✨ Почему он оптимален для массивов с большим количеством повторяющихся элементов.\n✨ Визуальное представление процесса обнаружения циклов и вращения.\n✨ Когда использовать Сортировку Циклами вместо других алгоритмов сортировки.\n\nНе пропустите, если вам нравятся элегантные и эффективные алгоритмы! #СтруктурыДанных #Алгоритмы #Программирование #IT"
 }
