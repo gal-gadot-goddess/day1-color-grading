@@ -1,23 +1,27 @@
 {
-  "title": "🤯 Cocktail Sort: The Algorithm That Shakes Things Up! (Visualized)",
-  "ig_caption": "Cocktail Sort: Shaking up your data like a master mixologist! 🍹 Watch this bubbly algorithm dance its way to sorted perfection. ✨ #CodeMagic #AlgorithmArt #CocktailSort",
-  "fb_caption": "Ever heard of Cocktail Sort? 🍹 It's like Bubble Sort, but with extra flair, going both forwards AND backwards! ✨ Watch our latest visualization to see how this unique algorithm sorts your data. Perfect for anyone looking to understand sorting algorithms better! #CodingTutorial #AlgorithmGeek #TechEducation",
-  "threads_caption": "Cocktail Sort: It's not just a drink, it's a sorting algorithm that goes both ways! 🍹🔄 See how it shakes things up for your data. #CodeHumor #DevLife",
-  "hashtags": "#coding #algorithm #computerscience #datastrctures #programming #cocktailsort #tech #learncode #viralcode",
-  "yt_description": "Ever wondered how algorithms get their names? 🤔 Today, we're diving deep into the wild world of Cocktail Sort! 🍹 See how this bidirectional bubble sort bounces elements back and forth to get your data in order. Perfect for beginners and a fun refresher for seasoned devs! ✨\n\n🚀 What you'll learn:\n- How Cocktail Sort works step-by-step 🚶‍♂️🚶‍♀️\n- Its time and space complexity explained 📊\n- When to (and when NOT to) use it! 🚫✅\n\nDon't forget to LIKE, SUBSCRIBE, and hit that notification bell for more awesome algorithm visualizations! 🔔\n\n#CodingExplained #AlgorithmVisualizations #CocktailSort #DataStructures #ProgrammingTips #LearnToCode",
+  "title": "Gnome Sort: The CUTEST Sorting Algorithm You've NEVER Seen! 🍄✨",
+  "ig_caption": "Meet the Gnome Sort! 🍄 The most adorable & effective sorting algorithm you'll ever witness. See how this little guy sorts magic! ✨ #GnomeSort #Coding #Algorithm #Tech #Programming #DataStructures #LearnToCode",
+  "fb_caption": "Prepare to be charmed! 😍 We're diving into the whimsical world of Gnome Sort – a sorting algorithm that's as delightful as it is effective. Watch how this little algorithm tidies up data with its unique approach! \n\nPerfect for beginners and anyone who loves a good algorithm visualization. \n\nLet us know if you've ever used Gnome Sort before in the comments! 👇\n#GnomeSort #Algorithm #CodingHumor #TechEducation #ComputerScienceExplained #ProgrammingFun #DataStructures101 #ViralCode",
+  "threads_caption": "Gnome Sort: It's not just an algorithm, it's a whole vibe. 🍄 Watch the cutest sort in action! 👇",
+  "hashtags": "#coding #algorithm #datasructures #computerscience #programming #learntocode #tech #codinglife #algorithmvisualization #gnomesort #sortingalgorithm",
+  "yt_description": "Ever heard of Gnome Sort? It's like the adorable, slightly clumsy cousin of bubble sort! Watch as our little gnome sorts an array with simple steps, a hop, and a skip.  This algorithm is surprisingly effective and a joy to visualize! \n\nWhat's Gnome Sort?\nIt's a simple sorting algorithm, similar to insertion sort, but instead of moving an element to its proper place, it moves the element that is not in its proper place to its proper place. If it finds an element smaller than the previous one, it swaps them and moves back one step. If not, it moves forward. \n\nJoin us for more algorithmic adventures! Don't forget to LIKE, SUBSCRIBE, and hit the BELL for more coding magic! 🔔\n\n#GnomeSort #Algorithm #DataStructures #ComputerScience #CodingTutorial #LearnToCode #Programming #SortingAlgorithms #CuteCoding #TechEducation",
   "yt_tags": [
-    "Cocktail Sort",
+    "Gnome Sort",
+    "Sorting Algorithms",
     "Algorithm Visualization",
     "Data Structures",
-    "Sorting Algorithms",
     "Computer Science",
-    "Programming",
-    "Coding",
     "Learn to Code",
-    "Tech Explained",
-    "Bidirectional Bubble Sort",
-    "Algorithm Animation"
+    "Programming Tutorial",
+    "Coding Explained",
+    "Simple Sorting Algorithm",
+    "Cute Algorithm",
+    "Insertion Sort",
+    "Bubble Sort",
+    "Algorithm Animation",
+    "Educational Video",
+    "Tech Explained"
   ],
-  "vk_title": "Коктейльная Сортировка: Алгоритм, который встряхнет ваши данные! 🍹 (Визуализация)",
-  "vk_desc": "Представляем Коктейльную Сортировку! 🍹 Узнайте, как этот двунаправленный пузырек сортировки перемещает элементы туда и обратно, чтобы упорядочить ваши данные. Отличный старт для новичков и интересное напоминание для опытных разработчиков! ✨\n\nЧто вы узнаете:\n- Как работает Коктейльная Сортировка шаг за шагом 🚶‍♂️🚶‍♀️\n- Объяснение временной и пространственной сложности 📊\n- Когда ее использовать (и когда нет!) 🚫✅\n\n#программирование #алгоритмы #структурыданных #сортировка #компьютерныенауки #обучениекоду #визуализацияалгоритмов"
+  "vk_title": "Гном Сортировка: Самый Милый Алгоритм Сортировки, Который Вы Не Знали! 🍄✨",
+  "vk_desc": "Знаете ли вы про Сортировку Гнома? Это как очаровательный, немного неуклюжий родственник быстрой сортировки! Посмотрите, как наш маленький гном сортирует массив простыми шагами, прыжками и перебежками. Этот алгоритм удивительно эффективен и его приятно визуализировать!\n\nЧто такое Сортировка Гнома?\nЭто простой алгоритм сортировки, похожий на сортировку вставками, но вместо перемещения элемента на его правильное место, он перемещает элемент, который не находится на своем правильном месте, на его правильное место. Если он находит элемент меньше предыдущего, он меняет их местами и делает шаг назад. Если нет, он делает шаг вперед.\n\nПрисоединяйтесь к нам для новых алгоритмических приключений! Не забудьте ПОСТАВИТЬ ЛАЙК, ПОДПИСАТЬСЯ и нажать на КОЛОКОЛЬЧИК для еще большего количества магических кодов! 🔔\n\n#ГномСортировка #Алгоритмы #СтруктурыДанных #Информатика #УрокиКода #Программирование #АлгоритмыСортировки #МилыйКод #Технологии #Обучение"
 }
