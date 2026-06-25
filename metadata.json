@@ -1,25 +1,27 @@
 {
-  "title": "Gnome Sort: The LAZY Algorithm That Actually Works?! 🤯",
-  "ig_caption": "This is Gnome Sort. It's basically the 'just move it 'til it's right' approach to sorting. 😂 But hey, it works! Watch the magic unfold! ✨",
-  "fb_caption": "Is Gnome Sort the ultimate lazy coder's dream algorithm? 🤔 We're diving deep into this delightfully simple sorting method and visualizing its surprisingly effective process. Click to see how this little gnome gets the job done! 🧙‍♂️✨",
-  "threads_caption": "Gnome Sort: The algorithm that tidies up like a little wizard. No complex logic, just... moving things. 🪄 You'll be surprised how well it sorts!",
-  "hashtags": "#GnomeSort #Algorithm #Coding #ComputerScience #ProgrammingHumor #TechTok #DevLife #LearnToCode #SimpleCode",
-  "yt_description": "Ever wondered about the simplest sorting algorithms? Meet Gnome Sort! 🧙‍♂️ It's surprisingly effective and incredibly easy to understand. Join us as we visualize this quirky algorithm in action, breaking down its step-by-step process. Perfect for beginners and anyone curious about the magic behind sorting! ✨\n\n#GnomeSort #SortingAlgorithms #ComputerScience #Programming #LearnToCode #AlgorithmVisualization #CodingTutorial #TechExplained #BeginnerCoding",
+  "title": "BOGO SORT: The WORST Way to Sort? 🤯 (Weird Algorithm Explained!)",
+  "ig_caption": "Bogo Sort: The algorithm that relies on pure LUCK! 🍀 Watch this chaotic mess unfold. You won't believe it. 🤯 #Coding #Algorithm #BogoSort #TechHumor #ProgrammingFails",
+  "fb_caption": "Ever heard of Bogo Sort? 😅 It's the algorithm that sorts by randomly shuffling elements until they're in the right order. Does it work? Eventually... maybe. 😂 Watch the madness and learn why this is the ultimate 'don't do this' in coding! #BogoSort #Algorithm #Coding #ComputerScience #ProgrammingHumor #TechFails #LearnToCode",
+  "threads_caption": "Bogo Sort: So bad, it's good? 🤔 Visualizing the ultimate 'hope and pray' sorting algorithm.",
+  "hashtags": "#coding #algorithm #bogo #sort #computerscience #programming #tech #viral #funny #education #developer #software #datasciece",
+  "yt_description": "Prepare for algorithmic absurdity! 😂 Today, we're diving into Bogo Sort, also known as permutation sort or shotgun sort. It's the algorithm that proves 'random chance' is NOT a strategy. Watch as we visualize this hilariously inefficient sorting method and understand WHY it's a programmer's nightmare (and a comedian's dream!). Perfect for anyone curious about how *not* to code!\n\n#BogoSort #Algorithm #CodingFails #ComputerScience #Programming #WorstAlgorithm #WeirdTech #LearnToCode #TechExplained #DataStructures",
   "yt_tags": [
-    "Gnome Sort",
-    "Sorting Algorithm",
+    "Bogo Sort",
     "Algorithm Visualization",
+    "Worst Algorithm",
+    "Coding",
     "Computer Science",
     "Programming",
-    "Coding Tutorial",
     "Data Structures",
-    "Beginner Coding",
-    "Easy Algorithm",
-    "Learn To Code",
+    "Inefficient Algorithm",
+    "Funny Coding",
     "Tech Explained",
-    "Funny Algorithm",
-    "Lazy Sort"
+    "Shotgun Sort",
+    "Permutation Sort",
+    "Coding Challenge",
+    "Software Development",
+    "Algorithm Tutorial"
   ],
-  "vk_title": "Сортировка Гнома: Простой алгоритм, который работает! 🤯",
-  "vk_desc": "Знакомьтесь с Сортировкой Гнома - одним из самых простых и понятных алгоритмов сортировки! 🧙‍♂️ Наглядно покажем, как он работает шаг за шагом. Отлично подходит для новичков в программировании и всех, кто хочет понять основы! ✨ #GnomeSort #Алгоритмы #Программирование #КомпьютерныеНауки #ВизуализацияАлгоритмов"
+  "vk_title": "Bogo Sort: Алгоритм, основанный на везении! 🤯 (Самый неэффективный способ сортировки?)",
+  "vk_desc": "Представляем вам Bogo Sort – алгоритм, который доказывает, что случайность – это не стратегия. Посмотрите, как выглядит этот хаотичный процесс сортировки и поймите, почему это кошмар программиста! Идеально для тех, кто хочет узнать, как НЕ надо программировать. 😂\n\n#BogoSort #Алгоритмы #Программирование #КомпьютерныеНауки #Технологии #Сортировка #НаихудшийАлгоритм #Юмор"
 }
