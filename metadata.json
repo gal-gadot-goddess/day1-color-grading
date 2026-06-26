@@ -1,26 +1,25 @@
 {
-  "title": "Comb Sort: The Algorithm That BEATS Bubble Sort! 🤯 (Visualized)",
-  "ig_caption": "Comb Sort: It's like Bubble Sort got a serious glow-up! ✨ Watch how this 'smart' algorithm crushes big data way faster. Visual explanation coming your way! 🚀 #CombSort #Sorting #CodingLife #Algo #TechTok",
-  "fb_caption": "Ever wondered how to sort data efficiently? 🤔 Comb Sort is here to save the day! It's a clever improvement on Bubble Sort that you NEED to see in action. Our latest video breaks down the visualization, explains the logic, and shows why it's a game-changer. Click to learn more and level up your coding skills! 💡 #CombSortAlgorithm #SortingMadeEasy #ProgrammingTips #ComputerScienceEducation #TechBreakthrough",
-  "threads_caption": "Comb Sort: The algorithm that finally put Bubble Sort out of its misery. See the visual magic unfold! 💥",
-  "hashtags": "#coding #ai #tech #algorithms #computerscience #programming #datascience #softwaredevelopment #learntocode #webdevelopment #machinelearning #developer #codingisfun #techtrends #viralsorting",
-  "yt_description": "Tired of slow sorting algorithms? 🐢 Meet Comb Sort, the ingenious evolution of Bubble Sort that eradicates 'turtles' and dramatically speeds up your data! 🚀 We're diving deep into a super cool visualization to show you EXACTLY how it works, why it's better, and when you should use it.  Get ready to sort like a pro! ✨\n\nWhat you'll learn:\n✅ The core idea behind Comb Sort\n✅ How the 'gap' shrinks and why it matters\n✅ Visual comparison: Comb Sort vs. Bubble Sort\n✅ Time complexity explained\n✅ Real-world applications\n\n#CombSort #SortingAlgorithms #DataStructures #ComputerScience #Programming #AlgorithmVisualization #LearnToCode #CodingTutorial #TechExplained #ViralCoding",
+  "title": "Cycle Sort: The MOST INSANE Sorting Algorithm You've Never Heard Of! 🤯",
+  "ig_caption": "Cycle Sort: The sorting algorithm that's secretly brilliant! 🤫 You won't BELIEVE how it works. Link in bio! #CycleSort #Coding #Algorithms #TechTok",
+  "fb_caption": "Mind. Blown. 🤯 We're breaking down Cycle Sort, the sorting algorithm that's pure genius.  It's like a puzzle, but for your code!  Click to see it in action and revolutionize your understanding of algorithms.  #CycleSort #CodingExplained #AlgorithmVisualization #TechInnovation #ProgrammingTips",
+  "threads_caption": "Cycle Sort: It's not just a sort, it's a REVELATION. Prepare to be amazed. Link in bio!",
+  "hashtags": "#coding #ai #tech #algorithms #computerscience #datascience #programming #softwaredevelopment #codinglife #learnprogramming #algorithsvisualized",
+  "yt_description": "Prepare to have your mind BLOWN! 💥 We're diving deep into the fascinating world of Cycle Sort, an algorithm so unique, it feels like magic. ✨ Watch as we visualize its quirky mechanics and discover why it's a must-know for any serious coder.  Perfect for understanding sorting algorithms, data structures, and optimizing your code! #CycleSort #AlgorithmExplained #CodingTricks #DataStructures #ComputerScience #ProgrammingHacks #LearnToCode",
   "yt_tags": [
-    "Comb Sort",
+    "Cycle Sort",
     "Sorting Algorithms",
+    "Algorithm Visualization",
     "Data Structures",
     "Computer Science",
     "Programming",
-    "Algorithm Visualization",
-    "Learn To Code",
     "Coding Tutorial",
-    "Tech Explained",
-    "Bubble Sort",
-    "Algorithm Efficiency",
-    "Code Breakdown",
-    "Software Engineering",
-    "Competitive Programming"
+    "Learn to Code",
+    "Algorithm Explained",
+    "Code Visualization",
+    "In-place Sorting",
+    "Optimal Sort",
+    "Unique Algorithms"
   ],
-  "vk_title": "Comb Sort: Визуализация и Сравнение с Bubble Sort",
-  "vk_desc": "Узнайте, как алгоритм Comb Sort работает и почему он значительно быстрее Bubble Sort! Наша детальная визуализация покажет вам весь процесс. Идеально для изучения структур данных и алгоритмов. 🚀 #CombSort #Алгоритмы #Программирование #СтруктурыДанных #CS #IT"
+  "vk_title": "Алгоритм Сортировки Циклами: Уникальный взгляд! 🔄",
+  "vk_desc": "Забудьте всё, что вы знали о сортировках! 🤯 Погрузитесь в визуализацию Алгоритма Сортировки Циклами (Cycle Sort) – одного из самых необычных и элегантных решений. Узнайте, как он работает, и почему его стоит знать каждому программисту! #CycleSort #Алгоритмы #Программирование #КомпьютерныеНауки"
 }
