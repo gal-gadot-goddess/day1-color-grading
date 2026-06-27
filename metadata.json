@@ -1,22 +1,24 @@
 {
-  "title": "Selection Sort: The SMARTEST Way to Sort? 🧠✨ (Algorithm Visualized!)",
-  "ig_caption": "Unlocking the secrets of Selection Sort! 🗝️ Watch this algorithm come to life and understand sorting like never before. Is it the smartest? You decide! 😉 #Coding #Algorithm #Tech #Programming #DataScience #LearnToCode #Dev",
-  "fb_caption": "Dive deep into the world of sorting with our crystal-clear visualization of Selection Sort! 💎 Understand its elegance and efficiency (or lack thereof in some cases 😉). Perfect for students and aspiring developers! Share this with your coding buddies! 👇",
-  "threads_caption": "Selection Sort: Simple, but is it SMART? 🤔 Watch our visual breakdown and level up your algorithm game! 🚀 #CodeNewbie #DevLife #AlgorithmExplainer",
-  "hashtags": "#coding #ai #tech #algorithms #computerscience #learnprogramming #datavisualization",
-  "yt_description": "Ever wondered how computers sort data efficiently? 🤔 Let's dive into Selection Sort! 🚀 We'll visualize this fundamental algorithm step-by-step, making it super easy to understand. See how it finds the smallest element and places it in its correct position, over and over. Perfect for beginners and a great refresher for experienced coders! 💡\n\n🔥 What you'll learn:\n✅ The core logic of Selection Sort\n✅ Visual step-by-step walkthrough\n✅ Time complexity explained (O(n^2))\n✅ When to use (and when NOT to use) Selection Sort\n\n#SelectionSort #DataStructures #Algorithms #CodingTutorial #ComputerScience #LearnToCode #Programming #VisualLearning #TechExplained #CS101",
+  "title": "Gnome Sort: The Easiest Sorting Algorithm? (You Won't BELIEVE It!)",
+  "ig_caption": "This algorithm is pure wizardry! 🧙‍♂️ Gnome Sort visualized - so simple, it's genius.  Can you follow its journey? #GnomeSortMagic #CodeArt #AlgorithmGeek",
+  "fb_caption": "Ever heard of Gnome Sort? 🤔 This sorting algorithm is like a little dance! We've got the coolest visualization that makes understanding it a breeze. Hit play and see why it's surprisingly effective! 🚀 #GnomeSort #CodingMadeEasy #AlgorithmVisuals #TechEducation #FutureOfCode",
+  "threads_caption": "Gnome Sort: So simple, even a garden gnome could code it. 🍄 Prepare to be charmed by this algorithm's elegance. #CodingHumor #AlgorithmPorn",
+  "hashtags": "#coding #ai #tech #algorithms #computerscience #gnomesort #datasructures #programming #learntocode #codingisfun #devlife #techtrends",
+  "yt_description": "🤯 Ever seen a sorting algorithm so simple, it's almost magical? ✨ Meet Gnome Sort! We break down this quirky and surprisingly effective algorithm step-by-step with mind-blowing visualizations. Is it the easiest? You decide! 🍄 #GnomeSort #Coding #Algorithms #DataStructures #ComputerScience #LearnToCode #Programming",
   "yt_tags": [
-    "Selection Sort",
-    "Algorithm Visualization",
-    "Data Structures",
-    "Computer Science",
-    "Coding Tutorial",
-    "Learn to Code",
-    "Programming",
+    "Gnome Sort",
     "Sorting Algorithms",
-    "Big O Notation",
-    "Time Complexity"
+    "Algorithm Visualization",
+    "Computer Science",
+    "Data Structures",
+    "Coding Tutorial",
+    "Programming",
+    "Easy Algorithms",
+    "Learn To Code",
+    "Dev Tips",
+    "Tech Explained",
+    "Viral Coding"
   ],
-  "vk_title": "Визуализация Сортировки Выбором: Легко и Понятно!",
-  "vk_desc": "Разбираемся с алгоритмом сортировки выбором (Selection Sort) шаг за шагом! 🚀 Наглядная визуализация поможет понять, как он работает и где его применять. Идеально для новичков в программировании и отличный способ освежить знания. 💡\n\n#Программирование #Алгоритмы #Сортировка #КомпьютерныеНауки #ОбучениеКоду"
+  "vk_title": "Гном Сортировка: Проще не бывает? Визуализация алгоритма!",
+  "vk_desc": "Удивительно простой, но эффективный алгоритм сортировки - Гном Сортировка! 🍄 Мы наглядно покажем, как он работает. Смотрите и удивляйтесь! #программирование #алгоритмы #компьютерныенауки #gnomesort"
 }
