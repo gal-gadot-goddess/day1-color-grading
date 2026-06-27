@@ -1,25 +1,22 @@
 {
-  "title": "Cycle Sort: The MOST INSANE Sorting Algorithm You've Never Heard Of! 🤯",
-  "ig_caption": "Cycle Sort: The sorting algorithm that's secretly brilliant! 🤫 You won't BELIEVE how it works. Link in bio! #CycleSort #Coding #Algorithms #TechTok",
-  "fb_caption": "Mind. Blown. 🤯 We're breaking down Cycle Sort, the sorting algorithm that's pure genius.  It's like a puzzle, but for your code!  Click to see it in action and revolutionize your understanding of algorithms.  #CycleSort #CodingExplained #AlgorithmVisualization #TechInnovation #ProgrammingTips",
-  "threads_caption": "Cycle Sort: It's not just a sort, it's a REVELATION. Prepare to be amazed. Link in bio!",
-  "hashtags": "#coding #ai #tech #algorithms #computerscience #datascience #programming #softwaredevelopment #codinglife #learnprogramming #algorithsvisualized",
-  "yt_description": "Prepare to have your mind BLOWN! 💥 We're diving deep into the fascinating world of Cycle Sort, an algorithm so unique, it feels like magic. ✨ Watch as we visualize its quirky mechanics and discover why it's a must-know for any serious coder.  Perfect for understanding sorting algorithms, data structures, and optimizing your code! #CycleSort #AlgorithmExplained #CodingTricks #DataStructures #ComputerScience #ProgrammingHacks #LearnToCode",
+  "title": "Selection Sort: The SMARTEST Way to Sort? 🧠✨ (Algorithm Visualized!)",
+  "ig_caption": "Unlocking the secrets of Selection Sort! 🗝️ Watch this algorithm come to life and understand sorting like never before. Is it the smartest? You decide! 😉 #Coding #Algorithm #Tech #Programming #DataScience #LearnToCode #Dev",
+  "fb_caption": "Dive deep into the world of sorting with our crystal-clear visualization of Selection Sort! 💎 Understand its elegance and efficiency (or lack thereof in some cases 😉). Perfect for students and aspiring developers! Share this with your coding buddies! 👇",
+  "threads_caption": "Selection Sort: Simple, but is it SMART? 🤔 Watch our visual breakdown and level up your algorithm game! 🚀 #CodeNewbie #DevLife #AlgorithmExplainer",
+  "hashtags": "#coding #ai #tech #algorithms #computerscience #learnprogramming #datavisualization",
+  "yt_description": "Ever wondered how computers sort data efficiently? 🤔 Let's dive into Selection Sort! 🚀 We'll visualize this fundamental algorithm step-by-step, making it super easy to understand. See how it finds the smallest element and places it in its correct position, over and over. Perfect for beginners and a great refresher for experienced coders! 💡\n\n🔥 What you'll learn:\n✅ The core logic of Selection Sort\n✅ Visual step-by-step walkthrough\n✅ Time complexity explained (O(n^2))\n✅ When to use (and when NOT to use) Selection Sort\n\n#SelectionSort #DataStructures #Algorithms #CodingTutorial #ComputerScience #LearnToCode #Programming #VisualLearning #TechExplained #CS101",
   "yt_tags": [
-    "Cycle Sort",
-    "Sorting Algorithms",
+    "Selection Sort",
     "Algorithm Visualization",
     "Data Structures",
     "Computer Science",
-    "Programming",
     "Coding Tutorial",
     "Learn to Code",
-    "Algorithm Explained",
-    "Code Visualization",
-    "In-place Sorting",
-    "Optimal Sort",
-    "Unique Algorithms"
+    "Programming",
+    "Sorting Algorithms",
+    "Big O Notation",
+    "Time Complexity"
   ],
-  "vk_title": "Алгоритм Сортировки Циклами: Уникальный взгляд! 🔄",
-  "vk_desc": "Забудьте всё, что вы знали о сортировках! 🤯 Погрузитесь в визуализацию Алгоритма Сортировки Циклами (Cycle Sort) – одного из самых необычных и элегантных решений. Узнайте, как он работает, и почему его стоит знать каждому программисту! #CycleSort #Алгоритмы #Программирование #КомпьютерныеНауки"
+  "vk_title": "Визуализация Сортировки Выбором: Легко и Понятно!",
+  "vk_desc": "Разбираемся с алгоритмом сортировки выбором (Selection Sort) шаг за шагом! 🚀 Наглядная визуализация поможет понять, как он работает и где его применять. Идеально для новичков в программировании и отличный способ освежить знания. 💡\n\n#Программирование #Алгоритмы #Сортировка #КомпьютерныеНауки #ОбучениеКоду"
 }
