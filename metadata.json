@@ -1,24 +1,27 @@
 {
-  "title": "🤯 Heap Sort: The Unsung Hero of Sorting (Visualized!)",
-  "ig_caption": "Heap Sort: Not your average sorting algorithm! 🌳✨ See the magic unfold in our latest visualization. Link in bio! #CodeArt #AlgorithmGlowUp",
-  "fb_caption": "Ever wondered what happens under the hood with Heap Sort? 🤔 We've got a mind-blowing visualization that breaks it all down! Perfect for anyone looking to master sorting algorithms. Click to see the magic! ✨ #HeapSortExplained #CodingVisuals #AlgorithmMastery #TechGeek",
-  "threads_caption": "Heap Sort: It's not just a sort, it's a structured rise. 🌲 Watch it happen.",
-  "hashtags": "#coding #ai #tech #algos #datascience #computerscience #programming #learntocode #softwaredevelopment #algorithmvisualization #heapsort",
-  "yt_description": "Dive deep into the mesmerizing world of Heap Sort! 🚀 Watch as we visually break down this powerful sorting algorithm, showing you exactly how it builds a heap and extracts elements one by one.  Perfect for coding students, aspiring developers, and anyone curious about the magic behind efficient sorting. ✨ Get ready to level up your algorithm game! #HeapSort #SortingAlgorithms #ComputerScience #DataStructures #CodingTutorial #LearnToCode #AlgorithmVisualization #Programming #TechEducation",
+  "title": "Gnome Sort: The Simplest (and Funniest?) Sorting Algorithm You'll Ever See! 🧚‍♀️✨",
+  "ig_caption": "Meet the Gnome! 🧚‍♀️ He's here to sort your life (and your arrays)!  Gnome Sort: simple, visual, and kinda hilarious. 😂 #GnomeSort #Coding #Algorithm #Tech #LearnToCode #DevLife #ComputerScience",
+  "fb_caption": "Move over, quicksort! There's a new sorting hero in town, and he's got a tiny hat! 🍄 Meet Gnome Sort – the algorithm that's as simple as it is effective.  Watch our visual breakdown and learn why this 'garden gnome' approach might just be your new favorite!  Click to see it in action! 👇\n\n#GnomeSort #Coding #Algorithm #ComputerScience #ProgrammingTutorial #LearnToCode #TechExplained #SoftwareEngineering",
+  "threads_caption": "Gnome Sort: It's like Bubble Sort had a baby with a fairy.  And it's oddly satisfying to watch. ✨ #GnomeSort #CodingHumor",
+  "hashtags": "#coding #ai #tech #algorithms #computerscience #programming #learntocode #datascructures #python #softwaredevelopment #devlife #codingisfun #gnomesort",
+  "yt_description": "Ever wondered how sorting algorithms work? Meet Gnome Sort, the algorithm that's as charming as it is surprisingly effective! Watch as our little gnome friend hops, trips, and sorts his way through an array.  Perfect for beginners and a fun refresher for seasoned coders!  We'll break down the logic step-by-step with clear visualizations.  \n\n🚀 What you'll learn:\n✅ How Gnome Sort works (the 'garden gnome' analogy!)\n✅ Time complexity (best, average, worst)\n✅ When and why you might (or might not!) use it\n✅ A super simple implementation in Python!\n\nDon't forget to LIKE, SUBSCRIBE, and hit the notification bell for more algorithm adventures! 🔔\n\n#GnomeSort #AlgorithmVisualization #CodingTutorial #ComputerScience #LearnToCode #DataStructures #Programming #SimpleAlgorithms",
   "yt_tags": [
-    "Heap Sort",
+    "Gnome Sort",
     "Sorting Algorithm",
     "Algorithm Visualization",
+    "Coding Tutorial",
     "Computer Science",
+    "Learn to Code",
     "Data Structures",
     "Programming",
-    "Coding Tutorial",
-    "Learn to Code",
-    "Big O Notation",
-    "Efficiency",
-    "In-Place Sorting",
-    "Tree Data Structure"
+    "Python",
+    "Simple Algorithms",
+    "Beginner Coding",
+    "Algorithm Explained",
+    "Coding Channel",
+    "Tech Education",
+    "Software Development"
   ],
-  "vk_title": "Визуализация Сортировки Кучей (Heap Sort)",
-  "vk_desc": "Погрузитесь в мир Алгоритма Сортировки Кучей (Heap Sort)! 🚀 Мы наглядно покажем, как строится куча и как извлекаются элементы. Идеально для студентов, разработчиков и всех, кто хочет понять основы эффективной сортировки. ✨ Улучшите свои знания в алгоритмах! #HeapSort #Сортировка #Алгоритмы #КомпьютерныеНауки #СтруктурыДанных #Программирование #ОбучениеКоду #ВизуализацияАлгоритмов #Технологии"
+  "vk_title": "Сортировка Гномом: Самый Простой и Забавный Алгоритм Сортировки! 🧚‍♀️",
+  "vk_desc": "Узнайте, как работает один из самых интуитивных алгоритмов сортировки – Сортировка Гномом!  Пошаговая визуализация и простой пример кода на Python. Идеально для начинающих!\n\n#СортировкаГномом #Алгоритмы #Программирование #Python #ComputerScience #ОбучениеКоду"
 }
