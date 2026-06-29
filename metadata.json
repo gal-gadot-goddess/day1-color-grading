@@ -1,24 +1,24 @@
 {
-  "title": "🚀 Odd-Even Sort: The Simplest Parallel Sort You'll EVER See! (Visualize it!)",
-  "ig_caption": "Unlocking the magic of Odd-Even Sort! ✨ This parallel sorting algorithm is SO intuitive, you'll want to code it immediately. See it come to life! 💡 #CodeViz #AlgorithmGeek #OddEvenSort #ProgrammingFun",
-  "fb_caption": "Prepare to be amazed by the simplicity and elegance of Odd-Even Sort! 🤩 We're breaking down this parallel sorting algorithm with stunning visuals that make it click. Perfect for anyone wanting to level up their algorithm game. Watch now and let us know what you think! 👇 #AlgorithmVisualization #CodingChallenge #TechExplained #OddEvenSort",
-  "threads_caption": "Odd-Even Sort: So simple, so visual. You gotta see this parallel magic! 🪄 #CodeBreakdown",
-  "hashtags": "#coding #ai #tech #algorithms #computerscience #programming #sort #datascience #developer",
-  "yt_description": "Ever wondered how sorting algorithms work under the hood? 🤔 Today, we're diving deep into the Odd-Even Sort! This surprisingly simple, yet effective parallel sorting algorithm is a breeze to visualize and understand. Perfect for budding coders and algorithm enthusiasts! 💻✨\n\nIn this video, you'll learn:\n✅ The core logic of Odd-Even Sort\n✅ How it achieves parallelism\n✅ Visualizations that make it crystal clear\n✅ Its advantages and disadvantages\n\nDon't miss out on this gem of an algorithm! Hit that like button 👍 and subscribe for more epic coding visualizations! 👇\n\n#Algorithm #DataStructures #Sorting #ComputerScience #Programming #LearnToCode #CodingTutorial #Visualizations #OddEvenSort #TechExplained",
+  "title": "Bogo Sort: The WORST Algorithm Ever? 🤯 (Why it's Hilariously BAD!)",
+  "ig_caption": "Bogo Sort: Where chaos meets code! 🤪 This 'algorithm' relies on pure luck. Think you can beat it? Probably not. 😅 #Coding #Algorithm #TechFail #ProgrammingLife",
+  "fb_caption": "Ever heard of Bogo Sort? 🤔 It's the 'algorithm' that shuffles your data randomly until, by sheer LUCK, it's sorted.  It's hilariously terrible and a brilliant lesson in what NOT to do! Watch our visualization and try not to laugh (or cry). 😂 #CodingHumor #AlgorithmVisualization #ComputerScienceFacts #TechEducation",
+  "threads_caption": "Bogo Sort: The only algorithm that proves 'randomness' can be terrifyingly unproductive. 🎲 What's your worst sorting algorithm experience?",
+  "hashtags": "#coding #ai #tech #computerscience #programming #algorithims #bogosort #funnycoding #learntocode",
+  "yt_description": "Prepare to question reality! 😂 We're diving deep into Bogo Sort, the algorithm so inefficient it makes waiting in line for coffee feel instantaneous. See why this 'try-it-and-see' approach to sorting is a coding disasterpiece and a must-know for understanding algorithm complexity.  Will it sort? Probably not in our lifetime. ⏳ #BogoSort #BadCode #CodingHumor",
   "yt_tags": [
-    "Odd-Even Sort",
-    "Sorting Algorithm",
-    "Parallel Sorting",
-    "Algorithm Visualization",
+    "Bogo Sort",
+    "Sorting Algorithms",
     "Computer Science",
-    "Data Structures",
-    "Programming Tutorial",
-    "Learn to Code",
+    "Algorithm Visualization",
+    "Worst Algorithm",
     "Coding Explained",
-    "Tech Education",
-    "Algorithm Explained",
-    "Simple Sort"
+    "Funny Coding",
+    "Programming",
+    "Data Structures",
+    "CS Theory",
+    "Hilarious Tech",
+    "Viral Coding"
   ],
-  "vk_title": "Визуализация Сортировки Нечет-Чет: Параллельный Алгоритм Объяснен!",
-  "vk_desc": "Разбираем алгоритм сортировки Нечет-Чет (Odd-Even Sort) шаг за шагом! Простая, но мощная параллельная сортировка, которую легко понять с помощью наглядных примеров. Идеально для изучения основ информатики и программирования. 🚀\n\n#программирование #алгоритмы #сортировка #информатика #обучение #разработка"
+  "vk_title": "Bogo Sort: Самый худший алгоритм сортировки? 🤯",
+  "vk_desc": "Погружаемся в мир Bogo Sort – алгоритма, который сортирует путём случайных перестановок. Узнайте, почему это катастрофа для программирования и почему его стоит знать каждому. Сможет ли он отсортировать? Скорее всего, нет. ⏳ #BogoSort #Алгоритмы #Программирование"
 }
