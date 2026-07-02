@@ -1,24 +1,22 @@
 {
-  "title": "Insertion Sort: The Algorithm That Learns As It Goes! 🧠✨ (Visualized)",
-  "ig_caption": "Mind-blown by Insertion Sort! 🤯 Watch it build sorted magic, one element at a time. ✨ #CodeFlow #AlgorithmArt",
-  "fb_caption": "Ever seen an algorithm get smarter as it goes? 👀 Meet Insertion Sort! This super intuitive algorithm builds a sorted list by picking elements one by one and inserting them into their right place. It's like organizing your bookshelf perfectly! 📚 Check out our visual breakdown and unlock a new level of understanding. #CodingMadeEasy #AlgorithmExplained #TechEducation #InsertionSortVisual",
-  "threads_caption": "Insertion Sort: It's not just sorting, it's *learning* on the fly. 🤓 Watch it assemble order from chaos, beautifully simple. 📈",
-  "hashtags": "#coding #ai #tech #algorithms #datascience #programming #computerscience #developer #webdevelopment #softwareengineering",
-  "yt_description": "Ever wondered how sorting algorithms actually WORK? 🤔 Dive into the mesmerizing world of Insertion Sort! We'll break down this intuitive algorithm step-by-step with stunning visualizations that make learning a breeze. Perfect for beginners and a great refresher for seasoned devs! 🚀 Watch how it inserts elements into their correct position, one by one, like building a sorted deck of cards! 🃏\n\n#InsertionSort #AlgorithmVisualization #ComputerScience #DataStructures #CodingTutorial #LearnToCode #ProgrammingExplained #TechTok #DevLife",
+  "title": "🤯 Selection Sort: The Simplest Sort? (Visualized!)",
+  "ig_caption": "Selection Sort: Brutally simple, visually satisfying! 🤩 Watch how we find the smallest, swap it, and repeat. Pure sorting magic! ✨ #CodeArt #AlgoGeek #TechExplained",
+  "fb_caption": "Ever felt lost in a sea of unsorted data? 🌊 Selection Sort is here to help! We're breaking down this fundamental algorithm with a clear, visual explanation. Perfect for anyone looking to understand the building blocks of computer science. Watch now and level up your coding knowledge! 💡",
+  "threads_caption": "Selection Sort: Simple to understand, but is it efficient? 🤔 Let's visualize the process and find out! 👇",
+  "hashtags": "#coding #ai #tech #algorithms #datascience #computerscience #programming #learncoding #techie #softwaredevelopment",
+  "yt_description": "Ever wondered how computers sort data? 🤔 Let's dive into Selection Sort, one of the most intuitive sorting algorithms! We'll visualize it step-by-step, making complex logic crystal clear. ✨ Perfect for beginners and a great refresher for seasoned coders. \n\n🚀 What you'll learn:\n- The core concept of Selection Sort\n- How it finds the minimum element\n- The swapping mechanism\n- When to (and when NOT to) use it\n\n#SelectionSort #SortingAlgorithms #DataStructures #ComputerScience #CodingTutorial #Programming #AlgorithmVisualization #LearnToCode",
   "yt_tags": [
-    "insertion sort",
-    "algorithm visualization",
-    "data structures",
-    "computer science",
-    "coding tutorial",
-    "learn to code",
-    "programming explained",
-    "sorting algorithms",
-    "python",
-    "javascript",
-    "java",
-    "code visualization"
+    "Selection Sort",
+    "Sorting Algorithms",
+    "Data Structures",
+    "Computer Science",
+    "Algorithm Visualization",
+    "Programming Tutorial",
+    "Coding Basics",
+    "How Sorting Works",
+    "Beginner Coding",
+    "Code Explained"
   ],
-  "vk_title": "Сортировка Вставками: Визуализация Алгоритма 💡",
-  "vk_desc": "Узнайте, как работает сортировка вставками, на наглядных примерах! Пошаговая визуализация, которая поможет понять этот элегантный алгоритм. Идеально для начинающих программистов! 💻✨ #программирование #алгоритмы #компьютерныенауки #сортировка"
+  "vk_title": "Визуализация Алгоритма Сортировки Выбором | Selection Sort Explained",
+  "vk_desc": "Разбираем алгоритм сортировки выбором (Selection Sort) шаг за шагом с наглядной визуализацией. Идеально для начинающих программистов и студентов! 💻✨ Узнайте, как работает один из самых простых методов сортировки данных."
 }
