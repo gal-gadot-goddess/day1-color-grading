@@ -1,25 +1,23 @@
 {
-  "title": "Heap Sort: The Ultimate Sorting Powerhouse Revealed! 🚀",
-  "ig_caption": "Heap Sort: It's not just sorting, it's organizing chaos into perfect order! 🤯 Watch the magic unfold! ✨ #HeapSort #AlgorithmArt #CodeMagic #DataStructures",
-  "fb_caption": "Ever wondered how some sorting algorithms are SO efficient? 🤔 Meet Heap Sort! We're visualizing its power to organize data like a well-built heap. Prepare to be amazed! ✨ Click to watch and level up your coding game! 🚀",
-  "threads_caption": "Heap Sort: Where efficiency meets elegance. Watch this algorithm build its own perfect structure to sort data. Mind. Blown. 🤯",
-  "hashtags": "#coding #ai #tech #algorithms #computerscience #datastructures #sorting #programming #developer #softwareengineering #learncode",
-  "yt_description": "Dive deep into the mesmerizing world of Heap Sort! ✨ Witness how this efficient sorting algorithm builds a binary heap and extracts elements one by one to achieve a sorted array.  Perfect for understanding data structures and algorithms for your next coding challenge or tech interview! 💻\n\nIn this video, you'll learn:\n✅ The core concepts of Heap Sort\n✅ How to build a max-heap\n✅ The step-by-step sorting process\n✅ Time and space complexity analysis\n\nDon't miss out on mastering this crucial sorting technique! Hit that like button, subscribe for more awesome algorithm breakdowns, and let us know in the comments what algorithm you want to see next! 👇\n\n#HeapSort #SortingAlgorithms #DataStructures #ComputerScience #AlgorithmVisualization #CodingTutorial #TechExplained #Programming",
+  "title": "Heap Sort: The Sorting Powerhouse You NEVER Knew You Needed! 🚀 (Visualized!)",
+  "ig_caption": "Heap Sort: It's not just sorting, it's ORDERING AS A SUPERPOWER! 💥 Witness the magic of this efficient algorithm visualized like never before.  Ready to level up your code game? 😉 #HeapSortMagic #CodeGems #AlgorithmArt #TechTok",
+  "fb_caption": "Is your data out of control? 🌪️ Master Heap Sort! We've created an epic visualization to show you exactly how this powerful algorithm works its magic.  From building the heap to extracting elements, we cover it all.  Prepare to be amazed by the efficiency! 👇",
+  "threads_caption": "Heap Sort: Building the perfect data 'heap' for lightning-fast sorting.  Think of it as organizing chaos with ultimate precision.  You gotta see this visualization! 🤯",
+  "hashtags": "#HeapSort #AlgorithmVisualization #DataStructures #ComputerScience #Coding #AI #Tech #Programming #LearnToCode #SoftwareDevelopment",
+  "yt_description": "🤯 Ever wondered how to sort data with lightning speed and impressive efficiency? Dive into the world of Heap Sort! 🌪️ We're breaking down this powerful sorting algorithm with a super clear, mind-blowing visualization.  Discover its 'heapify' magic and why it's a go-to for complex sorting tasks.  Perfect for students, developers, and anyone curious about the inner workings of algorithms!  ✨ #HeapSort #DataStructures #Algorithms #ComputerScience #CodingTutorial #Programming",
   "yt_tags": [
     "Heap Sort",
     "Sorting Algorithms",
     "Data Structures",
-    "Algorithm Visualization",
     "Computer Science",
-    "Coding Tutorial",
-    "Programming",
-    "Tech Explained",
-    "Efficiency",
-    "Complexity Analysis",
-    "Interview Prep",
-    "Learn to Code",
-    "Algorithm Explained"
+    "Algorithm Visualization",
+    "Programming Tutorial",
+    "Coding",
+    "Software Engineering",
+    "In-place sorting",
+    "Time Complexity",
+    "Big O Notation"
   ],
-  "vk_title": "Сортировка кучей: Вся мощь алгоритма в деталях! 🚀",
-  "vk_desc": "Погрузитесь в завораживающий мир сортировки кучей (Heap Sort)! ✨ Узнайте, как этот эффективный алгоритм строит бинарную кучу и извлекает элементы один за другим для получения отсортированного массива. Идеально для понимания структур данных и алгоритмов для вашего следующего кодинг-челленджа или технического собеседования! 💻\n\nВ этом видео вы узнаете:\n✅ Основные концепции сортировки кучей\n✅ Как построить максимальную кучу\n✅ Пошаговый процесс сортировки\n✅ Анализ временной и пространственной сложности\n\nНе пропустите возможность освоить эту важную технику сортировки! Ставьте лайк, подписывайтесь на новые разборы алгоритмов и напишите в комментариях, какой алгоритм вы хотите увидеть следующим! 👇"
+  "vk_title": "Визуализация Сортировки Кучей (Heap Sort): Быстро и Эффективно!",
+  "vk_desc": "🚀 Узнайте, как работает Heap Sort - один из самых мощных алгоритмов сортировки! Наглядная визуализация покажет вам всю магию 'кучи' и почему этот метод так эффективен. Идеально для студентов и программистов! 💻"
 }
