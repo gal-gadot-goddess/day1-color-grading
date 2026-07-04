@@ -1,23 +1,27 @@
 {
-  "title": "Heap Sort: The Sorting Powerhouse You NEVER Knew You Needed! 🚀 (Visualized!)",
-  "ig_caption": "Heap Sort: It's not just sorting, it's ORDERING AS A SUPERPOWER! 💥 Witness the magic of this efficient algorithm visualized like never before.  Ready to level up your code game? 😉 #HeapSortMagic #CodeGems #AlgorithmArt #TechTok",
-  "fb_caption": "Is your data out of control? 🌪️ Master Heap Sort! We've created an epic visualization to show you exactly how this powerful algorithm works its magic.  From building the heap to extracting elements, we cover it all.  Prepare to be amazed by the efficiency! 👇",
-  "threads_caption": "Heap Sort: Building the perfect data 'heap' for lightning-fast sorting.  Think of it as organizing chaos with ultimate precision.  You gotta see this visualization! 🤯",
-  "hashtags": "#HeapSort #AlgorithmVisualization #DataStructures #ComputerScience #Coding #AI #Tech #Programming #LearnToCode #SoftwareDevelopment",
-  "yt_description": "🤯 Ever wondered how to sort data with lightning speed and impressive efficiency? Dive into the world of Heap Sort! 🌪️ We're breaking down this powerful sorting algorithm with a super clear, mind-blowing visualization.  Discover its 'heapify' magic and why it's a go-to for complex sorting tasks.  Perfect for students, developers, and anyone curious about the inner workings of algorithms!  ✨ #HeapSort #DataStructures #Algorithms #ComputerScience #CodingTutorial #Programming",
+  "title": "🤯 QuickSort: The Algorithm That Breaks The Internet! (Visualized)",
+  "ig_caption": "This QuickSort visualization is WILD! 🤯 Watch one of the fastest sorting algorithms in the game. 🔥 You won't believe your eyes! 👀 #QuickSort #Coding #Algorithm #DataStructures #Tech",
+  "fb_caption": "Prepare to be amazed! ✨ We've created a jaw-dropping visualization of Quick Sort that breaks down this powerful algorithm like never before. See how it achieves incredible speed and efficiency. 🚀 Perfect for students and seasoned coders alike! Don't miss it! #QuickSort #Algorithm #CodingLife #TechTrends",
+  "threads_caption": "QuickSort: It's not just sorting, it's an ART. 🎨 Watch this visualization and prepare to have your mind blown. 💥 #QuickSortExplained",
+  "hashtags": "#coding #ai #tech #computerscience #algorithm #datascience #programming #developer",
+  "yt_description": "🚀 Ever wondered how massive datasets get sorted lightning fast? 🤔 Dive into the mesmerizing world of Quick Sort! We're breaking down this legendary algorithm with a mind-blowing visualization that will leave you speechless. 🤯\n\n🔥 From choosing pivots to the final sorted array, see Quick Sort in ACTION! Learn why it's a favorite for developers and how it conquers sorting challenges with elegance and speed. ⚡\n\n✅ Perfect for coders, students, and anyone curious about the magic behind efficient data sorting.\n\n#QuickSort #Algorithm #DataStructures #ComputerScience #CodingTutorial #Programming #LearnToCode #ViralCoding",
   "yt_tags": [
-    "Heap Sort",
+    "Quick Sort",
+    "Algorithm Visualization",
     "Sorting Algorithms",
     "Data Structures",
     "Computer Science",
-    "Algorithm Visualization",
     "Programming Tutorial",
-    "Coding",
-    "Software Engineering",
-    "In-place sorting",
-    "Time Complexity",
-    "Big O Notation"
+    "Learn to Code",
+    "Coding Explained",
+    "Fast Sorting",
+    "Big O Notation",
+    "In-place Sort",
+    "Recursive Algorithm",
+    "Dev Tools",
+    "Tech Education",
+    "Viral Code"
   ],
-  "vk_title": "Визуализация Сортировки Кучей (Heap Sort): Быстро и Эффективно!",
-  "vk_desc": "🚀 Узнайте, как работает Heap Sort - один из самых мощных алгоритмов сортировки! Наглядная визуализация покажет вам всю магию 'кучи' и почему этот метод так эффективен. Идеально для студентов и программистов! 💻"
+  "vk_title": "🚀 Визуализация QuickSort: Сортировка, Которая Взрывает Сеть!",
+  "vk_desc": "🔥 Самый быстрый способ понять Quick Sort! Мы создали невероятную визуализацию, которая покажет вам, как этот легендарный алгоритм работает на самом деле. 🤯 От выбора опорного элемента до идеального порядка - смотрите, как данные танцуют! 💃🕺\n\n✅ Идеально для программистов, студентов и всех, кто хочет увидеть магию эффективной сортировки в действии. ⚡\n\n#QuickSort #Алгоритмы #СтруктурыДанных #Программирование #Код #Визуализация"
 }
