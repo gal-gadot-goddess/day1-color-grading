@@ -1,24 +1,26 @@
 {
-  "title": "Selection Sort EXPLAINED Visually! 🤯 The Simplest Sorting Algorithm?",
-  "ig_caption": "Selection Sort: Simple, visual, and surprisingly effective! 🤩 Watch this algorithm in action. Can you guess the next step? #Coding #Algorithm #Tech",
-  "fb_caption": "Ever wondered how Selection Sort works? 🤔 We've got the ultimate visual breakdown! Dive into the world of sorting algorithms and see Selection Sort come to life.  Perfect for anyone learning to code! Share your thoughts below! 👇",
-  "threads_caption": "Selection Sort: The algorithm that's as straightforward as it looks. But does its simplicity make it efficient? 🤔 Let's find out!",
-  "hashtags": "#coding #algorithm #datascience #computerscience #programming #learntocode #tech #developer #softwareengineering #visualcode",
-  "yt_description": "Unlock the magic of Selection Sort! ✨ Watch as we visually break down this fundamental sorting algorithm, step-by-step.  Perfect for beginners and a great refresher for experienced coders! See how it finds the smallest element and puts it in its place.  Think you can do better? 😉\n\n#SelectionSort #Algorithm #DataStructures #ComputerScience #CodingTutorial #Programming #LearnToCode #TechExplained #VisualLearning #CodingChallenge",
+  "title": "🤯 Cocktail Sort: The Algorithm That Shakes Things Up! (Visualized!)",
+  "ig_caption": "Shake, rattle, and sort! 🍸 Witness the hypnotic dance of Cocktail Sort in action.  This algorithm's got moves! 🔥 #Coding #Algorithm #DataStructures #TechTok #LearnToCode",
+  "fb_caption": "Ever seen an algorithm do a little dance? 💃🕺 Introducing Cocktail Sort! 🍸 This algorithm is like a bartender mixing up your data, shaking it back and forth until it's perfectly sorted.  We've got a killer visualization that breaks down exactly how it works.  Click to see why this unique sorting method is more than just a pretty face! 👇 #Coding #Algorithms #DataStructures #ProgrammingLife #TechEducation #CS #Software",
+  "threads_caption": "Cocktail Sort: It's not just a drink, it's an algorithm that goes both ways! 🔄 See how this clever sorting method works its magic, one shake at a time.  #CodingHumor #AlgorithmGeek",
+  "hashtags": "#coding #ai #tech #algorithms #datascience #programming #computerscience #softwaredevelopment #codelife #techtrends #viraltech #learncoding",
+  "yt_description": "Ever wondered how algorithms sort data? 🤔 Join us for a mind-blowing visualization of Cocktail Sort! 🍸 This 'bidirectional bubble sort' is a visual treat as it bounces elements back and forth to find their perfect spot.  We'll break down its logic, show you its strengths (and weaknesses!), and help you understand why it's a unique approach to sorting.  \n\n🚀 Watch now to see sorting come to life!\n\n#CocktailSort #AlgorithmVisualization #DataStructures #CodingTutorial #ComputerScience #Programming #TechExplained #LearnToCode #ViralCoding",
   "yt_tags": [
-    "Selection Sort",
+    "Cocktail Sort",
     "Algorithm Visualization",
-    "Sorting Algorithms",
     "Data Structures",
-    "Computer Science",
     "Coding Tutorial",
-    "Programming Explained",
-    "Learn to Code",
-    "Algorithm Explained",
-    "Beginner Coding",
-    "Code Visualization",
-    "Simple Algorithm"
+    "Computer Science",
+    "Programming",
+    "Sorting Algorithms",
+    "Bubble Sort",
+    "Bidirectional Sort",
+    "Tech Explained",
+    "Learn To Code",
+    "Software Development",
+    "Code Animation",
+    "CS Fundamentals"
   ],
-  "vk_title": "Визуализация Сортировки Выбором: Понятно каждому!",
-  "vk_desc": "Разбираем алгоритм сортировки выбором по шагам с наглядной визуализацией! Идеально для новичков и тех, кто хочет освежить знания. Смотрите, как он находит минимальный элемент и перемещает его на нужное место. 🚀 #программирование #алгоритмы #сортировка #компьютерныенауки #обучение"
+  "vk_title": "Визуализация Алгоритма Сортировки Барная Стойка (Cocktail Sort)",
+  "vk_desc": "Погрузитесь в мир сортировки данных с завораживающей визуализацией алгоритма Сортировка Барная Стойка (Cocktail Sort)! 🍸 Узнайте, как этот 'двунаправленный пузырек' перебрасывает элементы туда и обратно, чтобы достичь идеального порядка.  Мы разберем его логику, покажем сильные и слабые стороны, и объясним, почему это такой уникальный подход к сортировке.  \n\n🚀 Смотрите сейчас, чтобы увидеть сортировку в действии!"
 }
