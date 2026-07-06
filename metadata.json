@@ -1,22 +1,24 @@
 {
-  "title": "🔥 Pancake Sort: The Craziest Algorithm You've NEVER Seen! (Visualized!)",
-  "ig_caption": "Flipping data like pancakes! 🥞🌀 Witness the absurdly fun Pancake Sort algorithm come to life. Can you handle the flips? 😉 #PancakeSort #Coding #AlgorithmArt #DataViz #CS",
-  "fb_caption": "Prepare to flip out! 🥞 We're diving deep into the quirky world of Pancake Sort, a sorting algorithm that's as fun to watch as it is to explain! See how simple flips can lead to sorted data. Is this the most delicious algorithm ever? Let us know what you think! 👇 #PancakeSort #Algorithm #CodingHumor #ComputerScience #ProgrammingLife #TechExplained",
-  "threads_caption": "Pancake Sort: It's not just breakfast, it's an algorithm. 🥞 Watch data get flipped and sorted in the most chaotic way possible! You won't believe your eyes. 👀",
-  "hashtags": "#coding #ai #tech #algorithms #computerscience #programming #learncoding #dataviz #educational #viraltech",
-  "yt_description": "Ever wondered how to sort pancakes? 🥞 Turns out, there's an algorithm for that! Dive into the deliciously chaotic world of Pancake Sort with our mind-bending visualization. See how flipping stacks can magically sort your data! ✨ Perfect for coders, students, and anyone who loves a good puzzle. #PancakeSort #Algorithm #DataStructures #ComputerScience #CodingLife #LearnToCode #VisualExplanation #Tech",
+  "title": "Selection Sort EXPLAINED Visually! 🤯 The Simplest Sorting Algorithm?",
+  "ig_caption": "Selection Sort: Simple, visual, and surprisingly effective! 🤩 Watch this algorithm in action. Can you guess the next step? #Coding #Algorithm #Tech",
+  "fb_caption": "Ever wondered how Selection Sort works? 🤔 We've got the ultimate visual breakdown! Dive into the world of sorting algorithms and see Selection Sort come to life.  Perfect for anyone learning to code! Share your thoughts below! 👇",
+  "threads_caption": "Selection Sort: The algorithm that's as straightforward as it looks. But does its simplicity make it efficient? 🤔 Let's find out!",
+  "hashtags": "#coding #algorithm #datascience #computerscience #programming #learntocode #tech #developer #softwareengineering #visualcode",
+  "yt_description": "Unlock the magic of Selection Sort! ✨ Watch as we visually break down this fundamental sorting algorithm, step-by-step.  Perfect for beginners and a great refresher for experienced coders! See how it finds the smallest element and puts it in its place.  Think you can do better? 😉\n\n#SelectionSort #Algorithm #DataStructures #ComputerScience #CodingTutorial #Programming #LearnToCode #TechExplained #VisualLearning #CodingChallenge",
   "yt_tags": [
-    "pancake sort",
-    "algorithm visualization",
-    "sorting algorithm",
-    "computer science explained",
-    "data structures",
-    "coding tutorial",
-    "programming",
-    "visual coding",
-    "algorithm explained",
-    "tech education"
+    "Selection Sort",
+    "Algorithm Visualization",
+    "Sorting Algorithms",
+    "Data Structures",
+    "Computer Science",
+    "Coding Tutorial",
+    "Programming Explained",
+    "Learn to Code",
+    "Algorithm Explained",
+    "Beginner Coding",
+    "Code Visualization",
+    "Simple Algorithm"
   ],
-  "vk_title": "Сортировка Блинами: Самый Необычный Алгоритм! (Визуализация)",
-  "vk_desc": "Представляем вам Сортировку Блинами (Pancake Sort) – алгоритм, который сортирует данные, переворачивая их, как стопку блинов! 🥞 Погрузитесь в эту визуально увлекательную и порой абсурдную задачу. Идеально для программистов, студентов и всех, кто любит решать головоломки. #СортировкаБлинами #Алгоритмы #Информатика #Программирование #Визуализация"
+  "vk_title": "Визуализация Сортировки Выбором: Понятно каждому!",
+  "vk_desc": "Разбираем алгоритм сортировки выбором по шагам с наглядной визуализацией! Идеально для новичков и тех, кто хочет освежить знания. Смотрите, как он находит минимальный элемент и перемещает его на нужное место. 🚀 #программирование #алгоритмы #сортировка #компьютерныенауки #обучение"
 }
