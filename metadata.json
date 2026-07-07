@@ -1,22 +1,25 @@
 {
-  "title": "🤯 Pancake Sort: The Weirdest Way to Sort Your Life!",
-  "ig_caption": "Flipping out over Pancake Sort! 🥞😂 Who knew sorting could be this delicious? Watch our latest visual breakdown!",
-  "fb_caption": "Is this the most 'flipping' amazing algorithm ever? 🤔 Join us as we visualize Pancake Sort – a quirky and surprisingly effective way to get your data in order!  You'll be saying 'more pancakes, please!' 🥞✨",
-  "threads_caption": "Pancake Sort: Because sometimes, the most absurd solutions are the most memorable. 🥞 Flip your way to sorted data!",
-  "hashtags": "#PancakeSort #CodingLife #AlgorithmArt #TechHumor #LearnToCode #ComputerScienceFacts #ViralCoding",
-  "yt_description": "Ever wondered how to sort a stack of pancakes? 🥞 We're diving into the wacky world of Pancake Sort! It's not the fastest, but it's definitely one of the most FUN algorithms to visualize.  See how we flip and stack our way to sorted perfection!  You won't believe how it works!  #Algorithm #ComputerScience #Coding",
+  "title": "Cocktail Sort: The Sorting Algorithm That's BUZZING with Efficiency! 🍸✨",
+  "ig_caption": "Shaking up your code knowledge! 🍸 Cocktail Sort: The algorithm that goes both ways. 😉 Watch it sort, then reverse! ✨ #CocktailSort #Coding #Tech #Algorithm #LearnToCode #ViralCoding",
+  "fb_caption": "Ready for a cocktail? 🍸 We're not talking about drinks, but about CODE! Dive into the mesmerizing world of Cocktail Sort, the algorithm that shuffles data forward and backward like a pro. Watch its unique visual dance and understand how it works! Perfect for anyone learning about sorting algorithms. Click to watch! 🚀 #CocktailSort #AlgorithmVisualization #CodingLife #TechEducation #ComputerScienceSimplified",
+  "threads_caption": "Cocktail Sort: It's not just for drinks anymore. 🍸 This algorithm sorts forward AND backward. Mind blown yet? 🤯 #CodeHumor #AlgorithmGeek",
+  "hashtags": "#coding #ai #tech #algorithms #computerscience #programming #datascructures #visualizations #softwaredevelopment #developer #learncoding",
+  "yt_description": "Ever wondered how algorithms sort data? 🤔 Get ready for a visual feast as we dive into Cocktail Sort, also known as Bidirectional Bubble Sort! 🚀 Watch as it elegantly shuffles elements back and forth, like a bartender mixing the perfect cocktail! 🍹 We'll break down the logic, visualize the steps, and see why this algorithm, while not the fastest, is a fascinating dance of comparisons and swaps. Perfect for beginner coders and algorithm enthusiasts! 🤓 #CocktailSort #SortingAlgorithms #DataStructures #ComputerScience #CodingTutorial #LearnToCode #Programming #AlgorithmsExplained #Visualizations",
   "yt_tags": [
-    "Pancake Sort",
+    "Cocktail Sort",
+    "Bidirectional Bubble Sort",
     "Sorting Algorithm",
-    "Algorithm Visualization",
-    "Computer Science",
     "Data Structures",
+    "Computer Science",
     "Coding Tutorial",
-    "Programming",
     "Learn to Code",
-    "Tech Explained",
-    "Funny Algorithms"
+    "Programming",
+    "Algorithm Visualization",
+    "Code Explanation",
+    "Beginner Coding",
+    "Efficiency",
+    "Comparison Sort"
   ],
-  "vk_title": "Сортировка Блинами: Самый Забавный Алгоритм?",
-  "vk_desc": "Погрузитесь в мир сортировки с необычным алгоритмом 'Сортировка Блинами'! 🥞 Узнайте, как мы переворачиваем и упорядочиваем данные самым оригинальным способом. Визуализация, которая вас удивит!"
+  "vk_title": "Сортировка коктейлем: Алгоритм, который танцует туда-сюда! 🍸✨",
+  "vk_desc": "Погрузитесь в мир алгоритмов с визуализацией Сортировки коктейлем! 🚀 Этот алгоритм, также известный как двунаправленная пузырьковая сортировка, элегантно перемешивает элементы, как бармен, смешивающий идеальный коктейль. 🍹 Мы разберем логику, визуализируем шаги и посмотрим, почему этот алгоритм, хоть и не самый быстрый, является завораживающим танцем сравнений и обменов. Идеально для начинающих программистов и энтузиастов алгоритмов! 🤓 #СортировкаКоктейлем #Алгоритмы #СтруктурыДанных #Информатика #Кодинг #Программирование"
 }
