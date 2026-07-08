@@ -1,22 +1,24 @@
 {
-  "title": "Odd-Even Sort: The Algorithm That FEELS Like Magic! ✨ (Visualized)",
-  "ig_caption": "Unlocking the secrets of Odd-Even Sort! 🔓 Watch this magical algorithm untangle data. ✨ Prepare to be amazed! #CodingMagic #AlgorithmArt #TechTrends",
-  "fb_caption": "Mind BLOWN! 🤯 Witness the surprisingly simple elegance of the Odd-Even Sort algorithm come to life. See how it brings order to disorder with satisfying visual clarity. If you're into coding, data, or just cool tech, you NEED to see this! 👇",
-  "threads_caption": "Odd-Even Sort: It's not random, it's rhythmic. See chaos become order, one pair at a time. 🎶 Sorting just got a whole lot cooler.",
-  "hashtags": "#coding #ai #tech #algorithms #datascience #computerscience #programming #softwaredevelopment #edtech #learntocode #visualisation",
-  "yt_description": "🤯 Ever wondered how sorting algorithms work under the hood? Dive into the mesmerizing world of Odd-Even Sort! This intuitive algorithm sorts arrays by repeatedly stepping through the list, comparing adjacent elements and swapping them if they are in the wrong order. We'll visualize its elegant dance, showing you step-by-step how it brings chaos to order. Perfect for students, developers, and anyone curious about the beauty of algorithms! 🚀\n\n#OddEvenSort #SortingAlgorithm #DataStructures #ComputerScience #Programming #AlgorithmVisualization #CodeExplained #LearnToCode #TechTok #EdTech",
+  "title": "The ABSURDALLY SLOW Way to Sort: Stooge Sort Explained! 🤯",
+  "ig_caption": "Meet Stooge Sort: The algorithm that's more comedy than code! 🤣 Watch us break down this hilariously inefficient sorting method.  Is it genius? Is it madness? You decide! Link in bio! #coding #algorithm #stoogesort #programming #techhumor #computerscience",
+  "fb_caption": "Why sort efficiently when you can sort hilariously? 😂 We're taking on Stooge Sort, an algorithm so absurdly slow, it's become legendary. Watch our visualization and discover the madness! Full video linked. #StoogeSort #CodingFails #AlgorithmExplained #ProgrammingHumor #ComputerScience",
+  "threads_caption": "Stooge Sort: Because sometimes, the slowest path is the most entertaining. 😉 We visualize the algorithm that should never be. Link in bio!",
+  "hashtags": "#coding #algorithm #stoogesort #programming #techhumor #computerscience #datascience #learncoding",
+  "yt_description": "Prepare to have your mind boggled (and possibly your patience tested!) as we dive into the hilariously inefficient world of Stooge Sort! 🤪 Ever wondered how NOT to sort an array? This is it! We'll break down this infamous algorithm with mind-bending visualizations and a healthy dose of programmer humor.  \n\n▶️ What is Stooge Sort?\n▶️ Why is it so BAD?\n▶️ Visualizing the Madness!\n▶️ When would you EVER use this?\n\nStick around for the end – you won't believe how many steps it takes! \n\n#StoogeSort #Algorithm #ComputerScience #Coding #Programming #LearnToCode #DataStructures #Inefficient #FunnyCoding #TechExplained",
   "yt_tags": [
-    "Odd-Even Sort",
-    "Sorting Algorithm",
-    "Data Structures",
-    "Computer Science",
+    "Stooge Sort",
     "Algorithm Visualization",
-    "Programming Tutorial",
-    "Coding Explained",
-    "Learn Programming",
-    "Best Sorting Algorithms",
-    "Simple Sorting"
+    "Sorting Algorithms",
+    "Computer Science Explained",
+    "Coding Tutorial",
+    "Programming Humor",
+    "Data Structures",
+    "Inefficient Algorithms",
+    "Learn to Code",
+    "Tech Explained",
+    "Recursion",
+    "Bad Algorithms"
   ],
-  "vk_title": "Визуализация Алгоритма Сортировки Чет-Нечет 🤯",
-  "vk_desc": "Погрузитесь в мир алгоритмов с нашей визуализацией сортировки чет-нечет! Узнайте, как этот простой, но элегантный метод упорядочивает данные шаг за шагом. Идеально для студентов и всех, кто интересуется информатикой! 🚀"
+  "vk_title": "Уморительно Медленная Сортировка: Объясняем Алгоритм Stooge Sort!",
+  "vk_desc": "Приготовьтесь к самому неэффективному способу сортировки массива! 🤪 Мы разбираем Stooge Sort с забавными визуализациями и объясняем, почему этот алгоритм — больше шутка, чем решение. Смотрите до конца, чтобы увидеть весь абсурд! #программирование #алгоритмы #stoogesort #компьютерныенауки"
 }
