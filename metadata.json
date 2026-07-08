@@ -1,25 +1,25 @@
 {
-  "title": "Cocktail Sort: The Sorting Algorithm That's BUZZING with Efficiency! 🍸✨",
-  "ig_caption": "Shaking up your code knowledge! 🍸 Cocktail Sort: The algorithm that goes both ways. 😉 Watch it sort, then reverse! ✨ #CocktailSort #Coding #Tech #Algorithm #LearnToCode #ViralCoding",
-  "fb_caption": "Ready for a cocktail? 🍸 We're not talking about drinks, but about CODE! Dive into the mesmerizing world of Cocktail Sort, the algorithm that shuffles data forward and backward like a pro. Watch its unique visual dance and understand how it works! Perfect for anyone learning about sorting algorithms. Click to watch! 🚀 #CocktailSort #AlgorithmVisualization #CodingLife #TechEducation #ComputerScienceSimplified",
-  "threads_caption": "Cocktail Sort: It's not just for drinks anymore. 🍸 This algorithm sorts forward AND backward. Mind blown yet? 🤯 #CodeHumor #AlgorithmGeek",
-  "hashtags": "#coding #ai #tech #algorithms #computerscience #programming #datascructures #visualizations #softwaredevelopment #developer #learncoding",
-  "yt_description": "Ever wondered how algorithms sort data? 🤔 Get ready for a visual feast as we dive into Cocktail Sort, also known as Bidirectional Bubble Sort! 🚀 Watch as it elegantly shuffles elements back and forth, like a bartender mixing the perfect cocktail! 🍹 We'll break down the logic, visualize the steps, and see why this algorithm, while not the fastest, is a fascinating dance of comparisons and swaps. Perfect for beginner coders and algorithm enthusiasts! 🤓 #CocktailSort #SortingAlgorithms #DataStructures #ComputerScience #CodingTutorial #LearnToCode #Programming #AlgorithmsExplained #Visualizations",
+  "title": "Cocktail Sort: The Algorithm That Shakes Things Up! 🍹 (Visualized)",
+  "ig_caption": "Shaking, not stirring, your data! 🍹 Witness the magical Cocktail Sort in action. ✨ #CodingVibes #AlgorithmArt #TechTok",
+  "fb_caption": "Ever tried sorting your data with a little flair? 🤔 Meet Cocktail Sort! This algorithm takes a unique approach, moving back and forth to sort elements. See it in action and understand its magic! ✨ What do you think of this 'shaken, not stirred' sorting method? Let us know below! 👇 #CocktailSortExplained #AlgorithmVisuals #CodingTips #TechEducation",
+  "threads_caption": "Cocktail Sort: Because sometimes, you gotta shake things up to get 'em right. 🍸 Sorting data, one sip at a time. #CodeFunny",
+  "hashtags": "#coding #ai #tech #algorithms #datascience #computerscience #programming #softwaredevelopment #learnprogramming #codinglife #techtrends",
+  "yt_description": "Ever wondered how to sort data while also giving it a little cocktail shake? 🍸 Meet Cocktail Sort! \n\nIn this mind-bending visualization, we'll see how Cocktail Sort (also known as bidirectional bubble sort or shuttle sort) efficiently sorts an array by repeatedly traversing it back and forth. \n\nWatch as it swaps elements in both ascending and descending passes, like a bartender mixing the perfect drink! 🤯\n\n🚀 What you'll learn:\n- The mechanics of Cocktail Sort\n- Its advantages and disadvantages\n- How it compares to other sorting algorithms\n\n#CocktailSort #SortingAlgorithms #DataStructures #ComputerScience #Programming #CodingVisualized #LearnToCode #TechExplained #AlgorithmAnimation",
   "yt_tags": [
     "Cocktail Sort",
-    "Bidirectional Bubble Sort",
-    "Sorting Algorithm",
+    "Sorting Algorithms",
     "Data Structures",
     "Computer Science",
-    "Coding Tutorial",
-    "Learn to Code",
     "Programming",
-    "Algorithm Visualization",
-    "Code Explanation",
-    "Beginner Coding",
-    "Efficiency",
-    "Comparison Sort"
+    "Coding Visualization",
+    "Algorithm Animation",
+    "Bubble Sort",
+    "Bidirectional Sort",
+    "Shuttle Sort",
+    "Learn to Code",
+    "Tech Explained",
+    "Software Engineering"
   ],
-  "vk_title": "Сортировка коктейлем: Алгоритм, который танцует туда-сюда! 🍸✨",
-  "vk_desc": "Погрузитесь в мир алгоритмов с визуализацией Сортировки коктейлем! 🚀 Этот алгоритм, также известный как двунаправленная пузырьковая сортировка, элегантно перемешивает элементы, как бармен, смешивающий идеальный коктейль. 🍹 Мы разберем логику, визуализируем шаги и посмотрим, почему этот алгоритм, хоть и не самый быстрый, является завораживающим танцем сравнений и обменов. Идеально для начинающих программистов и энтузиастов алгоритмов! 🤓 #СортировкаКоктейлем #Алгоритмы #СтруктурыДанных #Информатика #Кодинг #Программирование"
+  "vk_title": "Сортировка \"Коктейль\": Визуализация Алгоритма 🍹",
+  "vk_desc": "Погрузитесь в мир алгоритмов с сортировкой \"Коктейль\"! 🍸 Узнайте, как этот уникальный метод сортирует данные, проходя по массиву туда и обратно. Идеально для тех, кто любит \"взболтать\" свою информацию! 😉 #программирование #алгоритмы #компьютерныенауки #визуализация"
 }
