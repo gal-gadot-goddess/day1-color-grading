@@ -1,25 +1,22 @@
 {
-  "title": "Cocktail Sort: The Algorithm That Shakes Things Up! 🍹 (Visualized)",
-  "ig_caption": "Shaking, not stirring, your data! 🍹 Witness the magical Cocktail Sort in action. ✨ #CodingVibes #AlgorithmArt #TechTok",
-  "fb_caption": "Ever tried sorting your data with a little flair? 🤔 Meet Cocktail Sort! This algorithm takes a unique approach, moving back and forth to sort elements. See it in action and understand its magic! ✨ What do you think of this 'shaken, not stirred' sorting method? Let us know below! 👇 #CocktailSortExplained #AlgorithmVisuals #CodingTips #TechEducation",
-  "threads_caption": "Cocktail Sort: Because sometimes, you gotta shake things up to get 'em right. 🍸 Sorting data, one sip at a time. #CodeFunny",
-  "hashtags": "#coding #ai #tech #algorithms #datascience #computerscience #programming #softwaredevelopment #learnprogramming #codinglife #techtrends",
-  "yt_description": "Ever wondered how to sort data while also giving it a little cocktail shake? 🍸 Meet Cocktail Sort! \n\nIn this mind-bending visualization, we'll see how Cocktail Sort (also known as bidirectional bubble sort or shuttle sort) efficiently sorts an array by repeatedly traversing it back and forth. \n\nWatch as it swaps elements in both ascending and descending passes, like a bartender mixing the perfect drink! 🤯\n\n🚀 What you'll learn:\n- The mechanics of Cocktail Sort\n- Its advantages and disadvantages\n- How it compares to other sorting algorithms\n\n#CocktailSort #SortingAlgorithms #DataStructures #ComputerScience #Programming #CodingVisualized #LearnToCode #TechExplained #AlgorithmAnimation",
+  "title": "Odd-Even Sort: The Algorithm That FEELS Like Magic! ✨ (Visualized)",
+  "ig_caption": "Unlocking the secrets of Odd-Even Sort! 🔓 Watch this magical algorithm untangle data. ✨ Prepare to be amazed! #CodingMagic #AlgorithmArt #TechTrends",
+  "fb_caption": "Mind BLOWN! 🤯 Witness the surprisingly simple elegance of the Odd-Even Sort algorithm come to life. See how it brings order to disorder with satisfying visual clarity. If you're into coding, data, or just cool tech, you NEED to see this! 👇",
+  "threads_caption": "Odd-Even Sort: It's not random, it's rhythmic. See chaos become order, one pair at a time. 🎶 Sorting just got a whole lot cooler.",
+  "hashtags": "#coding #ai #tech #algorithms #datascience #computerscience #programming #softwaredevelopment #edtech #learntocode #visualisation",
+  "yt_description": "🤯 Ever wondered how sorting algorithms work under the hood? Dive into the mesmerizing world of Odd-Even Sort! This intuitive algorithm sorts arrays by repeatedly stepping through the list, comparing adjacent elements and swapping them if they are in the wrong order. We'll visualize its elegant dance, showing you step-by-step how it brings chaos to order. Perfect for students, developers, and anyone curious about the beauty of algorithms! 🚀\n\n#OddEvenSort #SortingAlgorithm #DataStructures #ComputerScience #Programming #AlgorithmVisualization #CodeExplained #LearnToCode #TechTok #EdTech",
   "yt_tags": [
-    "Cocktail Sort",
-    "Sorting Algorithms",
+    "Odd-Even Sort",
+    "Sorting Algorithm",
     "Data Structures",
     "Computer Science",
-    "Programming",
-    "Coding Visualization",
-    "Algorithm Animation",
-    "Bubble Sort",
-    "Bidirectional Sort",
-    "Shuttle Sort",
-    "Learn to Code",
-    "Tech Explained",
-    "Software Engineering"
+    "Algorithm Visualization",
+    "Programming Tutorial",
+    "Coding Explained",
+    "Learn Programming",
+    "Best Sorting Algorithms",
+    "Simple Sorting"
   ],
-  "vk_title": "Сортировка \"Коктейль\": Визуализация Алгоритма 🍹",
-  "vk_desc": "Погрузитесь в мир алгоритмов с сортировкой \"Коктейль\"! 🍸 Узнайте, как этот уникальный метод сортирует данные, проходя по массиву туда и обратно. Идеально для тех, кто любит \"взболтать\" свою информацию! 😉 #программирование #алгоритмы #компьютерныенауки #визуализация"
+  "vk_title": "Визуализация Алгоритма Сортировки Чет-Нечет 🤯",
+  "vk_desc": "Погрузитесь в мир алгоритмов с нашей визуализацией сортировки чет-нечет! Узнайте, как этот простой, но элегантный метод упорядочивает данные шаг за шагом. Идеально для студентов и всех, кто интересуется информатикой! 🚀"
 }
