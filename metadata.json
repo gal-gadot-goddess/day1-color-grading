@@ -1,24 +1,23 @@
 {
-  "title": "The ABSURDALLY SLOW Way to Sort: Stooge Sort Explained! 🤯",
-  "ig_caption": "Meet Stooge Sort: The algorithm that's more comedy than code! 🤣 Watch us break down this hilariously inefficient sorting method.  Is it genius? Is it madness? You decide! Link in bio! #coding #algorithm #stoogesort #programming #techhumor #computerscience",
-  "fb_caption": "Why sort efficiently when you can sort hilariously? 😂 We're taking on Stooge Sort, an algorithm so absurdly slow, it's become legendary. Watch our visualization and discover the madness! Full video linked. #StoogeSort #CodingFails #AlgorithmExplained #ProgrammingHumor #ComputerScience",
-  "threads_caption": "Stooge Sort: Because sometimes, the slowest path is the most entertaining. 😉 We visualize the algorithm that should never be. Link in bio!",
-  "hashtags": "#coding #algorithm #stoogesort #programming #techhumor #computerscience #datascience #learncoding",
-  "yt_description": "Prepare to have your mind boggled (and possibly your patience tested!) as we dive into the hilariously inefficient world of Stooge Sort! 🤪 Ever wondered how NOT to sort an array? This is it! We'll break down this infamous algorithm with mind-bending visualizations and a healthy dose of programmer humor.  \n\n▶️ What is Stooge Sort?\n▶️ Why is it so BAD?\n▶️ Visualizing the Madness!\n▶️ When would you EVER use this?\n\nStick around for the end – you won't believe how many steps it takes! \n\n#StoogeSort #Algorithm #ComputerScience #Coding #Programming #LearnToCode #DataStructures #Inefficient #FunnyCoding #TechExplained",
+  "title": "Comb Sort: The Surprisingly Efficient Algorithm You've Never Heard Of! 🤯",
+  "ig_caption": "Comb Sort = Slay! 🔥 Ditch the slow sorts and unlock speed. Visualizing this gem! 💎 #combSort #codinglife #algos #devtok",
+  "fb_caption": "Ever heard of Comb Sort? 🤔 This sorting algorithm is a game-changer, efficiently tackling those pesky 'turtles' that slow down other methods. We're visualizing its ingenious shrink factor in action! Prepare to be impressed. 👇 #CombSort #Algorithm #Coding #Tech #ComputerScienceEducation",
+  "threads_caption": "Comb Sort: It's not a haircut, it's your new favorite sorting algorithm. Seriously. Watch this.",
+  "hashtags": "#coding #ai #tech #algorithms #computerscience #datascience #programming #softwaredevelopment #learncode #codingtutorial",
+  "yt_description": "Tired of Bubble Sort's slowness? 🐢 Meet Comb Sort! ✨ Discover how this clever sorting algorithm dramatically reduces 'turtle' elements and achieves faster sorting times. We'll break down the magic behind the shrink factor and visualize its journey from chaotic array to sorted masterpiece! 🚀 Perfect for CS students, aspiring developers, and anyone curious about elegant algorithms. #CombSort #AlgorithmExplained #DataStructures #CodingTutorial #ComputerScience #LearnToCode #Programming #TechExplained",
   "yt_tags": [
-    "Stooge Sort",
+    "Comb Sort",
     "Algorithm Visualization",
     "Sorting Algorithms",
-    "Computer Science Explained",
-    "Coding Tutorial",
-    "Programming Humor",
     "Data Structures",
-    "Inefficient Algorithms",
+    "Computer Science",
+    "Programming Tutorial",
+    "Coding Explained",
+    "Efficiency",
+    "Big O Notation",
     "Learn to Code",
-    "Tech Explained",
-    "Recursion",
-    "Bad Algorithms"
+    "Tech Education"
   ],
-  "vk_title": "Уморительно Медленная Сортировка: Объясняем Алгоритм Stooge Sort!",
-  "vk_desc": "Приготовьтесь к самому неэффективному способу сортировки массива! 🤪 Мы разбираем Stooge Sort с забавными визуализациями и объясняем, почему этот алгоритм — больше шутка, чем решение. Смотрите до конца, чтобы увидеть весь абсурд! #программирование #алгоритмы #stoogesort #компьютерныенауки"
+  "vk_title": "Сортировка расческой: Неожиданно быстрый алгоритм! 🚀",
+  "vk_desc": "Устали от медленных сортировок? 🐢 Представляем Сортировку расческой (Comb Sort)! ✨ Узнайте, как этот умный алгоритм значительно уменьшает 'черепах' и ускоряет сортировку. Визуализируем его путь от хаотичного массива до отсортированного шедевра! 🚀 Отлично подходит для студентов ИТ, начинающих разработчиков и всех, кто интересуется элегантными алгоритмами."
 }
