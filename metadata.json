@@ -1,23 +1,24 @@
 {
-  "title": "Comb Sort: The Surprisingly Efficient Algorithm You've Never Heard Of! 🤯",
-  "ig_caption": "Comb Sort = Slay! 🔥 Ditch the slow sorts and unlock speed. Visualizing this gem! 💎 #combSort #codinglife #algos #devtok",
-  "fb_caption": "Ever heard of Comb Sort? 🤔 This sorting algorithm is a game-changer, efficiently tackling those pesky 'turtles' that slow down other methods. We're visualizing its ingenious shrink factor in action! Prepare to be impressed. 👇 #CombSort #Algorithm #Coding #Tech #ComputerScienceEducation",
-  "threads_caption": "Comb Sort: It's not a haircut, it's your new favorite sorting algorithm. Seriously. Watch this.",
-  "hashtags": "#coding #ai #tech #algorithms #computerscience #datascience #programming #softwaredevelopment #learncode #codingtutorial",
-  "yt_description": "Tired of Bubble Sort's slowness? 🐢 Meet Comb Sort! ✨ Discover how this clever sorting algorithm dramatically reduces 'turtle' elements and achieves faster sorting times. We'll break down the magic behind the shrink factor and visualize its journey from chaotic array to sorted masterpiece! 🚀 Perfect for CS students, aspiring developers, and anyone curious about elegant algorithms. #CombSort #AlgorithmExplained #DataStructures #CodingTutorial #ComputerScience #LearnToCode #Programming #TechExplained",
+  "title": "Comb Sort: The Sorting Algorithm That LEARNS! 🤯 (Visualized)",
+  "ig_caption": "Comb Sort: The algorithm that fights shrinkage... for data! 📏 See how it outsmarts Bubble Sort in seconds! 🚀 #CombSort #CodingTricks #AlgoViz #CSStudent",
+  "fb_caption": "Ever wondered if there's a faster way to sort than Bubble Sort? 🤔 Meet Comb Sort! This algorithm's 'comb' approach makes it incredibly efficient. Dive into our visualization and see the magic happen! ✨ #CombSortMagic #CodingVisuals #AlgorithmBreakdown #TechExplained",
+  "threads_caption": "Comb Sort: The only algorithm that knows how to shrink a gap effectively. 😉 Watch it work!",
+  "hashtags": "#coding #ai #tech #algorithms #datascience #computerscience #programming #learntocode #softwaredevelopment #webdevelopment #developer #tech #codinglife",
+  "yt_description": "Tired of Bubble Sort's slow crawl? 🐌 Meet Comb Sort! ✨ This revolutionary algorithm uses a 'comb' to shrink the gap, dramatically speeding up sorting. See its genius in action with our crystal-clear visualization! Perfect for beginners and sorting sorcerers alike. 🧙‍♂️ #CombSort #AlgorithmExplained #DataStructures #CS #Programming #LearnToCode #CodingLife #TechTok",
   "yt_tags": [
     "Comb Sort",
+    "Sorting Algorithm",
     "Algorithm Visualization",
-    "Sorting Algorithms",
-    "Data Structures",
     "Computer Science",
+    "Data Structures",
     "Programming Tutorial",
     "Coding Explained",
+    "Bubble Sort Alternative",
     "Efficiency",
-    "Big O Notation",
     "Learn to Code",
-    "Tech Education"
+    "Tech Education",
+    "Algorithms"
   ],
-  "vk_title": "Сортировка расческой: Неожиданно быстрый алгоритм! 🚀",
-  "vk_desc": "Устали от медленных сортировок? 🐢 Представляем Сортировку расческой (Comb Sort)! ✨ Узнайте, как этот умный алгоритм значительно уменьшает 'черепах' и ускоряет сортировку. Визуализируем его путь от хаотичного массива до отсортированного шедевра! 🚀 Отлично подходит для студентов ИТ, начинающих разработчиков и всех, кто интересуется элегантными алгоритмами."
+  "vk_title": "Алгоритм Расчёски: Визуализация и Объяснение",
+  "vk_desc": "Узнайте, как работает Алгоритм Расчёски (Comb Sort)! 💡 Этот умный алгоритм сортировки значительно быстрее пузырьковой сортировки. Наглядная визуализация и простое объяснение. Идеально для изучения структур данных!"
 }
