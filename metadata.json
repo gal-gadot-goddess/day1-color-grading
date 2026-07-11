@@ -1,22 +1,26 @@
 {
-  "title": "Cycle Sort: The Sorting Algorithm That CLEANS UP YOUR DATA! 🤯♻️",
-  "ig_caption": "Unlocking the magic of Cycle Sort! ✨ See how this algorithm cleverly sorts data by finding and breaking cycles. Minimal writes, maximum efficiency! ♻️ #CycleSort #CodeMagic #AlgorithmArt #DataScience #TechTok",
-  "fb_caption": "Prepare to be amazed by Cycle Sort! 🤩 This unique algorithm sorts data by identifying and resolving cycles, making it incredibly efficient in terms of data writes. We've got stunning visualizations to show you exactly how it works. Ready to add another powerful tool to your coding arsenal? Click through to see! 👇 #CycleSort #Algorithm #CodingLife #TechExplained #ComputerScience",
-  "threads_caption": "Cycle Sort: It doesn't just sort, it *reorganizes* your data's destiny. 🔄 Who knew cleaning up could be this elegant?",
-  "hashtags": "#coding #ai #tech #computerscience #algorithms #datascience #programming #development #softwareengineering #learntocode",
-  "yt_description": "Ever wondered how to sort data *perfectly* with minimal writes? 🤔 Meet Cycle Sort – the unsung hero of in-place sorting! We're diving deep into its unique mechanics, visualizing how it finds cycles and places elements in their correct positions. Get ready for mind-bending visualizations and a whole new appreciation for efficient algorithms! 🚀\n\n✨ What you'll learn:\n- The core concept of Cycle Sort and how it works.\n- Visualizations demonstrating the cycle-finding process.\n- Why Cycle Sort is optimal for certain scenarios (minimal writes!).\n- Comparison with other sorting algorithms (briefly!).\n\n#CycleSort #SortingAlgorithms #DataStructures #ComputerScience #Programming #AlgorithmsExplained #ViralCoding #TechExplained #LearnToCode #CodingVisualization",
+  "title": "Cocktail Sort: The Dancing Algorithm That's NOT Bubble Sort! 🕺✨",
+  "ig_caption": "Cocktail Sort: It's not just a drink, it's an algorithm that dances! 🍹✨ Watch this unique sorting method that goes both ways. Mind. Blown. 🤯 #Coding #Algorithms #CocktailSort #Tech #DeveloperLife",
+  "fb_caption": "Ready to see an algorithm that's got moves? 💃 Cocktail Sort is here to shake up your understanding of sorting! It's like Bubble Sort, but it goes both ways, making it surprisingly efficient in certain scenarios. Watch our visualization and see why this 'dancing' algorithm is worth knowing! #CodeMagic #AlgorithmGeek #TechEducation #CocktailSortExplained",
+  "threads_caption": "Bubble Sort's cooler, busier cousin: Cocktail Sort. It sorts left to right, then right to left. Think of it as an algorithm doing the electric slide. ⚡️ You gotta see this visualization!",
+  "hashtags": "#coding #ai #tech #algorithms #computerscience #datascructures #programming #developer #softwareengineering #learncoding #cocktailsort #pythonprogramming",
+  "yt_description": "Ever seen an algorithm do the cha-cha? 💃 Cocktail Sort, also known as bidirectional bubble sort, is here to spice up your sorting game! We're diving deep into how this unique algorithm works, visualizing its dual-directional passes, and showing you why it's more than just a fancy bubble sort. Get ready for some serious code-flow magic! 🚀\n\nIn this video, we'll cover:\n✅ What is Cocktail Sort?\n✅ How does it work (with cool animations!)?\n✅ Cocktail Sort vs. Bubble Sort: What's the difference?\n✅ Complexity and when to use it.\n✅ Real-world Python implementation.\n\n#CocktailSort #AlgorithmVisualization #DataStructures #ComputerScience #CodingTutorial #LearnToCode #Python #Programming #TechExplained",
   "yt_tags": [
-    "Cycle Sort",
+    "Cocktail Sort",
+    "Bidirectional Bubble Sort",
     "Sorting Algorithms",
+    "Algorithm Visualization",
     "Data Structures",
     "Computer Science",
-    "Algorithms Explained",
-    "Programming Tutorial",
-    "Coding Visualization",
-    "In-place Sorting",
-    "Algorithm Deep Dive",
-    "Best Sorting Algorithm"
+    "Coding Tutorial",
+    "Learn to Code",
+    "Python",
+    "Programming",
+    "Tech Explained",
+    "Algorithm Animation",
+    "Software Development",
+    "Big O Notation"
   ],
-  "vk_title": "Сортировка Циклами: Гений Минимальных Записей! 🤯♻️",
-  "vk_desc": "Погрузитесь в мир Сортировки Циклами – алгоритма, который блестяще справляется с сортировкой, делая минимум записей! Мы визуализируем, как он находит циклы и ставит элементы на свои места. Идеально для тех, кто ценит эффективность! 🚀\n\n#СортировкаЦиклами #Алгоритмы #СтруктурыДанных #Программирование #ВизуализацияКода #CS"
+  "vk_title": "Сортировка \"Коктейль\": Визуализация танцующего алгоритма!",
+  "vk_desc": "Узнайте, как работает алгоритм сортировки \"Коктейль\" (он же двунаправленная сортировка пузырьком) с помощью завораживающей визуализации! 🍸 В этом видео мы подробно разберем его работу, сравним с обычной сортировкой пузырьком и покажем его эффективность. Не пропустите!"
 }
