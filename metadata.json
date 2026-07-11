@@ -1,27 +1,22 @@
 {
-  "title": "🤯 Radix Sort: The CRAZY Fast Sorting Algorithm You've NEVER Heard Of! 🚀",
-  "ig_caption": "Radix Sort: The algorithm that sorts numbers faster than you can blink! 🤯🚀 #coding #algorithms #datascience #tech #programming",
-  "fb_caption": "🤯 Prepare to have your mind BLOWN! 🤯 We're breaking down Radix Sort – an algorithm so fast, it feels like magic. ✨ See how it sorts data by the digits themselves, leaving other sorting methods in the dust! Perfect for coders, students, and anyone curious about the inner workings of efficient computation. Watch the full visualization now! 👇\n\n#RadixSort #AlgorithmExplained #CodingTutorial #DataScience #ComputerScienceGeek #ProgrammingLife #TechTrends #LearnToCode",
-  "threads_caption": "Radix Sort: It's not just sorting, it's sorcery. 🧙‍♂️ Watch it happen. 👇",
-  "hashtags": "#coding #algorithms #datascience #tech #programming #computerscience #learncode #algorithmvisualization #radixsort #sortingalgorithms",
-  "yt_description": "Ever wondered how sorting can be lightning fast? ⚡ Forget bubble sort and merge sort for a sec, because we're diving deep into the mesmerizing world of Radix Sort! 🌈 See how this digit-by-digit sorter tackles massive datasets with unbelievable speed.  Perfect for competitive programming, understanding big O, and blowing your mind! 🧠\n\nIn this video, you'll learn:\n✨ The core concept of Radix Sort (LSD vs. MSD)\n✨ How it handles numbers and strings\n✨ Why it's surprisingly efficient!\n✨ Real-world applications where speed is KING 👑\n\nDon't forget to LIKE, SHARE, and SUBSCRIBE for more mind-bending algorithms! 👍\n#RadixSort #Algorithm #DataStructures #CodingExplained #ComputerScience #Programming #ViralCode",
+  "title": "Cycle Sort: The Sorting Algorithm That CLEANS UP YOUR DATA! 🤯♻️",
+  "ig_caption": "Unlocking the magic of Cycle Sort! ✨ See how this algorithm cleverly sorts data by finding and breaking cycles. Minimal writes, maximum efficiency! ♻️ #CycleSort #CodeMagic #AlgorithmArt #DataScience #TechTok",
+  "fb_caption": "Prepare to be amazed by Cycle Sort! 🤩 This unique algorithm sorts data by identifying and resolving cycles, making it incredibly efficient in terms of data writes. We've got stunning visualizations to show you exactly how it works. Ready to add another powerful tool to your coding arsenal? Click through to see! 👇 #CycleSort #Algorithm #CodingLife #TechExplained #ComputerScience",
+  "threads_caption": "Cycle Sort: It doesn't just sort, it *reorganizes* your data's destiny. 🔄 Who knew cleaning up could be this elegant?",
+  "hashtags": "#coding #ai #tech #computerscience #algorithms #datascience #programming #development #softwareengineering #learntocode",
+  "yt_description": "Ever wondered how to sort data *perfectly* with minimal writes? 🤔 Meet Cycle Sort – the unsung hero of in-place sorting! We're diving deep into its unique mechanics, visualizing how it finds cycles and places elements in their correct positions. Get ready for mind-bending visualizations and a whole new appreciation for efficient algorithms! 🚀\n\n✨ What you'll learn:\n- The core concept of Cycle Sort and how it works.\n- Visualizations demonstrating the cycle-finding process.\n- Why Cycle Sort is optimal for certain scenarios (minimal writes!).\n- Comparison with other sorting algorithms (briefly!).\n\n#CycleSort #SortingAlgorithms #DataStructures #ComputerScience #Programming #AlgorithmsExplained #ViralCoding #TechExplained #LearnToCode #CodingVisualization",
   "yt_tags": [
-    "Radix Sort",
-    "Algorithm Visualization",
+    "Cycle Sort",
     "Sorting Algorithms",
     "Data Structures",
     "Computer Science",
+    "Algorithms Explained",
     "Programming Tutorial",
-    "Coding Explained",
-    "Big O Notation",
-    "Competitive Programming",
-    "Tech Explained",
-    "Learn to Code",
-    "Fast Sorting",
-    "Radix Sort Animation",
-    "LSD Radix Sort",
-    "MSD Radix Sort"
+    "Coding Visualization",
+    "In-place Sorting",
+    "Algorithm Deep Dive",
+    "Best Sorting Algorithm"
   ],
-  "vk_title": "Радикс Сортировка: Алгоритм, который вас удивит! 🚀",
-  "vk_desc": "Забудьте всё, что вы знали о сортировке! 🤯 Мы погружаемся в мир Радикс Сортировки — одного из самых быстрых и элегантных алгоритмов. Узнайте, как он работает с числами и строками, и почему он может быть быстрее других привычных методов. Идеально для программистов и всех, кто любит эффективные решения! ✨\n\n#РадиксСортировка #Алгоритмы #СтруктурыДанных #Программирование #КомпьютерныеНауки #Python #JavaScript #Java"
+  "vk_title": "Сортировка Циклами: Гений Минимальных Записей! 🤯♻️",
+  "vk_desc": "Погрузитесь в мир Сортировки Циклами – алгоритма, который блестяще справляется с сортировкой, делая минимум записей! Мы визуализируем, как он находит циклы и ставит элементы на свои места. Идеально для тех, кто ценит эффективность! 🚀\n\n#СортировкаЦиклами #Алгоритмы #СтруктурыДанных #Программирование #ВизуализацияКода #CS"
 }
