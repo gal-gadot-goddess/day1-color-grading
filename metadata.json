@@ -1,24 +1,26 @@
 {
-  "title": "Comb Sort: The Sorting Algorithm That ACTUALLY Works (Fast!)",
-  "ig_caption": "Comb Sort: The secret weapon for FAST sorting! 🚀 Watch how this clever algorithm cuts through the chaos. You NEED to see this! 🔥 #CombSort #CodingHacks #AlgorithmMagic #TechTok",
-  "fb_caption": "Ever wondered how to sort data *really* fast? 🤔 Comb Sort is the answer you've been looking for! We dive into the mechanics of this efficient algorithm and why it's a game-changer. Watch now and boost your coding game! 🚀 #CombSortExplained #AlgorithmGeek #ProgrammingTips #TechEducation",
-  "threads_caption": "Comb Sort: Faster than Bubble, Smarter than Selection. See the magic happen! ✨ #Coding #Algorithms",
-  "hashtags": "#coding #ai #tech #algorithms #computerscience #programming #datastructures #softwaredevelopment #learncoding #codinglife #techtrends #viraltech #comb_sort",
-  "yt_description": "Tired of slow sorting algorithms? 🐢 Meet Comb Sort! ✨ We break down how this efficient algorithm sorts data with lightning speed, explaining the 'comb' gap for maximum performance. ⚡️ Perfect for your next coding challenge or to impress your tech friends! 🤓\n\n#CombSort #Algorithm #DataStructures #ComputerScience #Programming #CodingTutorial #EfficientCode #TechExplained #ViralCoding",
+  "title": "Cycle Sort: The Algorithm That UNPACKS Itself! 🤯 (Visualized)",
+  "ig_caption": "Unpacking the magic of Cycle Sort! ✨ This algorithm is a puzzle where every piece fits perfectly. Ready to see it in action? 🚀 #cyclesort #coding #algorithms #visualcoding #tech #computerscience #programming",
+  "fb_caption": "Prepare to be amazed by Cycle Sort! 🤩 This algorithm isn't just about sorting; it's about understanding movement and placement in a whole new way. We've visualized it to show you exactly how it works its magic. ✨ Click to see why Cycle Sort is a fascinating piece of algorithmic art! 🎨 #CycleSort #Algorithm #CodingLife #TechExplained #ComputerScience #ProgrammingFun #DataScienceVisualized",
+  "threads_caption": "Cycle Sort: Where elements move in perfect cycles to find their rightful place. 🔄 Mind. Blown. 🤯 #cyclesort #algos",
+  "hashtags": "#cyclesort #algorithms #datascience #coding #programming #computerscience #visualisation #tech #ai #machinelearning #optimization",
+  "yt_description": "Ever wondered how sorting algorithms can be elegant AND efficient? 🤔 Welcome to Cycle Sort! We're diving deep into this unique sorting method, visualizing its step-by-step process like never before. ✨ See how it places elements in their correct positions with minimal writes. Perfect for understanding the mechanics of sorting, competitive programming, and even AI concepts! 🤖 Get ready for a mind-bending visualization that makes Cycle Sort crystal clear! 💎\n\n#cyclesort #algorithms #datascience #coding #programming #computerscience #visualisation #tutorial #learncode #tech",
   "yt_tags": [
-    "Comb Sort",
+    "Cycle Sort",
+    "Algorithm Visualization",
     "Sorting Algorithms",
-    "Algorithm Explained",
-    "Data Structures",
     "Computer Science",
+    "Data Structures",
     "Programming Tutorial",
-    "Efficient Algorithms",
-    "Code Visualization",
+    "Coding Explained",
+    "Competitive Programming",
+    "Algorithm Explained",
     "Learn to Code",
-    "Tech Explained",
-    "Fast Sorting",
-    "Bubble Sort Improvement"
+    "Big O Notation",
+    "Python",
+    "JavaScript",
+    "Java"
   ],
-  "vk_title": "Сортировка Расческой (Comb Sort): Как это работает?",
-  "vk_desc": "Узнайте, как алгоритм сортировки расческой (Comb Sort) ускоряет процесс сортировки данных, используя умное уменьшение шага. Простое объяснение и визуализация! 💡"
+  "vk_title": "Визуализация Сортировки Циклами: Как Это Работает?",
+  "vk_desc": "Глубокое погружение в алгоритм сортировки циклами! 🌀 Узнайте, как он расставляет элементы на свои места с минимальным количеством записей. Наглядная визуализация поможет понять принцип работы этого уникального метода сортировки. Отлично подходит для изучения основ CS, подготовки к олимпиадам и понимания принципов ИИ. 🤖"
 }
