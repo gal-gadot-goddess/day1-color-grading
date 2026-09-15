@@ -64,6 +64,9 @@ const FINAL_OUTPUT = './output_kreggscode.mp4';
             if (window.audioService.masterGain) {
                 window.audioService.masterGain.connect(dest);
             }
+            if (window.audioService.delayNode) {
+                window.audioService.delayNode.connect(dest);
+            }
 
             const recorder = new MediaRecorder(dest.stream, { mimeType: 'audio/webm' });
             recorder.ondataavailable = async (e) => {

@@ -457,8 +457,8 @@ export function* bogoSort(array: ColorItem[]): Generator<SortStep> {
     for (let i = arr.length - 1; i > 0; i--) {
       const j = Math.floor(Math.random() * (i + 1));
       [arr[i], arr[j]] = [arr[j], arr[i]];
+      yield { array: [...arr], comparingIndices: [], swappingIndices: [i, j], activeIndices: [], currentLine: 2 };
     }
-    yield { array: [...arr], comparingIndices: [], swappingIndices: [], activeIndices: [], currentLine: 2 };
   }
   yield { array: [...arr], comparingIndices: [], swappingIndices: [], activeIndices: [], currentLine: 4 };
 }

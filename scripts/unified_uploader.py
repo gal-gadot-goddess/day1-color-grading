@@ -93,25 +93,11 @@ def main():
         print(f"ðŸ–¼ï¸ Thumbnail Path: {thumb_path}")
     print(f"ðŸ”‘ Content Hash: {content_hash}\n")
 
-    # 1. Instagram Reel
-    if not is_uploaded(history, content_hash, 'instagram_reel'):
-        print("ðŸ“¸ Starting Instagram Reel...")
-        try:
-            upload_to_instagram(str(video_path), instagram_full, is_story=False)
-            mark_uploaded(history, content_hash, 'instagram_reel')
-            print("âœ… Instagram Reel Success")
-        except Exception as e: print(f"âŒ Instagram Reel failed: {e}")
-    else: print("â­ï¸ Skipping Instagram Reel")
+    # 1. Instagram Reel (Disabled as requested)
+    print("📸 Skipping Instagram Reel (Instagram upload disabled)")
 
-    # 2. Instagram Story
-    if not is_uploaded(history, content_hash, 'instagram_story'):
-        print("ðŸ“¸ Starting Instagram Story...")
-        try:
-            upload_to_instagram(str(video_path), title, is_story=True)
-            mark_uploaded(history, content_hash, 'instagram_story')
-            print("âœ… Instagram Story Success")
-        except Exception as e: print(f"âŒ Instagram Story failed: {e}")
-    else: print("â­ï¸ Skipping Instagram Story")
+    # 2. Instagram Story (Disabled as requested)
+    print("📸 Skipping Instagram Story (Instagram upload disabled)")
 
     # 3. Facebook Reel
     if not is_uploaded(history, content_hash, 'facebook_reel'):

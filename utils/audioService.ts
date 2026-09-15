@@ -2,7 +2,7 @@
 class AudioService {
   public ctx: AudioContext | null = null;
   public masterGain: GainNode | null = null;
-  private delayNode: DelayNode | null = null;
+  public delayNode: DelayNode | null = null;
   private feedbackGain: GainNode | null = null;
   private soundEnabled: boolean = false;
 
@@ -12,7 +12,7 @@ class AudioService {
 
       // Master Chain: Gain -> Delay/Feedback -> Destination
       this.masterGain = this.ctx.createGain();
-      this.masterGain.gain.value = 0.25;
+      this.masterGain.gain.value = 0.75;
 
       this.delayNode = this.ctx.createDelay();
       this.delayNode.delayTime.value = 0.15; // 150ms echo
