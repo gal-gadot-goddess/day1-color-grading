@@ -113,7 +113,8 @@ const FINAL_OUTPUT = './output_kreggscode.mp4';
     ]);
     console.log('⏳ Capture complete or timed out.');
 
-    await new Promise(r => setTimeout(r, 2000));
+    // Hold on final sorted spectrum for 5 seconds so viewers can admire the sorted color palette!
+    await new Promise(r => setTimeout(r, 5000));
 
     console.log('✨ Sort finished. Capturing finale...');
 

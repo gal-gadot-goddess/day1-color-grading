@@ -378,21 +378,22 @@ function* stoogeSortHelper(arr: ColorItem[], l: number, r: number): Generator<So
 
 export function* radixSort(array: ColorItem[]): Generator<SortStep> {
   const arr = [...array];
-  const max = Math.max(...arr.map(x => x.value));
-  const maxDigits = Math.floor(Math.log10(max)) + 1;
-  for (let digit = 0; digit < maxDigits; digit++) {
+  const maxVal = 10000;
+  const getInt = (x: ColorItem) => Math.round(x.value * maxVal);
+
+  for (let exp = 1; Math.floor(maxVal / exp) > 0; exp *= 10) {
     const buckets: ColorItem[][] = Array.from({ length: 10 }, () => []);
     yield { array: [...arr], comparingIndices: [], swappingIndices: [], activeIndices: [], currentLine: 2 };
     for (let i = 0; i < arr.length; i++) {
-      const bucketIdx = Math.floor(arr[i].value / Math.pow(10, digit)) % 10;
-      buckets[bucketIdx].push(arr[i]);
+      const digit = Math.floor(getInt(arr[i]) / exp) % 10;
+      buckets[digit].push(arr[i]);
       yield { array: [...arr], comparingIndices: [i], swappingIndices: [], activeIndices: [], currentLine: 3 };
     }
     let idx = 0;
     for (const bucket of buckets) {
       for (const item of bucket) {
         arr[idx] = item;
-        yield { array: [...arr], comparingIndices: [], swappingIndices: [idx], activeIndices: [], currentLine: 6 };
+        yield { array: [...arr], comparingIndices: [], swappingIndices: [idx], activeIndices: [], currentLine: 5 };
         idx++;
       }
     }
@@ -453,11 +454,21 @@ export function* bogoSort(array: ColorItem[]): Generator<SortStep> {
     }
     return true;
   }
-  while (!isSorted(arr)) {
+  let attempts = 0;
+  const maxAttempts = 35;
+  while (!isSorted(arr) && attempts < maxAttempts) {
+    attempts++;
     for (let i = arr.length - 1; i > 0; i--) {
       const j = Math.floor(Math.random() * (i + 1));
       [arr[i], arr[j]] = [arr[j], arr[i]];
       yield { array: [...arr], comparingIndices: [], swappingIndices: [i, j], activeIndices: [], currentLine: 2 };
+    }
+  }
+  if (!isSorted(arr)) {
+    // If not sorted after demoing chaotic shuffles, sort cleanly to complete the spectrum
+    arr.sort((a, b) => a.value - b.value);
+    for (let i = 0; i < arr.length; i++) {
+      yield { array: [...arr], comparingIndices: [i], swappingIndices: [], activeIndices: [i], currentLine: 3 };
     }
   }
   yield { array: [...arr], comparingIndices: [], swappingIndices: [], activeIndices: [], currentLine: 4 };

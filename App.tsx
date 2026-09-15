@@ -72,7 +72,7 @@ const App: React.FC = () => {
     return params.get('auto') === 'true';
   });
 
-  const [items, setItems] = useState<ColorItem[]>([]);
+  const [items, setItems] = useState<ColorItem[]>(() => generateThemeArray(arraySize, theme));
   const [isSorting, setIsSorting] = useState(false);
   const [currentStep, setCurrentStep] = useState<SortStep | null>(null);
   const [completed, setCompleted] = useState(false);
@@ -332,50 +332,51 @@ const App: React.FC = () => {
           })}
         </div>
 
-        {/* COMPACT & ELEGANT CODE TERMINAL (Clean & Balanced, not overpowering) */}
-        <div className="w-full max-w-5xl bg-[#090b10] border border-white/15 rounded-3xl overflow-hidden shadow-[0_20px_70px_rgba(0,0,0,0.9)] flex flex-col mb-4 z-20 backdrop-blur-xl">
-          <div className="bg-[#10141d] px-8 py-4 flex items-center gap-5 border-b border-white/10">
-            <div className="flex gap-3">
-              <div className="w-4 h-4 rounded-full bg-[#FF5F56] shadow-md shadow-red-500/30" />
-              <div className="w-4 h-4 rounded-full bg-[#FFBD2E] shadow-md shadow-yellow-500/30" />
-              <div className="w-4 h-4 rounded-full bg-[#27C93F] shadow-md shadow-green-500/30" />
+        {/* HIGH CONTRAST & CLEAR CODE TERMINAL */}
+        <div className="w-full max-w-5xl bg-[#0b0f19] border-2 border-white/20 rounded-3xl overflow-hidden shadow-[0_25px_80px_rgba(0,0,0,0.95)] flex flex-col mb-4 z-20 backdrop-blur-2xl">
+          <div className="bg-[#131926] px-8 py-4 flex items-center justify-between border-b border-white/15">
+            <div className="flex items-center gap-5">
+              <div className="flex gap-2.5">
+                <div className="w-4 h-4 rounded-full bg-[#FF5F56] shadow-md shadow-red-500/40" />
+                <div className="w-4 h-4 rounded-full bg-[#FFBD2E] shadow-md shadow-yellow-500/40" />
+                <div className="w-4 h-4 rounded-full bg-[#27C93F] shadow-md shadow-green-500/40" />
+              </div>
+              <span className="text-xl font-mono text-zinc-200 font-bold tracking-wider">
+                {metadata.name.toLowerCase().replace(/\s+/g, '_')}.js
+              </span>
             </div>
-            <span className="text-xl font-mono text-zinc-400 font-bold tracking-wider">
-              {metadata.name.toLowerCase().replace(/\s+/g, '_')}.js
-            </span>
-            <div className="ml-auto text-lg font-mono text-zinc-600 font-black tracking-widest uppercase">
-              @this.girl.tech
+            <div className="px-4 py-1 rounded-full bg-white/10 border border-white/20 text-sm font-mono text-cyan-300 font-black tracking-widest uppercase">
+              ALGORITHM SOURCE
             </div>
           </div>
 
-          <div className="p-8 font-mono text-2xl leading-[1.65] text-zinc-200 max-h-[360px] overflow-hidden bg-black/60">
+          <div className="p-8 font-mono text-2xl leading-[1.7] text-white max-h-[380px] overflow-hidden bg-[#070a10]">
             {metadata.code.slice(0, 9).map((line, i) => {
               const isActive = currentStep?.currentLine === i + 1;
               return (
                 <div
                   key={i}
-                  className={`py-1 whitespace-pre flex gap-8 transition-all duration-200 rounded-lg px-4 ${isActive
-                    ? 'border-l-4 scale-[1.03] origin-left z-30 font-bold'
-                    : 'opacity-40'
+                  className={`py-1.5 whitespace-pre flex gap-8 transition-all duration-150 rounded-xl px-4 ${isActive
+                    ? 'border-l-4 scale-[1.02] origin-left z-30 font-extrabold bg-white/10'
+                    : 'opacity-85'
                     }`}
                   style={{
-                    backgroundColor: isActive ? `color-mix(in srgb, ${highlightColor}, transparent 88%)` : 'transparent',
-                    borderLeftColor: isActive ? highlightColor : 'transparent',
-                    boxShadow: isActive ? `0 0 35px color-mix(in srgb, ${highlightColor}, transparent 85%)` : 'none'
+                    borderLeftColor: isActive ? (highlightColor || '#00f0ff') : 'transparent',
+                    boxShadow: isActive ? `0 0 30px ${highlightColor || '#00f0ff'}44` : 'none'
                   }}
                 >
-                  <span className="select-none w-8 text-right text-zinc-600 font-bold" style={{ color: isActive ? highlightColor : undefined }}>
+                  <span className={`select-none w-8 text-right font-bold ${isActive ? 'text-white' : 'text-zinc-500'}`}>
                     {i + 1}
                   </span>
-                  <span style={{ color: isActive ? '#ffffff' : undefined, textShadow: isActive ? `0 0 12px ${highlightColor}` : 'none' }}>
+                  <span style={{ color: isActive ? '#ffffff' : '#e4e4e7', textShadow: isActive ? `0 0 10px ${highlightColor || '#00f0ff'}` : 'none' }}>
                     {line.split(/(function|const|let|var|for|if|while|return|break|true|false|null|=>)/).map((part, pi) => {
                       if (part === 'function' || part === 'const' || part === 'let' || part === 'var')
                         return <span key={pi} className="text-[#ff79c6] font-bold">{part}</span>;
                       if (part === 'for' || part === 'if' || part === 'while' || part === 'break' || part === 'return' || part === '=>')
                         return <span key={pi} className="text-[#bd93f9] font-bold">{part}</span>;
                       if (part === 'true' || part === 'false' || part === 'null')
-                        return <span key={pi} className="text-[#ffb86c] font-bold">{part}</span>;
-                      return <span key={pi} className="text-zinc-200">{part}</span>;
+                        return <span key={pi} className="text-[#50fa7b] font-bold">{part}</span>;
+                      return <span key={pi} className="text-zinc-100">{part}</span>;
                     })}
                   </span>
                 </div>
@@ -383,7 +384,7 @@ const App: React.FC = () => {
             })}
           </div>
 
-          <div className="bg-[#10141d] py-3 text-center text-zinc-500 text-base font-mono font-bold tracking-[0.3em] uppercase border-t border-white/10">
+          <div className="bg-[#131926] py-3 text-center text-zinc-400 text-base font-mono font-bold tracking-[0.3em] uppercase border-t border-white/15">
             COLOR GRADING // VISUALIZED BY KREGGSCODE
           </div>
         </div>
