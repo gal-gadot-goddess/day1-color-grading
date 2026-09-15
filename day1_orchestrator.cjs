@@ -24,8 +24,9 @@ const ALGORITHMS = [
     { id: 'BOGO', name: 'Bogo Sort', desc: 'A highly inefficient sort that repeatedly shuffles until sorted by chance.' }
 ];
 
-const THEMES = ['GREEN', 'RAINBOW', 'FIRE', 'OCEAN', 'RANDOM'];
-const SHAPES = ['BAR', 'BUBBLE'];
+const THEMES = ['GREEN', 'RAINBOW', 'FIRE', 'OCEAN', 'CYBERPUNK', 'SUNSET', 'NEON_TOXIC', 'GOLDEN_HOUR', 'RETRO_WAVE', 'EMERALD_MINT', 'AMETHYST', 'PASTEL_CANDY', 'RANDOM'];
+const SHAPES = ['BAR', 'BUBBLE', 'PILL', 'WAVE'];
+const SOUNDS = ['CRYSTAL', 'MARIMBA', 'RETRO_8BIT', 'SYNTH_CHORD'];
 
 function runCommand(command, args, options = {}) {
     return new Promise((resolve, reject) => {
@@ -50,17 +51,18 @@ async function automateDay1() {
     const selectedAlgo = ALGORITHMS[Math.floor(Math.random() * ALGORITHMS.length)];
     const selectedTheme = THEMES[Math.floor(Math.random() * THEMES.length)];
     const selectedShape = SHAPES[Math.floor(Math.random() * SHAPES.length)];
-    const selectedSize = Math.floor(Math.random() * (35 - 12 + 1)) + 12;
-    const selectedSpeed = Math.floor(Math.random() * (95 - 30 + 1)) + 30;
+    const selectedSound = SOUNDS[Math.floor(Math.random() * SOUNDS.length)];
+    const selectedSize = Math.floor(Math.random() * (28 - 14 + 1)) + 14;
+    const selectedSpeed = Math.floor(Math.random() * (92 - 65 + 1)) + 65;
 
-    console.log(`\n🌟 DAY 1 VARIATION GENERATOR: [${selectedAlgo.name}] [${selectedTheme}] shape=${selectedShape} size=${selectedSize} speed=${selectedSpeed} 🌟\n`);
+    console.log(`\n🌟 DAY 1 VARIATION GENERATOR: [${selectedAlgo.name}] [${selectedTheme}] shape=${selectedShape} sound=${selectedSound} size=${selectedSize} speed=${selectedSpeed} 🌟\n`);
 
-    const videoName = `output_${selectedAlgo.id}_${selectedTheme}_${selectedShape}_${Date.now()}.mp4`;
+    const videoName = `output_${selectedAlgo.id}_${selectedTheme}_${selectedShape}_${selectedSound}_${Date.now()}.mp4`;
     const videoPath = path.join(__dirname, videoName);
 
     try {
         console.log(`🎥 [1/3] Generating Video...`);
-        await runCommand('node', ['capture_demo.js', selectedAlgo.id, selectedTheme, String(selectedSize), String(selectedSpeed), selectedShape], { cwd: __dirname });
+        await runCommand('node', ['capture_demo.js', selectedAlgo.id, selectedTheme, String(selectedSize), String(selectedSpeed), selectedShape, selectedSound], { cwd: __dirname });
 
         if (fs.existsSync(path.join(__dirname, 'output_kreggscode.mp4'))) {
             fs.renameSync(path.join(__dirname, 'output_kreggscode.mp4'), videoPath);

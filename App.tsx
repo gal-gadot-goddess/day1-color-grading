@@ -48,12 +48,18 @@ const App: React.FC = () => {
   const [theme, setTheme] = useState<ColorTheme>(() => {
     const params = new URLSearchParams(window.location.search);
     const t = params.get('theme');
-    return (t && ['GREEN', 'RAINBOW', 'FIRE', 'OCEAN', 'RANDOM'].includes(t)) ? (t as ColorTheme) : 'GREEN';
+    const validThemes: ColorTheme[] = ['GREEN', 'RAINBOW', 'FIRE', 'OCEAN', 'CYBERPUNK', 'SUNSET', 'NEON_TOXIC', 'GOLDEN_HOUR', 'RETRO_WAVE', 'EMERALD_MINT', 'AMETHYST', 'PASTEL_CANDY', 'RANDOM'];
+    return (t && validThemes.includes(t as ColorTheme)) ? (t as ColorTheme) : 'CYBERPUNK';
   });
   const [shape, setShape] = useState<VisualShape>(() => {
     const params = new URLSearchParams(window.location.search);
     const s = params.get('shape');
-    return (s && ['BAR', 'BUBBLE'].includes(s)) ? (s as VisualShape) : 'BAR';
+    return (s && ['BAR', 'BUBBLE', 'PILL', 'WAVE'].includes(s)) ? (s as VisualShape) : 'PILL';
+  });
+  const [soundMode, setSoundMode] = useState<SoundMode>(() => {
+    const params = new URLSearchParams(window.location.search);
+    const sm = params.get('sound');
+    return (sm && ['CRYSTAL', 'MARIMBA', 'RETRO_8BIT', 'SYNTH_CHORD'].includes(sm)) ? (sm as SoundMode) : 'CRYSTAL';
   });
 
   const [hideUI, setHideUI] = useState(() => {
@@ -104,6 +110,7 @@ const App: React.FC = () => {
   const startSorting = () => {
     // Attempt audio init again just in case
     audioService.init();
+    audioService.setSoundMode(soundMode);
 
     if (completed) {
       resetArray();
@@ -198,131 +205,196 @@ const App: React.FC = () => {
   const metadata = ALGORITHM_DATA[algorithm];
 
   // Dynamic Highlighter Color: Prioritize active element's hex, fallback to theme primary
+  // Dynamic Highlighter Color: Prioritize active element's hex, fallback to theme primary
   const themePrimary = ({
     GREEN: '#39FF14',
-    FIRE: '#FF3300',
+    FIRE: '#FF4500',
     OCEAN: '#00D4FF',
     RAINBOW: '#BD93F9',
-    RANDOM: '#BD93F9'
-  } as Record<string, string>)[theme];
+    CYBERPUNK: '#00F0FF',
+    SUNSET: '#FF5E36',
+    NEON_TOXIC: '#39FF14',
+    GOLDEN_HOUR: '#FFAA00',
+    RETRO_WAVE: '#FF007F',
+    EMERALD_MINT: '#00FFA3',
+    AMETHYST: '#A855F7',
+    PASTEL_CANDY: '#FF70A6',
+    RANDOM: '#00F0FF'
+  } as Record<string, string>)[theme] || '#00F0FF';
 
   const highlightColor = (currentStep && (currentStep.swappingIndices.length > 0 || currentStep.comparingIndices.length > 0))
     ? (currentStep.array[currentStep.swappingIndices[0] ?? currentStep.comparingIndices[0]].hex)
     : themePrimary;
 
+  // Active comparing/swapping item hex for ambient lighting
+  const activeColor = (currentStep && currentStep.swappingIndices.length > 0)
+    ? currentStep.array[currentStep.swappingIndices[0]].hex
+    : ((currentStep && currentStep.comparingIndices.length > 0)
+      ? currentStep.array[currentStep.comparingIndices[0]].hex
+      : highlightColor);
+
   return (
-    <div className="h-screen w-full bg-[#050505] text-white overflow-hidden font-sans select-none relative">
-      <div className="w-full h-full flex flex-col items-center justify-between p-[12%] py-[15%] relative">
+    <div className="h-screen w-full bg-[#030408] text-white overflow-hidden font-sans select-none relative flex flex-col items-center justify-between">
+      {/* Dynamic Ambient Glow Backdrops */}
+      <div 
+        className="absolute -top-40 -left-40 w-[600px] h-[600px] rounded-full filter blur-[150px] opacity-20 pointer-events-none transition-colors duration-700"
+        style={{ backgroundColor: activeColor }}
+      />
+      <div 
+        className="absolute -bottom-40 -right-40 w-[600px] h-[600px] rounded-full filter blur-[150px] opacity-20 pointer-events-none transition-colors duration-700"
+        style={{ backgroundColor: highlightColor }}
+      />
+      
+      {/* Background Subtle Grid */}
+      <div 
+        className="absolute inset-0 pointer-events-none opacity-25"
+        style={{
+          backgroundImage: 'linear-gradient(rgba(255, 255, 255, 0.03) 1px, transparent 1px), linear-gradient(90deg, rgba(255, 255, 255, 0.03) 1px, transparent 1px)',
+          backgroundSize: '60px 60px'
+        }}
+      />
 
-        {/* Branding Watermark */}
-        <div className="absolute top-8 right-8 text-zinc-800 text-3xl font-black uppercase tracking-widest opacity-30 pointer-events-none rotate-90 origin-top-right">
-          kreggscode
-        </div>
+      <div className="w-full h-full flex flex-col items-center justify-between px-16 pt-24 pb-20 relative z-10 box-border">
 
-        {/* Persistent Header Section */}
-        <header className="w-full max-w-5xl mt-8 text-center z-40 relative">
-          <h1 className="text-7xl font-black mono tracking-tighter text-white mb-4 drop-shadow-2xl">
+        {/* Top Header Section */}
+        <header className="w-full max-w-5xl text-center z-40 relative">
+          <div className="inline-flex items-center gap-3 px-5 py-2 rounded-full border border-white/10 bg-white/5 backdrop-blur-md mb-4 shadow-lg">
+            <span className="w-3 h-3 rounded-full animate-ping" style={{ backgroundColor: highlightColor }} />
+            <span className="text-sm font-mono tracking-[0.25em] text-zinc-400 uppercase font-bold">COLOR GRADING VISUALIZER</span>
+          </div>
+
+          <h1 className="text-8xl font-black font-mono tracking-tight text-white mb-4 drop-shadow-[0_10px_35px_rgba(0,0,0,0.9)] uppercase">
             {metadata.name}
           </h1>
-          <p className="text-zinc-400 text-2xl font-medium italic mb-8 max-w-3xl mx-auto leading-relaxed">
+
+          <p className="text-zinc-300 text-2xl font-medium italic mb-6 max-w-3xl mx-auto leading-relaxed text-balance">
             {metadata.description}
           </p>
-          <div className="flex justify-center items-center gap-16 text-2xl mono uppercase font-black text-zinc-500">
-            <div className="flex items-center gap-4">
-              <span className="w-4 h-4 rounded-full" style={{ backgroundColor: highlightColor }}></span> {metadata.timeComplexity}
+
+          <div className="flex justify-center items-center gap-14 text-2xl font-mono uppercase font-black text-zinc-400">
+            <div className="flex items-center gap-4 bg-zinc-900/80 px-6 py-2.5 rounded-2xl border border-white/10 shadow-lg">
+              <span className="w-4 h-4 rounded-full shadow-[0_0_15px]" style={{ backgroundColor: highlightColor }} /> 
+              <span>TIME: {metadata.timeComplexity}</span>
             </div>
-            <div className="flex items-center gap-4">
-              <span className="w-4 h-4 rounded-full opacity-60" style={{ backgroundColor: highlightColor }}></span> {metadata.spaceComplexity}
+            <div className="flex items-center gap-4 bg-zinc-900/80 px-6 py-2.5 rounded-2xl border border-white/10 shadow-lg">
+              <span className="w-4 h-4 rounded-full opacity-60 shadow-[0_0_15px]" style={{ backgroundColor: highlightColor }} /> 
+              <span>SPACE: {metadata.spaceComplexity}</span>
             </div>
           </div>
         </header>
 
-        {/* Visualizer Area - Enlarged */}
-        <div className="w-full max-w-6xl flex-grow flex items-stretch justify-center gap-2 my-8 px-4 relative">
+        {/* HERO VISUALIZER: High Impact Color Spectrum Display */}
+        <div className="w-full max-w-6xl h-[520px] my-4 flex items-end justify-center gap-3 px-6 pb-6 pt-12 relative bg-black/40 border border-white/10 rounded-[36px] backdrop-blur-xl shadow-[0_20px_80px_rgba(0,0,0,0.8)] overflow-hidden">
+          {/* Top Info Bar inside visualizer */}
+          <div className="absolute top-4 left-6 flex items-center gap-3 px-4 py-1 rounded-full bg-black/60 border border-white/15 backdrop-blur-md">
+            <span className={`w-2.5 h-2.5 rounded-full ${isSorting ? 'bg-amber-400 animate-pulse' : (completed ? 'bg-emerald-400' : 'bg-zinc-500')}`} />
+            <span className="text-xs font-mono font-bold tracking-wider text-zinc-300">
+              {isSorting ? 'CALIBRATING...' : (completed ? 'SPECTRUM GRADED 100%' : 'READY')}
+            </span>
+          </div>
+
+          <div className="absolute top-4 right-6 text-xs font-mono tracking-widest text-zinc-400 font-bold uppercase bg-black/60 px-4 py-1 rounded-full border border-white/15">
+            {theme} • {shape} • {soundMode}
+          </div>
+
           {displayedArray.map((item, idx) => {
             const isComparing = currentStep?.comparingIndices.includes(idx);
             const isSwapping = currentStep?.swappingIndices.includes(idx);
+            const isActive = isComparing || isSwapping;
+            const barHeightPct = shape === 'BUBBLE' ? '100%' : (shape === 'WAVE' ? `${35 + Math.sin(item.value * Math.PI) * 65}%` : `${20 + item.value * 80}%`);
+
+            let shapeClass = 'rounded-2xl';
+            if (shape === 'BUBBLE') shapeClass = 'rounded-full aspect-square self-center';
+            else if (shape === 'PILL') shapeClass = 'rounded-full';
+
             return (
               <div
                 key={item.id}
-                className={`flex-1 transition-all duration-75 ${shape === 'BUBBLE' ? 'rounded-full scale-90' : 'rounded-lg'} ${completed ? 'ring-4 ring-emerald-500/30' : ''}`}
+                className={`flex-1 transition-all duration-100 relative ${shapeClass} ${completed ? 'ring-2 ring-white/50' : ''}`}
                 style={{
+                  height: shape === 'BUBBLE' ? undefined : barHeightPct,
                   backgroundColor: item.hex,
-                  filter: (isComparing || isSwapping) ? 'brightness(1.5) saturate(1.2)' : 'none',
-                  boxShadow: (isComparing || isSwapping) ? `0 0 40px ${item.hex}` : 'none',
-                  zIndex: (isComparing || isSwapping) ? 10 : 1,
-                  transform: (isComparing || isSwapping) ? 'scaleY(1.05) scaleX(1.1)' : (shape === 'BUBBLE' ? 'scale(0.95)' : 'none')
+                  filter: isActive ? 'brightness(1.6) saturate(1.4)' : (completed ? 'brightness(1.1)' : 'brightness(0.95)'),
+                  boxShadow: isActive ? `0 0 45px ${item.hex}, inset 0 0 20px rgba(255,255,255,0.6)` : (completed ? `0 0 15px ${item.hex}55` : `0 4px 15px rgba(0,0,0,0.4)`),
+                  zIndex: isActive ? 30 : 2,
+                  transform: isActive ? 'scale(1.15) translateY(-8px)' : 'scale(1)'
                 }}
-              />
+              >
+                {/* Active Indicator Flare */}
+                {isActive && (
+                  <div 
+                    className="absolute -top-4 left-1/2 -translate-x-1/2 w-3 h-3 rounded-full animate-ping"
+                    style={{ backgroundColor: item.hex }}
+                  />
+                )}
+              </div>
             );
           })}
-
-          {/* Sorting Overlay Status when UI hidden */}
-          {isSorting && hideUI && (
-            <div className="absolute bottom-10 left-1/2 -translate-x-1/2 text-2xl font-black tracking-widest text-white/20 animate-pulse">
-              SORTING...
-            </div>
-          )}
         </div>
 
-        {/* Code Terminal - Massive and High Detail */}
-        <div className="w-full max-w-5xl bg-[#080808] border border-zinc-800/50 rounded-3xl overflow-hidden shadow-[0_0_100px_rgba(0,0,0,0.8)] flex flex-col mb-12 z-20 transition-all duration-500 group">
-          <div className="bg-[#121212] px-10 py-6 flex items-center gap-6 border-b border-zinc-800/50">
-            <div className="flex gap-4">
-              <div className="w-6 h-6 rounded-full bg-[#FF5F56] shadow-lg shadow-red-500/20" />
-              <div className="w-6 h-6 rounded-full bg-[#FFBD2E] shadow-lg shadow-yellow-500/20" />
-              <div className="w-6 h-6 rounded-full bg-[#27C93F] shadow-lg shadow-green-500/20" />
+        {/* COMPACT & ELEGANT CODE TERMINAL (Clean & Balanced, not overpowering) */}
+        <div className="w-full max-w-5xl bg-[#090b10] border border-white/15 rounded-3xl overflow-hidden shadow-[0_20px_70px_rgba(0,0,0,0.9)] flex flex-col mb-4 z-20 backdrop-blur-xl">
+          <div className="bg-[#10141d] px-8 py-4 flex items-center gap-5 border-b border-white/10">
+            <div className="flex gap-3">
+              <div className="w-4 h-4 rounded-full bg-[#FF5F56] shadow-md shadow-red-500/30" />
+              <div className="w-4 h-4 rounded-full bg-[#FFBD2E] shadow-md shadow-yellow-500/30" />
+              <div className="w-4 h-4 rounded-full bg-[#27C93F] shadow-md shadow-green-500/30" />
             </div>
-            <div className="ml-auto text-2xl mono text-zinc-600 font-black tracking-widest uppercase">
-              kreggscode.js
+            <span className="text-xl font-mono text-zinc-400 font-bold tracking-wider">
+              {metadata.name.toLowerCase().replace(/\s+/g, '_')}.js
+            </span>
+            <div className="ml-auto text-lg font-mono text-zinc-600 font-black tracking-widest uppercase">
+              @this.girl.tech
             </div>
           </div>
 
-          <div className="p-12 font-mono text-3xl leading-[1.7] text-white min-h-[550px] overflow-hidden bg-black/40 backdrop-blur-md">
-            {metadata.code.map((line, i) => {
+          <div className="p-8 font-mono text-2xl leading-[1.65] text-zinc-200 max-h-[360px] overflow-hidden bg-black/60">
+            {metadata.code.slice(0, 9).map((line, i) => {
               const isActive = currentStep?.currentLine === i + 1;
               return (
                 <div
                   key={i}
-                  className={`py-2 whitespace-pre flex gap-16 transition-all duration-300 ${isActive
-                    ? '-mx-16 px-16 border-l-[24px] scale-[1.08] origin-left z-30'
+                  className={`py-1 whitespace-pre flex gap-8 transition-all duration-200 rounded-lg px-4 ${isActive
+                    ? 'border-l-4 scale-[1.03] origin-left z-30 font-bold'
                     : 'opacity-40'
                     }`}
                   style={{
-                    backgroundColor: isActive ? `color-mix(in srgb, ${highlightColor}, transparent 85%)` : 'transparent',
+                    backgroundColor: isActive ? `color-mix(in srgb, ${highlightColor}, transparent 88%)` : 'transparent',
                     borderLeftColor: isActive ? highlightColor : 'transparent',
-                    boxShadow: isActive ? `0 0 60px color-mix(in srgb, ${highlightColor}, transparent 80%)` : 'none'
+                    boxShadow: isActive ? `0 0 35px color-mix(in srgb, ${highlightColor}, transparent 85%)` : 'none'
                   }}
                 >
-                  <span className={`select-none w-12 text-right font-black transition-all ${isActive ? 'scale-125' : 'text-zinc-800'}`} style={{ color: isActive ? highlightColor : undefined, textShadow: isActive ? `0 0 20px ${highlightColor}` : 'none' }}>{i + 1}</span>
-                  <span className={`tracking-tight font-black`} style={{ color: isActive ? '#fff' : undefined, textShadow: isActive ? `0 0 15px ${highlightColor}` : 'none' }}>
+                  <span className="select-none w-8 text-right text-zinc-600 font-bold" style={{ color: isActive ? highlightColor : undefined }}>
+                    {i + 1}
+                  </span>
+                  <span style={{ color: isActive ? '#ffffff' : undefined, textShadow: isActive ? `0 0 12px ${highlightColor}` : 'none' }}>
                     {line.split(/(function|const|let|var|for|if|while|return|break|true|false|null|=>)/).map((part, pi) => {
                       if (part === 'function' || part === 'const' || part === 'let' || part === 'var')
-                        return <span key={pi} className="text-[#ff79c6] font-black">{part}</span>; // Pink
+                        return <span key={pi} className="text-[#ff79c6] font-bold">{part}</span>;
                       if (part === 'for' || part === 'if' || part === 'while' || part === 'break' || part === 'return' || part === '=>')
-                        return <span key={pi} className="text-[#bd93f9] font-black">{part}</span>; // Purple
+                        return <span key={pi} className="text-[#bd93f9] font-bold">{part}</span>;
                       if (part === 'true' || part === 'false' || part === 'null')
-                        return <span key={pi} className="text-[#ffb86c] font-black">{part}</span>; // Orange
-                      return <span key={pi} className="text-white">{part}</span>;
+                        return <span key={pi} className="text-[#ffb86c] font-bold">{part}</span>;
+                      return <span key={pi} className="text-zinc-200">{part}</span>;
                     })}
                   </span>
                 </div>
               );
             })}
           </div>
-          {/* Footer branding in terminal */}
-          <div className="bg-[#121212] py-4 text-center text-zinc-700 text-lg font-black tracking-[0.4em] uppercase border-t border-zinc-800/50">
-            ALGORITHM VISUALIZATION // @kreggscode
+
+          <div className="bg-[#10141d] py-3 text-center text-zinc-500 text-base font-mono font-bold tracking-[0.3em] uppercase border-t border-white/10">
+            COLOR GRADING // VISUALIZED BY KREGGSCODE
           </div>
         </div>
 
-        {/* Hidden Controls - For initial trigger and debugging */}
+        {/* Start Button (Visible only when idle) */}
         {!isSorting && !completed && (
           <button
             onClick={startSorting}
-            className="fixed bottom-10 left-1/2 -translate-x-1/2 bg-white text-black text-2xl font-black px-12 py-4 rounded-full uppercase tracking-widest hover:bg-emerald-400 transition-all z-50 shadow-2xl"
+            className="bg-white text-black text-2xl font-black px-12 py-4 rounded-full uppercase tracking-widest hover:scale-105 transition-all z-50 shadow-[0_0_50px_rgba(255,255,255,0.4)]"
           >
-            Begin Experience
+            Grade Palette
           </button>
         )}
       </div>
