@@ -68,19 +68,6 @@ def cleanup_compressed(file_path):
         pass
 
 
-    for name, upload_func in HOSTING_SERVICES:
-        try:
-            print(f"[instagram] Trying {name}...")
-            url = upload_func(file_path)
-            print(f"[instagram] Uploaded via {name}: {url}")
-            return url
-        except Exception as e:
-            print(f"[instagram] {name} failed: {e}")
-            last_error = e
-            continue
-    raise Exception(f"All hosting services failed. Last error: {last_error}")
-
-
 def upload_to_instagram(video_path, caption, is_story=False):
     media_type = 'STORIES' if is_story else 'REELS'
 
@@ -145,19 +132,19 @@ def upload_to_instagram(video_path, caption, is_story=False):
 
     try:
         print("[instagram] Step 1: Uploading to GitHub raw URL...")
-        import subprocess as _sp, uuid as _uuid, os as _os
+        import uuid as _uuid, shutil as _shutil
         _vid_name = "ig_" + _uuid.uuid4().hex[:8] + ".mp4"
-        _os.system("cp " + str(upload_path) + " " + _vid_name)
-        _os.system("git config --global user.email bot@bot.com")
-        _os.system("git config --global user.name Bot")
-        _os.system("git add -f " + _vid_name)
-        _os.system("git commit -m \"add " + _vid_name + "\"")
+        _shutil.copyfile(str(upload_path), _vid_name)
+        os.system("git config --global user.email bot@bot.com")
+        os.system("git config --global user.name Bot")
+        os.system("git add -f " + _vid_name)
+        os.system("git commit -m \"add " + _vid_name + "\"")
         for _ in range(3):
-            _ret = _os.system("git push origin main")
+            _ret = os.system("git push origin main")
             if _ret == 0:
                 break
             time.sleep(5)
-        video_url = "https://raw.githubusercontent.com/day1-color-grading/main/" + _vid_name
+        video_url = "https://raw.githubusercontent.com/gal-gadot-goddess/day1-color-grading/main/" + _vid_name
         print("[instagram] GitHub raw URL: " + video_url)
 
         container_url = f"https://graph.facebook.com/v21.0/{user_id}/media"
@@ -169,7 +156,7 @@ def upload_to_instagram(video_path, caption, is_story=False):
 
         if not is_story:
             container_params['caption'] = caption_limited
-            container_params['share_to_feed'] = 'false'
+            container_params['share_to_feed'] = 'true'
             container_params['thumb_offset'] = '5000'
 
         container_response = requests.post(container_url, params=container_params, timeout=60)
@@ -202,8 +189,27 @@ def upload_to_instagram(video_path, caption, is_story=False):
         container_id = container_response.json().get('id')
         print(f"[instagram] Container created: {container_id}")
 
-        print("[instagram] Step 3: Waiting 60 seconds for processing...")
-        time.sleep(60)
+        print("[instagram] Step 3: Waiting for video container processing...")
+        status_url = f"https://graph.facebook.com/v21.0/{container_id}"
+        status_params = {
+            "fields": "status_code,status",
+            "access_token": access_token
+        }
+        max_retries = 30
+        for attempt in range(max_retries):
+            time.sleep(5)
+            try:
+                stat_res = requests.get(status_url, params=status_params, timeout=30)
+                if stat_res.status_code == 200:
+                    stat_json = stat_res.json()
+                    status_code = stat_json.get("status_code")
+                    print(f"[instagram] Container processing status: {status_code} ({attempt + 1}/{max_retries})")
+                    if status_code == "FINISHED":
+                        break
+                    if status_code == "ERROR":
+                        raise Exception(f"Instagram Container processing failed: {stat_json}")
+            except Exception as se:
+                print(f"[instagram] Status check note: {se}")
 
         # Step 4: Publish
         print("[instagram] Step 4: Publishing...")
@@ -215,13 +221,13 @@ def upload_to_instagram(video_path, caption, is_story=False):
         publish_response = requests.post(publish_url, params=publish_params, timeout=60)
 
         if publish_response.status_code != 200:
-            print("[instagram] First publish failed, retrying after 30s...")
-            time.sleep(30)
+            print("[instagram] First publish failed, retrying after 20s...")
+            time.sleep(20)
             publish_response = requests.post(publish_url, params=publish_params, timeout=60)
 
         if publish_response.status_code != 200:
             error_data = publish_response.json() if publish_response and publish_response.text else {}
-            error_msg = error_data.get("error", {}).get("message", "Unknown error")
+            error_msg = error_data.get("error", {}).get("message", publish_response.text or "Unknown error")
             print(f"[instagram] Publish failed: {error_msg}")
             raise Exception(f"Instagram Publish Error: {error_msg}")
 
