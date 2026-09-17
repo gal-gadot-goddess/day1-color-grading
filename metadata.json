@@ -1,22 +1,24 @@
 {
-  "title": "Shell Sort: The Secret Weapon Your Code Needs! 🚀 (Visualized)",
-  "ig_caption": "Shell Sort: The algorithm that dances through data! 💃✨ See how it leaps and bounds to sort faster. #CodingMagic #AlgorithmVisuals",
-  "fb_caption": "Unlock the secrets of Shell Sort! 🔓 We've created an incredible visual breakdown of this powerful sorting algorithm. See how its unique 'gap' strategy makes it a standout. Don't miss out on understanding this essential CS concept! 👇 #ShellSortExplained #CodingVisuals #AlgorithmBreakdown #SoftwareDevelopmentTips",
-  "threads_caption": "Shell Sort: Sorting with INTENT. It's not just moving, it's moving SMARTER. 🧠💡 Get ready for a visual unlock!",
-  "hashtags": "#ShellSort #Algorithms #DataStructures #Coding #Programming #ComputerScience #Tech #LearnToCode #DevLife #Visualisation",
-  "yt_description": "Ever wondered how some sorting algorithms just *feel* faster? 🤔 Meet Shell Sort! We're breaking down this surprisingly efficient algorithm with stunning visualizations that will make your brain buzz. 🧠✨ Discover its 'gap' strategy and why it's a hidden gem in the sorting world. Perfect for devs, students, and anyone curious about the magic behind sorting! \n\n#ShellSort #Algorithms #DataStructures #CodingTutorial #ComputerScience #Programming #LearnToCode #Visualized #TechExplained #SoftwareDevelopment",
+  "title": "Gnome Sort: The FUNNIEST Sorting Algorithm You've NEVER Seen! 🍄",
+  "ig_caption": "Meet the Gnome Sort! 🍄 The sorting algorithm that's so simple, it's genius (and kinda funny!). Watch this little guy sort data like magic! ✨ #GnomeSort #CodingLife #Algorithm #DataScience #TechTok #ProgrammingFun",
+  "fb_caption": "Prepare to be charmed (and enlightened!) by Gnome Sort! 🍄 This algorithm is like watching a tiny, organized gnome sort your data. It's simple, visual, and surprisingly powerful. Perfect for anyone learning about algorithms or just looking for a fun coding break! What's your favorite quirky algorithm? Let us know below! 👇",
+  "threads_caption": "Gnome Sort: So simple, it's almost absurdly effective. 🍄 Watch this algorithm do its thing! #GnomeSort #Algorithms101",
+  "hashtags": "#coding #ai #tech #algorithms #computerscience #datascience #learnprogramming #softwaredevelopment #visualisation #codingisfun",
+  "yt_description": "Ever wondered how algorithms can be both efficient AND hilariously simple? 🤔 Get ready to meet the Gnome Sort! 🍄 This algorithm, often called 'Stupid Sort', is surprisingly effective and incredibly easy to understand. We'll visualize exactly how this little gnome sorts your array, one misplaced element at a time! ✨ Perfect for beginners and a fun refresher for seasoned coders. Don't miss this quirky journey into sorting algorithms! #GnomeSort #SortingAlgorithms #DataStructures #ComputerScience #ProgrammingHumor #LearnToCode",
   "yt_tags": [
-    "Shell Sort",
-    "Algorithm Visualization",
-    "Data Structures",
-    "Computer Science",
-    "Programming Tutorial",
-    "Coding Explained",
+    "Gnome Sort",
     "Sorting Algorithms",
+    "Data Structures",
+    "Algorithm Visualization",
+    "Computer Science",
     "Learn to Code",
-    "Software Engineering",
-    "Gap Sequence"
+    "Programming",
+    "Coding Tutorial",
+    "Beginner Programming",
+    "Algorithm Explained",
+    "Funny Algorithms",
+    "Stupid Sort"
   ],
-  "vk_title": "Сортировка Шелла: Как это работает? Визуализация 🚀",
-  "vk_desc": "Погрузитесь в мир алгоритмов с визуализацией Сортировки Шелла! Узнайте, как этот 'прыгающий' метод сортирует данные быстрее. Идеально для программистов и студентов. 💡 #Программирование #Алгоритмы #СортировкаШелла #Кодинг"
+  "vk_title": "Сортировка Гнома: Самый Забавный Алгоритм Сортировки!",
+  "vk_desc": "Представляем вам Сортировку Гнома (Gnome Sort)! 🍄 Этот алгоритм, иногда называемый 'глупой сортировкой', удивительно прост и эффективен. Посмотрите, как этот маленький гном сортирует массив, шаг за шагом! Идеально для новичков и забавное напоминание для опытных программистов. #СортировкаГнома #Алгоритмы #СтруктурыДанных #Программирование"
 }
