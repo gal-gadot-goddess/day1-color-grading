@@ -1,24 +1,27 @@
 {
-  "title": "Gnome Sort: The FUNNIEST Sorting Algorithm You've NEVER Seen! 🍄",
-  "ig_caption": "Meet the Gnome Sort! 🍄 The sorting algorithm that's so simple, it's genius (and kinda funny!). Watch this little guy sort data like magic! ✨ #GnomeSort #CodingLife #Algorithm #DataScience #TechTok #ProgrammingFun",
-  "fb_caption": "Prepare to be charmed (and enlightened!) by Gnome Sort! 🍄 This algorithm is like watching a tiny, organized gnome sort your data. It's simple, visual, and surprisingly powerful. Perfect for anyone learning about algorithms or just looking for a fun coding break! What's your favorite quirky algorithm? Let us know below! 👇",
-  "threads_caption": "Gnome Sort: So simple, it's almost absurdly effective. 🍄 Watch this algorithm do its thing! #GnomeSort #Algorithms101",
-  "hashtags": "#coding #ai #tech #algorithms #computerscience #datascience #learnprogramming #softwaredevelopment #visualisation #codingisfun",
-  "yt_description": "Ever wondered how algorithms can be both efficient AND hilariously simple? 🤔 Get ready to meet the Gnome Sort! 🍄 This algorithm, often called 'Stupid Sort', is surprisingly effective and incredibly easy to understand. We'll visualize exactly how this little gnome sorts your array, one misplaced element at a time! ✨ Perfect for beginners and a fun refresher for seasoned coders. Don't miss this quirky journey into sorting algorithms! #GnomeSort #SortingAlgorithms #DataStructures #ComputerScience #ProgrammingHumor #LearnToCode",
+  "title": "Gnome Sort: The Cutest Sorting Algorithm You've Never Heard Of! 🍄✨",
+  "ig_caption": "Gnome Sort: The sorting algorithm that's as cute as it is clever! 🍄✨ Watch this adorable little algorithm work its magic and learn a new way to sort. You won't believe how simple it is! #GnomeSort #Coding #Algorithm #Tech #ProgrammingHumor #LearnToCode",
+  "fb_caption": "Prepare to be delighted! 😄 We're diving into the charming world of Gnome Sort, a sorting algorithm that's as straightforward as it is unique. Watch how this 'gnome' tidies up data, step-by-step! Perfect for a quick coding refresher or an introduction to algorithms. What do you think of this adorable approach? 🍄 #GnomeSort #CodingLife #AlgorithmExplained #TechTok #ComputerScience101 #LearnSomethingNew #Programming",
+  "threads_caption": "Gnome Sort: The sorting algorithm that's so simple, it's almost magical. 🍄✨ Prepare to be charmed!",
+  "hashtags": "#GnomeSort #Coding #Algorithm #Tech #ProgrammingHumor #LearnToCode #ComputerScience #DataStructures #AlgorithmVisualization #CuteCode",
+  "yt_description": "Ever wondered if algorithms could be adorable? Meet Gnome Sort! 🍄 This surprisingly simple (and kinda cute!) sorting algorithm works like a gnome tidying up his garden. Watch how it magically sorts arrays with its unique 'step forward, step back' approach. Perfect for beginners and anyone who loves elegant code! \n\nWhat is Gnome Sort? 🤔\nGnome Sort, also known as Stupid Sort, is a simple sorting algorithm. It is similar to insertion sort, but moves elements to their proper place more slowly. It is conceptually simple, requiring no nested loops. The algorithm finds the first place where two adjacent elements are in the wrong order and swaps them. It then steps back to check if the new ordering is correct, and continues this process until the list is sorted.\n\nWhy Watch? 🤩\n✅ Easy to understand visualization\n✅ Step-by-step explanation\n✅ Surprisingly efficient for certain cases!\n✅ Uncover a hidden gem in sorting algorithms!\n\n#GnomeSort #SortingAlgorithms #ComputerScience #LearnToCode #Programming #AlgorithmVisualization #DataStructures #CodingTutorial #TechExplained #CuteCode",
   "yt_tags": [
     "Gnome Sort",
     "Sorting Algorithms",
-    "Data Structures",
     "Algorithm Visualization",
     "Computer Science",
     "Learn to Code",
-    "Programming",
-    "Coding Tutorial",
-    "Beginner Programming",
-    "Algorithm Explained",
-    "Funny Algorithms",
-    "Stupid Sort"
+    "Programming Tutorial",
+    "Data Structures",
+    "Coding Explained",
+    "Beginner Coding",
+    "Simple Algorithms",
+    "Stupid Sort",
+    "Code Animation",
+    "Algorithm Funny",
+    "Cute Algorithm",
+    "Nerd Culture"
   ],
-  "vk_title": "Сортировка Гнома: Самый Забавный Алгоритм Сортировки!",
-  "vk_desc": "Представляем вам Сортировку Гнома (Gnome Sort)! 🍄 Этот алгоритм, иногда называемый 'глупой сортировкой', удивительно прост и эффективен. Посмотрите, как этот маленький гном сортирует массив, шаг за шагом! Идеально для новичков и забавное напоминание для опытных программистов. #СортировкаГнома #Алгоритмы #СтруктурыДанных #Программирование"
+  "vk_title": "Гномья Сортировка: Самый Милый Алгоритм Сортировки, Который Вы Не Знали! 🍄✨",
+  "vk_desc": "Вы когда-нибудь задумывались, могут ли алгоритмы быть очаровательными? Встречайте Гномью Сортировку! 🍄 Этот удивительно простой (и довольно милый!) алгоритм сортировки работает, как гном, наводящий порядок в своем саду. Посмотрите, как он волшебно сортирует массивы своим уникальным подходом 'шаг вперед, шаг назад'. Идеально для новичков и всех, кто любит элегантный код! #ГномьяСортировка #Алгоритмы #Программирование #КомпьютерныеНауки #ВизуализацияАлгоритмов"
 }
