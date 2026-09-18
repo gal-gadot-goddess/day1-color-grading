@@ -1,22 +1,25 @@
 {
-  "title": "Comb Sort: The Fighting Algorithm That Escapes Bubbles! 🚀",
-  "ig_caption": "Comb Sort: The unexpected hero of sorting! ✨ Watch it ditch the slowpokes and sort like a boss. You've gotta see this visualization! 👀 #CombSortMagic #CodingTricks #AlgorithmArt",
-  "fb_caption": "Ever heard of Comb Sort? 🤔 It's the sorting algorithm that *actually* works fast! Forget the limitations of Bubble Sort; Comb Sort uses a clever shrinking gap to efficiently sort your data. We've got a killer visualization that shows you exactly how it works. Click to see why this algorithm is a must-know! 👇 #CombSortExplained #CodingSkills #AlgorithmBreakdown #TechEducation",
-  "threads_caption": "Comb Sort: It's not just a haircut for your data, it's FAST. 💨 See how it beats the bubble. 👇",
-  "hashtags": "#coding #ai #tech #algorithms #computerscience #datascience #programming #learncoding",
-  "yt_description": "Tired of slow sorting? 😴 Meet Comb Sort! We break down this surprisingly efficient algorithm that 'combs' out the 'turtles' for lightning-fast sorts. Watch as we visualize its unique shrink-gap strategy and see why it's often better than Bubble Sort! 🤯 Get ready to level up your sorting game! #CombSort #AlgorithmVisualization #DataStructures #ComputerScience #CodingTutorial",
+  "title": "Heap Sort: The Ultimate Sorting Algorithm 🚀 Visualize the Magic!",
+  "ig_caption": "Sorting just got SPECTACULAR! 🤩 Watch Heap Sort in action and unlock its efficiency secrets. Link in bio! #HeapSortMagic #CodeVisuals #AlgoArt #DevLife",
+  "fb_caption": "Ever wondered how Heap Sort *really* works? 🤔 We've got a stunning visualization that will make it crystal clear! From building the heap to the final sorted array, see the magic unfold. Watch now and level up your algorithm game! ✨ #HeapSort #AlgorithmExplained #CodingCommunity #TechEducation #LearnProgramming",
+  "threads_caption": "Heap Sort: Is it the king of sorting? 👑 Visualize its elegant dance and see why! 👇",
+  "hashtags": "#coding #ai #tech #computerscience #datascience #programming #algorithms #sorting #heap",
+  "yt_description": "Dive into the mesmerizing world of Heap Sort! 🤩 Witness how this powerful sorting algorithm builds a binary heap and extracts elements to create a sorted array. Perfect for CS students, developers, and anyone fascinated by efficient data structures! \n\nIn this video, we'll break down:\n✅ Heapify process (max heap/min heap)\n✅ Building the heap\n✅ Extracting elements for sorting\n✅ Time and Space Complexity Analysis\n\nTransform your understanding of sorting! ✨\n\n#HeapSort #AlgorithmVisualization #DataStructures #ComputerScience #CodingTutorial #LearnToCode #Programming #TechExplained #CSStudent",
   "yt_tags": [
-    "Comb Sort",
+    "Heap Sort",
     "Algorithm Visualization",
-    "Sorting Algorithms",
     "Data Structures",
     "Computer Science",
-    "Programming",
     "Coding Tutorial",
-    "Bubble Sort Alternative",
-    "Learn to Code",
-    "Tech Explained"
+    "Learn To Code",
+    "Programming",
+    "Sorting Algorithms",
+    "Big O Notation",
+    "In-place sorting",
+    "Heaps",
+    "Binary Heap",
+    "Heapify"
   ],
-  "vk_title": "Сортировка Расчёской: Быстрее Пузырьковой! 💨",
-  "vk_desc": "Устали от медленных алгоритмов? 😴 Познакомьтесь с Сортировкой Расчёской (Comb Sort)! Мы визуализируем, как она 'расчёсывает' массивы, избавляясь от 'черепах' для молниеносной сортировки. Узнайте, почему она часто лучше Пузырьковой сортировки! 🤯 #CombSort #Алгоритмы #Программирование #CS"
+  "vk_title": "Сортировка кучей: Визуализация алгоритма 🚀",
+  "vk_desc": "Погрузитесь в завораживающий мир сортировки кучей! 🤩 Узнайте, как этот мощный алгоритм строит двоичную кучу и извлекает элементы для создания отсортированного массива. Идеально для студентов ИТ, разработчиков и всех, кто интересуется эффективными структурами данных! ✨\n\n#СортировкаКучей #ВизуализацияАлгоритмов #СтруктурыДанных #Информатика #Кодинг #Программирование #Технологии"
 }
