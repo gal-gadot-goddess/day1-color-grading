@@ -1,27 +1,25 @@
 {
-  "title": "Comb Sort: The Speed Demon of Sorting Algorithms! 🚀",
-  "ig_caption": "Comb Sort: It's not just fast, it's FUN! See how this sorting algorithm slays turtles and speeds up your code. 🐢💨 Watch the full breakdown! #CombSort #CodingLife #Algorithms",
-  "fb_caption": "Ever wonder how to make your sorting algorithms WAY faster? 🤔 Comb Sort is your answer! It brilliantly tackles the 'turtle' problem that plagues other methods. Watch our visualization and see the magic happen! ✨ Don't miss out on optimizing your code. Link in bio! #CombSortExplained #CodingTips #AlgorithmMagic",
-  "threads_caption": "Bubble Sort's slow cousin? Nah. Comb Sort is the upgrade you NEED. 💥 Watch how it cleans up those slow-mo elements!",
-  "hashtags": "#coding #ai #tech #AlgorithmVisualization #CombSort #ComputerScience #Programming #DataStructures #LearnToCode #SoftwareDevelopment #TechExplained",
-  "yt_description": "Tired of slow sorting? 🐢 Meet Comb Sort, the algorithm that dramatically reduces 'turtles' and speeds up your data! We'll break down how it works, why it's so efficient, and where it shines. Get ready to optimize your code! ✨\n\nIn this video, you'll learn:\n✅ The core concept of Comb Sort and its 'shrink gap' strategy.\n✅ How it overcomes the limitations of Bubble Sort.\n✅ Practical examples and code snippets.\n✅ Performance analysis and comparisons.\n\nDon't forget to LIKE, SUBSCRIBE, and HIT that notification BELL for more epic algorithm breakdowns! 🔔",
+  "title": "🤯 The FUNNIEST Sorting Algorithm? Pancake Sort Explained! 🥞",
+  "ig_caption": "Forget bubble sort, meet the one and only PANCAKE SORT! 🥞✨ Who knew sorting could be this flippin' fun? Watch our visualization! #PancakeSort #Coding #Algorithm #Tech #LearnToCode",
+  "fb_caption": "Ever heard of Pancake Sort? 🥞 This algorithm might be the most unique way to sort data! We break down the visualization and show you exactly how it works. Perfect for students and tech enthusiasts! Watch now! 👇",
+  "threads_caption": "Pancake Sort: It's not just a breakfast item anymore. 🥞 Watch this algorithm flip its way to sorted data!",
+  "hashtags": "#coding #ai #tech #algorithm #computerscience #programming #datasructures #learncoding #viraltech",
+  "yt_description": "Ever wondered how to sort pancakes? 🥞 This video dives into the surprisingly simple (and a little goofy) world of Pancake Sort! ✨ We'll visualize this unique algorithm step-by-step, showing you how flipping subarrays can lead to a sorted stack. Perfect for anyone curious about sorting algorithms, computer science basics, or just a good laugh! 😂\n\nWhat is Pancake Sort?\nHow does it work?\nTime Complexity Explained\nVisual Example\n\n#PancakeSort #SortingAlgorithms #ComputerScience #AlgorithmVisualization #Coding #LearnToCode #TechExplained #DataStructures #Programming #FunnyAlgorithms",
   "yt_tags": [
-    "Comb Sort",
-    "Sorting Algorithms",
+    "Pancake Sort",
+    "Sorting Algorithm",
     "Algorithm Visualization",
     "Computer Science",
-    "Data Structures",
     "Coding Tutorial",
+    "Learn to Code",
     "Programming",
-    "Efficiency",
-    "Optimization",
+    "Data Structures",
     "Algorithm Explained",
-    "Data Sorting",
-    "Code",
     "Tech",
-    "Software Engineering",
-    "Learn to Code"
+    "Educational Video",
+    "Funny Coding",
+    "CS Basics"
   ],
-  "vk_title": "Comb Sort: Прощай, черепахи! 👋 Оптимизируй сортировку данных!",
-  "vk_desc": "Устали от медленных алгоритмов сортировки? 🐢 Встречайте Comb Sort – алгоритм, который эффективно устраняет «черепах» и ускоряет обработку ваших данных! Мы подробно разберем, как он работает, почему так эффективен и где его лучше всего применять. Готовьтесь оптимизировать свой код! ✨\n\nЧто вы узнаете в этом видео:\n✅ Основная концепция Comb Sort и его стратегия «уменьшающегося шага».\n✅ Как он преодолевает ограничения Bubble Sort.\n✅ Практические примеры и фрагменты кода.\n✅ Анализ производительности и сравнения.\n\nНе забудьте ПОСТАВИТЬ ЛАЙК, ПОДПИСАТЬСЯ и НАЖАТЬ на колокольчик 🔔 для получения новых эпичных разборов алгоритмов!"
+  "vk_title": "Сортировка Блинами: Самый Необычный Алгоритм Сортировки! 🥞",
+  "vk_desc": "Представляем вам сортировку блинами – алгоритм, который заставляет задуматься о необычных подходах к решению задач. Мы визуализируем его работу шаг за шагом, чтобы вы поняли, как переворачивание подмассивов приводит к отсортированному порядку. Отлично подходит для изучения основ информатики и алгоритмов! ✨ #сортировкаблинами #алгоритмы #информатика #программирование #визуализация"
 }
