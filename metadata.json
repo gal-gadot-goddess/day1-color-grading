@@ -1,24 +1,27 @@
 {
-  "title": "Selection Sort: The 'Pick the Smallest' Algorithm (Visualized!)",
-  "ig_caption": "Selection Sort: The ultimate 'find the smallest' dance! 💃 Watch our epic visualization and master this sorting algorithm in minutes! ✨ #CodeArt #AlgorithmMagic #SelectionSort",
-  "fb_caption": "Unlock the secrets of Selection Sort! 🔑 We've created a super-visual breakdown of this fundamental sorting algorithm. If you're learning to code or just curious about how data gets organized, this is for you! Watch now and master Selection Sort! 👇",
-  "threads_caption": "Selection Sort: It's not the fastest, but it's SO satisfying to watch! We break down the 'pick the smallest' method visually. You'll get it. 😎",
-  "hashtags": "#coding #ai #tech #algorithm #datascience #computerscience #programming #learncode",
-  "yt_description": "Ever wondered how algorithms sort data? 🤔 Join us for a crystal-clear, mind-bending visualization of Selection Sort! We'll break down exactly how it works, step-by-step, using a fun, intuitive visual.  Perfect for beginners or anyone looking to level up their coding game! 🚀\n\nIn this video, you'll learn:\n✅ The core logic of Selection Sort\n✅ How it finds the minimum element in each pass\n✅ Its time complexity (Big O notation)\n✅ When you might (or might not!) want to use it\n\n#AlgorithmExplained #DataStructures #ComputerScience #CodingTutorial #Programming #SelectionSort #VisualLearning",
+  "title": "TimSort REVEALED! 🤯 The Algorithm Behind Python & Java's Speed | Algorithmic Art",
+  "ig_caption": "TimSort: The secret sauce to lightning-fast sorting! ⚡️ We visualized its hybrid magic – you won't believe how it works. ✨ Link in bio for the full breakdown!",
+  "fb_caption": "Unlock the secrets of TimSort! 🗝️ We've created a stunning visual explanation of the algorithm that powers Python and Java's sorting capabilities. Dive deep into its efficiency and elegance. Watch now!",
+  "threads_caption": "TimSort: It's not just sorting, it's an art form. 🎨 Your favorite languages use THIS. See the visual proof.",
+  "hashtags": "#coding #ai #tech #algorithms #computerscience #python #java #sorting",
+  "yt_description": "Ever wondered how Python and Java sort your data SO fast? 🚀 It's TimSort, and we're breaking down its genius with a mesmerizing algorithmic visualization! ✨ Witness the magic of hybrid sorting, run-finding, and galloping merge in action. Perfect for coders, CS students, and anyone fascinated by efficient algorithms.\n\nKey Concepts: \n- Hybrid Sorting (Merge Sort + Insertion Sort)\n- Runs (Monotonic Sequences)\n- Merging Strategies (Gallop Mode)\n- Stability\n- Time & Space Complexity\n\n#TimSort #SortingAlgorithms #Python #Java #ComputerScience #DataStructures #Algorithms #Programming #CodingTutorial #AlgorithmicArt #LearnToCode",
   "yt_tags": [
-    "Selection Sort",
+    "TimSort",
     "Sorting Algorithm",
-    "Data Structures",
+    "Python",
+    "Java",
     "Computer Science",
-    "Algorithm Visualization",
+    "Algorithms Explained",
+    "Data Structures",
+    "Algorithmic Visualization",
     "Coding Tutorial",
     "Programming",
-    "Big O Notation",
-    "How Selection Sort Works",
-    "Learn to Code",
-    "Tech Explained",
-    "Algorithms Explained"
+    "Efficiency",
+    "Merge Sort",
+    "Insertion Sort",
+    "Stable Sort",
+    "Galloping Mode"
   ],
-  "vk_title": "Визуализация Сортировки Выбором (Selection Sort) - Просто и Понятно!",
-  "vk_desc": "Разбираемся в алгоритме Сортировки Выбором (Selection Sort) с помощью наглядной визуализации! Узнайте, как этот простой, но важный алгоритм сортирует данные шаг за шагом. Идеально для начинающих программистов! 💻🧠 #программирование #алгоритмы #структурыданных #сортировкавыбором #it"
+  "vk_title": "ТимСорт: Секрет Скорости Python и Java! Визуализация Алгоритма",
+  "vk_desc": "Разбираем ТимСорт – самый эффективный алгоритм сортировки, используемый в Python и Java! 🚀 Погрузитесь в завораживающую визуализацию гибридной сортировки, поиска последовательностей и режима галопа. Идеально для программистов и студентов."
 }
