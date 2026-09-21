@@ -1,25 +1,24 @@
 {
-  "title": "🤯 The FUNNIEST Sorting Algorithm? Pancake Sort Explained! 🥞",
-  "ig_caption": "Forget bubble sort, meet the one and only PANCAKE SORT! 🥞✨ Who knew sorting could be this flippin' fun? Watch our visualization! #PancakeSort #Coding #Algorithm #Tech #LearnToCode",
-  "fb_caption": "Ever heard of Pancake Sort? 🥞 This algorithm might be the most unique way to sort data! We break down the visualization and show you exactly how it works. Perfect for students and tech enthusiasts! Watch now! 👇",
-  "threads_caption": "Pancake Sort: It's not just a breakfast item anymore. 🥞 Watch this algorithm flip its way to sorted data!",
-  "hashtags": "#coding #ai #tech #algorithm #computerscience #programming #datasructures #learncoding #viraltech",
-  "yt_description": "Ever wondered how to sort pancakes? 🥞 This video dives into the surprisingly simple (and a little goofy) world of Pancake Sort! ✨ We'll visualize this unique algorithm step-by-step, showing you how flipping subarrays can lead to a sorted stack. Perfect for anyone curious about sorting algorithms, computer science basics, or just a good laugh! 😂\n\nWhat is Pancake Sort?\nHow does it work?\nTime Complexity Explained\nVisual Example\n\n#PancakeSort #SortingAlgorithms #ComputerScience #AlgorithmVisualization #Coding #LearnToCode #TechExplained #DataStructures #Programming #FunnyAlgorithms",
+  "title": "Selection Sort: The 'Pick the Smallest' Algorithm (Visualized!)",
+  "ig_caption": "Selection Sort: The ultimate 'find the smallest' dance! 💃 Watch our epic visualization and master this sorting algorithm in minutes! ✨ #CodeArt #AlgorithmMagic #SelectionSort",
+  "fb_caption": "Unlock the secrets of Selection Sort! 🔑 We've created a super-visual breakdown of this fundamental sorting algorithm. If you're learning to code or just curious about how data gets organized, this is for you! Watch now and master Selection Sort! 👇",
+  "threads_caption": "Selection Sort: It's not the fastest, but it's SO satisfying to watch! We break down the 'pick the smallest' method visually. You'll get it. 😎",
+  "hashtags": "#coding #ai #tech #algorithm #datascience #computerscience #programming #learncode",
+  "yt_description": "Ever wondered how algorithms sort data? 🤔 Join us for a crystal-clear, mind-bending visualization of Selection Sort! We'll break down exactly how it works, step-by-step, using a fun, intuitive visual.  Perfect for beginners or anyone looking to level up their coding game! 🚀\n\nIn this video, you'll learn:\n✅ The core logic of Selection Sort\n✅ How it finds the minimum element in each pass\n✅ Its time complexity (Big O notation)\n✅ When you might (or might not!) want to use it\n\n#AlgorithmExplained #DataStructures #ComputerScience #CodingTutorial #Programming #SelectionSort #VisualLearning",
   "yt_tags": [
-    "Pancake Sort",
+    "Selection Sort",
     "Sorting Algorithm",
-    "Algorithm Visualization",
-    "Computer Science",
-    "Coding Tutorial",
-    "Learn to Code",
-    "Programming",
     "Data Structures",
-    "Algorithm Explained",
-    "Tech",
-    "Educational Video",
-    "Funny Coding",
-    "CS Basics"
+    "Computer Science",
+    "Algorithm Visualization",
+    "Coding Tutorial",
+    "Programming",
+    "Big O Notation",
+    "How Selection Sort Works",
+    "Learn to Code",
+    "Tech Explained",
+    "Algorithms Explained"
   ],
-  "vk_title": "Сортировка Блинами: Самый Необычный Алгоритм Сортировки! 🥞",
-  "vk_desc": "Представляем вам сортировку блинами – алгоритм, который заставляет задуматься о необычных подходах к решению задач. Мы визуализируем его работу шаг за шагом, чтобы вы поняли, как переворачивание подмассивов приводит к отсортированному порядку. Отлично подходит для изучения основ информатики и алгоритмов! ✨ #сортировкаблинами #алгоритмы #информатика #программирование #визуализация"
+  "vk_title": "Визуализация Сортировки Выбором (Selection Sort) - Просто и Понятно!",
+  "vk_desc": "Разбираемся в алгоритме Сортировки Выбором (Selection Sort) с помощью наглядной визуализации! Узнайте, как этот простой, но важный алгоритм сортирует данные шаг за шагом. Идеально для начинающих программистов! 💻🧠 #программирование #алгоритмы #структурыданных #сортировкавыбором #it"
 }
