@@ -1,27 +1,22 @@
 {
-  "title": "Shell Sort: The Secret Weapon of Efficient Sorting! 🚀",
-  "ig_caption": "Shell Sort: The sorting superhero you NEED to know! 🦸‍♂️ Witness its magic and boost your coding game. ✨ #ShellSort #Algorithm #CodingLife #TechTok #Developer #LearnToCode",
-  "fb_caption": "Unlock the secrets of Shell Sort! 🗝️ This elegant algorithm is a game-changer for sorting efficiency. See it in action with our stunning visualization and understand WHY it's so effective. Perfect for students, developers, and anyone curious about the magic of code! ✨ #ShellSort #Algorithm #ComputerScience #CodingTips #TechEducation #ProgrammingHacks #LearnSomethingNew",
-  "threads_caption": "Shell Sort: Not your average sort. It's smart, it's fast, it's... visual! 🤯 See the gap sequence in action. #CodeGems #AlgorithmBreakdown",
-  "hashtags": "#coding #ai #tech #algorithms #datascience #computerscience #programming #softwaredevelopment #learncoding #devlife #codingchallenge #techtrends #viral #shellsortexplained",
-  "yt_description": "Ever wondered how sorting algorithms get SO fast? 🤔 Meet Shell Sort, a powerful and often overlooked algorithm that bridges the gap between simple sorts and complex ones!  In this video, we'll dive deep into its ingenious 'gap' sequence and visualize exactly how it dramatically reduces comparisons and swaps.  Get ready to unlock a new level of sorting understanding! 💡  #ShellSort #Algorithm #DataStructures #ComputerScience #CodingTutorial #Programming #LearnToCode #TechExplained #Visualization #ViralCode",
+  "title": "Heap Sort: The Ultimate Sorting Hack (Visualized!) 🚀",
+  "ig_caption": "Heap Sort: Sorting's Secret Weapon! 🤫 Watch it in action! 🔥 #CodeMagic #AlgorithmArt #HeapSortExplained",
+  "fb_caption": "Unlock the power of Heap Sort! 🔓 Our latest visualization shows you exactly how this efficient sorting algorithm works. Perfect for students and developers looking to master data structures. Click to watch! 🎬👇",
+  "threads_caption": "Heap Sort: Turns your messy data into sorted perfection. Watch the magic unfold! ✨ #CodeFlow",
+  "hashtags": "#coding #ai #tech #computerscience #datastructures #algorithm #programming #learntocode #codinglife #developer #softwareengineering #tech #visualization #viral",
+  "yt_description": "Ever wondered how to sort data lightning fast? 🤔 Dive into the world of Heap Sort with our mind-blowing visualization! 🤯 We break down this powerful algorithm step-by-step, showing you the magic behind building and manipulating heaps. Get ready to level up your coding game! 💻✨\n\n#HeapSort #Algorithm #DataStructures #ComputerScience #CodingTutorial #Programming #LearnToCode #TechExplained #Visualization #ViralCode",
   "yt_tags": [
-    "Shell Sort",
+    "Heap Sort",
     "Algorithm Visualization",
-    "Sorting Algorithms",
     "Data Structures",
     "Computer Science",
-    "Programming Tutorial",
-    "Coding Explained",
-    "How Shell Sort Works",
-    "Efficient Sorting",
-    "Gap Sequence",
-    "Big O Notation",
+    "Coding Tutorial",
+    "Programming Explained",
     "Learn to Code",
     "Tech Education",
-    "Coding Channel",
-    "Viral Coding"
+    "Sorting Algorithms",
+    "Heap Data Structure"
   ],
-  "vk_title": "Сортировка Шелла: Ускоряем Алгоритмы! 🚀",
-  "vk_desc": "Погрузитесь в мир эффективной сортировки с алгоритмом Шелла! Узнайте, как его уникальная 'шаговая' последовательность делает его быстрее многих других. Наглядная визуализация и объяснение! 💡 #Программирование #Алгоритмы #СортировкаШелла #Код"
+  "vk_title": "Визуализация Сортировки Кучей (Heap Sort) – Самый Эффективный Метод! 🚀",
+  "vk_desc": "Узнайте, как работает Сортировка Кучей (Heap Sort) на наглядных примерах! 🤯 Этот алгоритм – настоящий хак для быстрой сортировки данных. Разбираем по шагам, как строится и манипулируется куча. Повысьте свои навыки программирования! 💻✨ #HeapSort #Алгоритмы #СтруктурыДанных #Информатика #Программирование #ВизуализацияКода"
 }
