@@ -1,22 +1,24 @@
 {
-  "title": "Heap Sort: The Ultimate Sorting Hack (Visualized!) 🚀",
-  "ig_caption": "Heap Sort: Sorting's Secret Weapon! 🤫 Watch it in action! 🔥 #CodeMagic #AlgorithmArt #HeapSortExplained",
-  "fb_caption": "Unlock the power of Heap Sort! 🔓 Our latest visualization shows you exactly how this efficient sorting algorithm works. Perfect for students and developers looking to master data structures. Click to watch! 🎬👇",
-  "threads_caption": "Heap Sort: Turns your messy data into sorted perfection. Watch the magic unfold! ✨ #CodeFlow",
-  "hashtags": "#coding #ai #tech #computerscience #datastructures #algorithm #programming #learntocode #codinglife #developer #softwareengineering #tech #visualization #viral",
-  "yt_description": "Ever wondered how to sort data lightning fast? 🤔 Dive into the world of Heap Sort with our mind-blowing visualization! 🤯 We break down this powerful algorithm step-by-step, showing you the magic behind building and manipulating heaps. Get ready to level up your coding game! 💻✨\n\n#HeapSort #Algorithm #DataStructures #ComputerScience #CodingTutorial #Programming #LearnToCode #TechExplained #Visualization #ViralCode",
+  "title": "TimSort: The Hybrid Sorting Algorithm That Powers Python! 🐍✨",
+  "ig_caption": "Unlocking the secrets of TimSort! 🤯 This Python powerhouse is pure algorithmic genius. See how it works like never before! 🐍✨ #Coding #Algorithm #TimSort #Python #Tech",
+  "fb_caption": "Prepare to be amazed! 🤩 We're diving deep into TimSort, the sophisticated sorting algorithm that makes Python lists lightning fast! ⚡️ See its elegant dance of merging and inserting with crystal-clear visualizations. Essential viewing for every programmer! #TimSort #Algorithm #Python #CodingMasterclass #ComputerScienceInsights",
+  "threads_caption": "TimSort: The sorting wizard behind Python's speed. 🧙‍♂️🐍 See the magic happen! ✨",
+  "hashtags": "#coding #ai #tech #algorithms #computerscience #python #datascience #programming #learntocode #softwareengineering",
+  "yt_description": "Ever wondered how Python's lists get sorted so efficiently? 🤔 Meet TimSort! This hybrid masterpiece combines the best of Merge Sort and Insertion Sort to deliver incredible performance. We'll break down its ingenious mechanics step-by-step with stunning visualizations! 🚀 Watch as we transform chaotic data into perfect order. Perfect for coders, computer science students, and anyone curious about algorithmic magic! 💻🧠\n\n#TimSort #SortingAlgorithms #Python #ComputerScience #DataStructures #Algorithms #Programming #CodingTutorial #LearnToCode #TechExplained",
   "yt_tags": [
-    "Heap Sort",
-    "Algorithm Visualization",
+    "TimSort",
+    "Sorting Algorithm",
+    "Python Sorting",
+    "Merge Sort",
+    "Insertion Sort",
+    "Hybrid Algorithm",
     "Data Structures",
+    "Algorithms Explained",
     "Computer Science",
-    "Coding Tutorial",
-    "Programming Explained",
-    "Learn to Code",
-    "Tech Education",
-    "Sorting Algorithms",
-    "Heap Data Structure"
+    "Programming Tutorial",
+    "Coding Visualization",
+    "Algorithm Animation"
   ],
-  "vk_title": "Визуализация Сортировки Кучей (Heap Sort) – Самый Эффективный Метод! 🚀",
-  "vk_desc": "Узнайте, как работает Сортировка Кучей (Heap Sort) на наглядных примерах! 🤯 Этот алгоритм – настоящий хак для быстрой сортировки данных. Разбираем по шагам, как строится и манипулируется куча. Повысьте свои навыки программирования! 💻✨ #HeapSort #Алгоритмы #СтруктурыДанных #Информатика #Программирование #ВизуализацияКода"
+  "vk_title": "TimSort: Удивительный алгоритм сортировки, который использует Python!",
+  "vk_desc": "Откройте для себя TimSort – гибридный алгоритм, сочетающий Merge Sort и Insertion Sort для максимальной эффективности. Пошаговые визуализации покажут, как он сортирует данные быстрее всех! 🐍🚀 Идеально для программистов и студентов, изучающих структуры данных. #TimSort #Алгоритмы #Python #Программирование"
 }
