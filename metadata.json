@@ -1,24 +1,26 @@
 {
-  "title": "Merge Sort: The Ultimate Sorting Superpower You NEED to See! 🚀 (Visualized)",
-  "ig_caption": "Merge Sort: Sorting's secret weapon! ⚔️ Watch this powerful algorithm unfold like never before! ✨ #CodeMagic #AlgoViz #MergeSortMaster",
-  "fb_caption": "Prepare to be amazed! 🤩 We're diving deep into Merge Sort and showing you exactly *how* it achieves its incredible efficiency with a mind-blowing visualization. If you've ever struggled with sorting, this is for you! Share this with your fellow coders! 👇",
-  "threads_caption": "Merge Sort: Divide, Conquer, Dominate. See the magic. ✨🤯 #AlgorithmGlowUp",
-  "hashtags": "#coding #ai #tech #algorithms #datascience #programming #computerscience #developer #softwaredevelopment #learncoding #techtrends",
-  "yt_description": "Ever wondered how massive datasets get sorted with lightning speed? ⚡️ Dive into the mesmerizing world of Merge Sort! 🌊 We'll break down this powerful divide-and-conquer algorithm step-by-step with stunning visualizations that will make you a sorting master. Perfect for coders, students, and anyone curious about the magic behind efficient algorithms! ✨ #MergeSort #Algorithm #DataStructures #ComputerScience #CodingTutorial #LearnToCode #Programming #VisualCoding",
+  "title": "🤯 Insertion Sort: The *SMARTEST* Way to Sort (Visualized!)",
+  "ig_caption": "Insertion Sort: More elegant than you think! 😉 Watch how it effortlessly sorts data, one element at a time. ✨ #CodingMagic #InsertionSort",
+  "fb_caption": "Ever wondered how Insertion Sort actually WORKS? 🤔 We've got a mind-blowing visualization that breaks down this fundamental sorting algorithm like never before! Perfect for anyone looking to level up their coding game. Hit play and prepare to be amazed! 👇 #Coding #Algorithm #DataStructures #ComputerScience #ProgrammingLife #Tech",
+  "threads_caption": "Insertion Sort: It's not just sorting, it's *smart* sorting. 😉 See the brilliance unfold! 👇",
+  "hashtags": "#coding #ai #tech #datascience #algorithms #computerscience #programming #softwaredevelopment #codinglife #learntocode #viraltutorial",
+  "yt_description": "Unlock the magic of Insertion Sort! ✨ We break down this elegant sorting algorithm step-by-step with stunning visualizations that will make you rethink how you organize data. Perfect for beginners and a great refresher for seasoned coders! 🚀\n\nWhat you'll learn:\n✅ How Insertion Sort works\n✅ Time & Space Complexity (explained simply!) ⏱️\n✅ When to use Insertion Sort (and when NOT to!) 🤔\n✅ Real-world examples (where you might see it!) 🌍\n\nDon't just learn code, SEE it come to life! 👇\n\n#InsertionSort #SortingAlgorithms #DataStructures #ComputerScience #CodingTutorial #LearnToCode #Programming #AlgorithmsExplained #ViralCoding",
   "yt_tags": [
-    "merge sort",
-    "algorithm visualization",
+    "insertion sort",
+    "sorting algorithm",
     "data structures",
+    "algorithms",
     "computer science",
-    "coding tutorial",
+    "coding visualization",
+    "programming tutorial",
     "learn to code",
-    "programming explained",
-    "divide and conquer",
-    "sorting algorithms",
-    "big o notation",
-    "tech explained",
-    "software engineering"
+    "code explained",
+    "tech education",
+    "developer",
+    "software engineering",
+    "algorithm animation",
+    "complexity analysis"
   ],
-  "vk_title": "Визуализация Сортировки Слиянием: Как это работает? 🚀",
-  "vk_desc": "Разбираем один из самых эффективных алгоритмов сортировки - Сортировку Слиянием! 🌊 Пошаговая визуализация, которая поможет понять принцип 'разделяй и властвуй'. Идеально для программистов и студентов! 💻 #программирование #алгоритмы #структурыданных #сортивкаслиянием #компьютерныенауки #обучениекоду"
+  "vk_title": "Сортировка Вставками: Визуализация Алгоритма",
+  "vk_desc": "Погрузитесь в мир алгоритмов с наглядной визуализацией Сортировки Вставками! 🚀 Поймите, как работает один из самых элегантных методов сортировки, шаг за шагом. Идеально для начинающих и для тех, кто хочет освежить знания! 💻 #Программирование #Алгоритмы #СтруктурыДанных #СортировкаВставками #Python #Java #CS"
 }
