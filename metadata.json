@@ -1,27 +1,27 @@
 {
-  "title": "Bogo Sort: The WORST Algorithm EVER (But Hilariously Bad!) 😂",
-  "ig_caption": "Bogo Sort: The algorithm that's an insult to computers everywhere. 🤣 Watch the chaos unfold! #BogoSort #CodingFail #AlgorithmHumor #TechJokes",
-  "fb_caption": "Ever heard of an algorithm that relies *entirely* on luck? Introducing Bogo Sort! 😂 We've visualized this hilariously inefficient sorting method, and trust us, it's a sight to behold (and a nightmare for your CPU). Watch why this is the algorithm you *never* want to use, but *definitely* want to see! 👇 #BogoSort #CodingHumor #ComputerScienceExplained #AlgorithmVisualization #ProgrammingFails",
-  "threads_caption": "Bogo Sort: So bad, it's good? Watch our visualization of the absolute worst sorting algorithm known to humanity! 😂 #BogoSort #Coding",
-  "hashtags": "#coding #ai #tech #algorithms #computerscience #programming #viral #funny #developer #softwareengineering",
-  "yt_description": "Prepare to question reality! 🤯 We're diving into Bogo Sort, also known as 'stupid sort' or 'permutation sort'. It's the algorithm that relies purely on chance and is astronomically inefficient. Watch as we visualize this absolute dumpster fire of a sorting method and explain *why* it's so terrible. Perfect for anyone curious about algorithm complexity, or just looking for a good laugh at the expense of bad code! 💻😂\n\nIs Bogo Sort ever useful? (Spoiler: NO!) 🤔\nWill it sort your data? (Eventually... maybe... probably not.) 🤷‍♀️\nJoin us for this algorithmic adventure into the absurd! 👇\n\n#BogoSort #WorstAlgorithm #CodingHumor #ComputerScience #AlgorithmVisualization #Programming #ViralCode #TechHumor #DataStructures #InefficientCode",
+  "title": "Bogo Sort: The WORST Algorithm EVER? 🤯 (You Won't Believe It!)",
+  "ig_caption": "Meet Bogo Sort: The algorithm so bad, it's good. 🤣 Randomly shuffling until it works... the ultimate dev struggle! #BogoSort #CodingFail #ProgrammingHumor #TechVibes",
+  "fb_caption": "Ever heard of an algorithm that relies on pure luck? 🤔 Meet Bogo Sort – the 'what not to do' of sorting algorithms! We're exploring this hilariously inefficient method that shuffles its way to a solution. Prepare for some serious laughs (and maybe a little existential programming crisis). What's the worst algorithm you've ever encountered? Share below! 👇",
+  "threads_caption": "Bogo Sort: Where 'trial and error' meets 'existential dread'.  Does it work? Eventually.  Is it efficient?  Absolutely not. 💀",
+  "hashtags": "#coding #ai #tech #programming #computerscience #algorithms #developers #softwareengineering #codinglife #devhumor #viraltech #codingshorts",
+  "yt_description": "Prepare to witness the epitome of terrible coding! 🤪 We're diving into Bogo Sort, also known as 'stupid sort' or 'permutation sort'. This algorithm is SO bad, it's actually hilarious.  Watch as we try to sort an array by randomly shuffling it until it's in order.  Spoiler alert: it takes FOREVER.  Is this the most useless algorithm in existence? Let us know your thoughts! 👇\n\n#BogoSort #Algorithm #WorstCode #CodingHumor #ComputerScience #Programming #DevLife #TechFails #FunnyCoding #ViralCode",
   "yt_tags": [
     "Bogo Sort",
     "Algorithm",
-    "Sorting Algorithm",
+    "Worst Algorithm",
     "Computer Science",
     "Programming",
     "Coding",
+    "Software Development",
     "Data Structures",
-    "Algorithm Visualization",
-    "Worst Algorithm",
-    "Humor",
-    "Funny",
     "Tech",
-    "Inefficient",
-    "Random Sort",
-    "Permutation Sort"
+    "Funny Coding",
+    "Coding Humor",
+    "Permutation Sort",
+    "Stupid Sort",
+    "Developer",
+    "Algorithm Visualization"
   ],
-  "vk_title": "БОГО СОРТИРОВКА: САМЫЙ ХУДШИЙ АЛГОРИТМ В ИСТОРИИ! 🤯",
-  "vk_desc": "Познакомьтесь с Бого сортировкой (Bogo Sort) – алгоритмом, который настолько плох, что его сложно воспринимать всерьез! Мы визуализируем этот полный хаос и объясняем, почему он является антиподом эффективного кода. Если вы любите юмор в IT или интересуетесь обратной стороной алгоритмов, это видео для вас! 😂💻 #БогоСортировка #Алгоритмы #Программирование #ЮморИТ"
+  "vk_title": "Bogo Sort: Самый плохой алгоритм в истории? 🤪",
+  "vk_desc": "Погружаемся в мир Bogo Sort – алгоритма, настолько неэффективного, что он становится легендарным! Случайное перемешивание элементов до тех пор, пока массив не будет отсортирован. Сколько времени это займет? Смотрите сами! 😂\n\n#BogoSort #Алгоритмы #Программирование #Кодинг #CS"
 }
