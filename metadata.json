@@ -1,22 +1,22 @@
 {
-  "title": "Selection Sort: The LAZY Way to Sort? 🤔 (Visualized!)",
-  "ig_caption": "Selection Sort: Is it the ULTIMATE lazy sort? 😉 We visualized it to find out! 🤯 Watch the magic happen. ✨ #Coding #Algorithm #Tech",
-  "fb_caption": "Unlock the mystery of Selection Sort! 🔓 We've created a mind-blowing visualization that makes this sorting algorithm crystal clear. Is it the most efficient? Let's find out together! 👇 #CodingLife #TechExplained #AlgorithmDesign",
-  "threads_caption": "Selection Sort: Find the smallest, put it first. Repeat. Simple? Or deceptively slow? We visualized it for YOU! 🧠⚡️",
-  "hashtags": "#coding #ai #tech #algorithms #datascience #computerscience #programming #developer #softwareengineering #learntocode",
-  "yt_description": "Ever wondered how computers sort data? 🤔 Today, we break down Selection Sort in the MOST visually engaging way possible! 🤩 Watch how this 'lazy' algorithm finds the smallest element and puts it in its place, step-by-step. Perfect for beginners learning about sorting algorithms! 🚀\n\n#SelectionSort #SortingAlgorithms #ComputerScience #DataStructures #AlgorithmVisualized #CodingTutorial #LearnToCode #Programming",
+  "title": "Bubble Sort: The Easiest Way to Visualize Sorting (Explained for Humans!)",
+  "ig_caption": "Bubble Sort: So simple, it's almost hypnotic! ✨ Watch numbers dance their way into order. 🕺💃  Ready to level up your coding game?  #BubbleSort #CodeVisuals #AlgoMagic #TechTok #DevLife",
+  "fb_caption": "Get ready for a mesmerizing journey into the world of Bubble Sort! 🤩 We're breaking down this fundamental sorting algorithm with crystal-clear visualizations that make learning a breeze.  Whether you're a coding newbie or looking to refresh your knowledge, this video is for YOU!  Share with your fellow coders! 👇",
+  "threads_caption": "Bubble Sort: Proof that sometimes, the simplest approach is the most visually satisfying.  See how the 'bubbles' rise! 🫧➡️⬆️",
+  "hashtags": "#coding #ai #tech #algorithms #datascience #programming #computerscience #softwaredevelopment #learntocode #codinglife #techtrends #developer",
+  "yt_description": "Ever wondered how sorting algorithms actually WORK? 🤔 This video breaks down Bubble Sort in the most visual and easy-to-understand way possible!  We'll go from confused to code-crushing in just minutes. ✨\n\nWhat you'll learn:\n✅ The core logic of Bubble Sort\n✅ Why it's called 'Bubble' Sort 🫧\n✅ Simple code implementation (optional, depends on your channel's focus)\n✅ When NOT to use Bubble Sort (and what to use instead!)\n\nPerfect for beginners, students, or anyone wanting to grasp fundamental programming concepts.  Hit that like button if you found this helpful and subscribe for more EPIC algorithm visualizations! 🚀\n\n#BubbleSort #SortingAlgorithms #ComputerScience #LearnToCode #Programming #Algorithms #DataStructures #CodingTutorial #Visualizations #TechExplained",
   "yt_tags": [
-    "Selection Sort",
-    "Sorting Algorithms",
-    "Algorithm Visualization",
-    "Computer Science",
-    "Data Structures",
-    "Programming",
-    "Coding Tutorial",
-    "Learn to Code",
-    "Beginner Coding",
-    "Algorithm Explained"
+    "bubble sort",
+    "sorting algorithm",
+    "algorithm visualization",
+    "learn to code",
+    "computer science basics",
+    "programming tutorial",
+    "data structures",
+    "coding explained",
+    "simple sorting algorithm",
+    "visual programming"
   ],
-  "vk_title": "Сортировка Выбором: Ленивый Алгоритм? 🤩 (Визуализация!)",
-  "vk_desc": "Как компьютеры сортируют данные? Разбираем Сортировку Выбором в самой наглядной визуализации! 🚀 Учимся находить минимальный элемент и ставить его на место, шаг за шагом. Идеально для новичков! #программирование #алгоритмы #компьютерныенауки"
+  "vk_title": "Визуализация Пузырьковой Сортировки: Просто и Понятно!",
+  "vk_desc": "Объясняем Пузырьковую Сортировку простыми словами и с наглядными примерами. Отлично подходит для начинающих программистов и всех, кто хочет разобраться в основах алгоритмов. 💡 Узнайте, как работает этот классический алгоритм сортировки! #пузырьковаясортировка #алгоритмы #программирование #компьютерныенауки"
 }
