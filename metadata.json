@@ -1,25 +1,22 @@
 {
-  "title": "Bogo Sort: The WORST Sorting Algorithm Ever Made 😂 (It's Hilariously Bad!)",
-  "ig_caption": "Behold: Bogo Sort! The algorithm that relies on pure LUCK. 🍀 Seriously, this is how NOT to sort. 😂 #BogoSort #CodingJokes #DevHumor #AlgorithmFail #ProgrammingLife",
-  "fb_caption": "Ever heard of Bogo Sort? It's the sorting algorithm that *hopes* for the best by randomly shuffling elements until, by sheer chance, they're sorted. 😂 We break down this hilariously inefficient algorithm and why it's a great example of what NOT to do in programming! Watch now and prepare to laugh! 👇",
-  "threads_caption": "Bogo Sort: The sorting algorithm that's more likely to achieve enlightenment than a sorted list. 🧘‍♂️😂 #BogoSort #CodingReality",
-  "hashtags": "#coding #ai #tech #algorithms #computerscience #programming #developer #softwaredevelopment #techhumor #learncoding #bogosort",
-  "yt_description": "Prepare to question everything you know about sorting algorithms! 🤯 We're diving deep into the absurdity of Bogo Sort, also known as 'Stupid Sort' or 'Permutation Sort'.  Watch as we explain why this algorithm is a masterclass in inefficiency and a programmer's worst nightmare (or funniest joke!).  Will it ever sort? Probably not in your lifetime! ⏳😂\n\n#BogoSort #Algorithm #Coding #Programming #ComputerScience #FunnyCoding #WorstAlgorithm #TechHumor #DevLife #LearnToCode",
+  "title": "Selection Sort: The ULTIMATE Sorting Hack (Explained Visually!) 🤯",
+  "ig_caption": "Selection Sort demystified! 🤯 Watch how we find the smallest and build sorted magic, visually! ✨ #CodeMagic #SelectionSort #AlgoVibes",
+  "fb_caption": "Unlock the secrets of Selection Sort with our captivating visual breakdown! 🤩 See how this efficient algorithm works its magic to organize data. Perfect for anyone looking to grasp fundamental programming concepts. Click to watch! 👇 #CodingVisuals #SelectionSortExplained #TechEducation",
+  "threads_caption": "Selection Sort: Finds the smallest, puts it first. Repeat. Simple? Visually stunning! 🤯 Watch the magic unfold. ✨",
+  "hashtags": "#coding #ai #tech #algorithms #datascience #programming #computerscience #learncoding",
+  "yt_description": "Ever wondered how sorting algorithms *actually* work? 🤔 Dive deep into Selection Sort with our mind-blowing visual explanation! We break down this fundamental algorithm step-by-step, showing you exactly how it finds the minimum and places it correctly. Perfect for students, aspiring developers, or anyone curious about the magic behind organizing data! ✨ Get ready to level up your coding game! 🚀\n\n#SelectionSort #Algorithm #DataStructures #CodingTutorial #ComputerScience #LearnToCode #Programming #VisualCoding #TechExplained",
   "yt_tags": [
-    "Bogo Sort",
+    "Selection Sort",
     "Sorting Algorithm",
-    "Computer Science",
     "Algorithm Visualization",
-    "Programming Humor",
-    "Coding Fails",
-    "Worst Algorithm",
-    "Stupid Sort",
-    "Permutation Sort",
-    "Developer",
-    "Tech",
-    "Funny",
-    "Educational"
+    "Data Structures",
+    "Computer Science",
+    "Learn to Code",
+    "Programming Tutorial",
+    "Code Explained",
+    "Coding Challenge",
+    "Developer"
   ],
-  "vk_title": "Bogo Sort: Самый худший алгоритм сортировки (Смешно до слёз!) 🤣",
-  "vk_desc": "Представляем вам Bogo Sort - алгоритм, который существует ради шутки. 🤯 Как работает этот 'глупый' алгоритм и почему он худший в мире? Смотрите наше видео и узнайте! 😂 #BogoSort #Алгоритмы #Программирование #Кодинг #СмешноеПрограммирование"
+  "vk_title": "Визуализация Сортировки Выбором: Проще Не Бывает! 🤯",
+  "vk_desc": "Разбираемся с алгоритмом Сортировка Выбором наглядно! Покажем, как найти минимальный элемент и поставить его на нужное место. Идеально для начинающих программистов и студентов! 🚀 #СортировкаВыбором #Алгоритмы #Программирование #КомпьютерныеНауки"
 }
