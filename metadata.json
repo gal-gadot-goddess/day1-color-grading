@@ -1,27 +1,24 @@
 {
-  "title": "Shell Sort: The UNSUNG HERO of Sorting Algorithms! 🚀 (Visualized)",
-  "ig_caption": "Shell Sort: The algorithm that doesn't get enough credit! 🤯 Watch it leapfrog elements for lightning-fast sorts. You WON'T believe how efficient it is! ⚡️ Link in bio for the full visual breakdown! #ShellSort #CodeMagic #AlgorithmArt",
-  "fb_caption": "Ever wondered how some sorting algorithms are SO much faster than others? 🤔 Meet Shell Sort! It's not just an improvement on insertion sort; it's a whole new level of efficiency with its clever 'gap' sequences. See it in action with our dynamic visualizations and understand why it's a CS classic worth knowing! ✨ Watch now and boost your coding knowledge! 💪 #ShellSort #Algorithm #ComputerScienceExplained #CodingVisuals #ProgrammingTips",
-  "threads_caption": "Bubble Sort is cute, but Shell Sort? It's the speed demon you need to know. 🏎️ Watch it GO! 👇 [Link]",
-  "hashtags": "#coding #ai #tech #algorithms #datascience #computerscience #programming #softwaredevelopment #learnprogramming #techtrends",
-  "yt_description": "Tired of Bubble Sort's slow dance? 🐢 Meet Shell Sort, the faster, more efficient cousin you've never heard of! We break down this clever sorting algorithm with stunning visualizations, showing you EXACTLY how it leaps through arrays to achieve incredible speed. ⚡ Perfect for CS students, coding enthusiasts, and anyone curious about the magic behind sorting! ✨\n\nIn this video, you'll learn:\n✅ What Shell Sort is and why it's special.\n✅ How the 'gap' sequence makes all the difference.\n✅ Step-by-step visualization of the algorithm in action.\n✅ Its advantages over simpler sorting methods.\n\nDon't get stuck in the slow lane! Watch now and level up your sorting game! 💪\n\n#ShellSort #AlgorithmExplained #DataStructures #ComputerScience #CodingTutorial #Programming #LearnToCode #TechEducation #ViralCode",
+  "title": "Cycle Sort: The ULTIMATE Sorting Algorithm You've NEVER Heard Of! 🤯🚲",
+  "ig_caption": "Forget Bubble Sort, meet Cycle Sort! 🚲 The algorithm that cycles through your data for genius efficiency. 🤯 Watch the magic happen! ✨ #CycleSort #CodingMagic #AlgorithmArt #TechTok #CS",
+  "fb_caption": "Prepare to be amazed! 🤩 Cycle Sort is an algorithm unlike any other, brilliantly efficient and visually captivating. We break down its unique 'cycle' approach step-by-step. Perfect for understanding how to handle data with lots of duplicates! Click to watch the magic unfold! 🚲✨ #CycleSort #AlgorithmicThinking #CodeVisualization #ComputerScienceFacts #ProgrammingLife",
+  "threads_caption": "Cycle Sort: It doesn't just sort, it cycles through chaos to find order. Pure algorithmic elegance. 🚲🤯",
+  "hashtags": "#CycleSort #Algorithm #Coding #DataScience #ComputerScience #Programming #Tech #Innovation #LearnCode #ViralTech",
+  "yt_description": "Ever feel like your code is stuck in a loop? 🔄 Let's break FREE with Cycle Sort! This mind-bending algorithm is a masterclass in efficiency, especially for data with many duplicates. We're diving deep into its unique approach, visualizing every step to show you how it conquers sorting like no other. Prepare to have your algorithmic mind BLOWN! 💥\n\n#CycleSort #AlgorithmVisualization #DataStructures #ComputerScience #Programming #CodingTutorial #TechExplained #LearnToCode #ViralCoding #Efficiency",
   "yt_tags": [
-    "Shell Sort",
+    "Cycle Sort",
     "Sorting Algorithms",
-    "Computer Science",
-    "Data Structures",
     "Algorithm Visualization",
-    "Coding Tutorial",
+    "Data Structures",
+    "Computer Science",
     "Programming",
-    "Learn to Code",
-    "CS Basics",
-    "Efficiency",
-    "Gap Sequence",
-    "Insertion Sort",
-    "Big O Notation",
+    "Coding Tutorial",
     "Tech Explained",
-    "Software Development"
+    "Learn to Code",
+    "Algorithmic Efficiency",
+    "In-place Sorting",
+    "Duplicate Data Sorting"
   ],
-  "vk_title": "Сортировка Шелла: Скрытый Герой Алгоритмов! 🚀 (Визуализация)",
-  "vk_desc": "Устали от медленных танцев сортировки пузырьком? 🐢 Знакомьтесь с Сортировкой Шелла – более быстрым и эффективным 'родственником', о котором вы, возможно, никогда не слышали! Мы подробно разбираем этот хитрый алгоритм с потрясающей визуализацией, показывая, КАК он проносится по массивам, достигая невероятной скорости. ⚡️ Идеально для студентов информатики, энтузиастов программирования и всех, кто интересуется магией сортировки! ✨"
+  "vk_title": "Сортировка Циклами: Невероятный Алгоритм, Который Вы Пропустили! 🚲",
+  "vk_desc": "Откройте для себя Cycle Sort – алгоритм сортировки, который действует совершенно иначе! Мы визуализируем его уникальный подход к перестановке элементов, особенно эффективный при наличии множества дубликатов. Погрузитесь в мир эффективных структур данных! 🚀 #программирование #алгоритмы #сортировка #computer science"
 }
