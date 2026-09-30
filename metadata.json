@@ -1,22 +1,27 @@
 {
-  "title": "Selection Sort: The ULTIMATE Sorting Hack (Explained Visually!) 🤯",
-  "ig_caption": "Selection Sort demystified! 🤯 Watch how we find the smallest and build sorted magic, visually! ✨ #CodeMagic #SelectionSort #AlgoVibes",
-  "fb_caption": "Unlock the secrets of Selection Sort with our captivating visual breakdown! 🤩 See how this efficient algorithm works its magic to organize data. Perfect for anyone looking to grasp fundamental programming concepts. Click to watch! 👇 #CodingVisuals #SelectionSortExplained #TechEducation",
-  "threads_caption": "Selection Sort: Finds the smallest, puts it first. Repeat. Simple? Visually stunning! 🤯 Watch the magic unfold. ✨",
-  "hashtags": "#coding #ai #tech #algorithms #datascience #programming #computerscience #learncoding",
-  "yt_description": "Ever wondered how sorting algorithms *actually* work? 🤔 Dive deep into Selection Sort with our mind-blowing visual explanation! We break down this fundamental algorithm step-by-step, showing you exactly how it finds the minimum and places it correctly. Perfect for students, aspiring developers, or anyone curious about the magic behind organizing data! ✨ Get ready to level up your coding game! 🚀\n\n#SelectionSort #Algorithm #DataStructures #CodingTutorial #ComputerScience #LearnToCode #Programming #VisualCoding #TechExplained",
+  "title": "🔥 Heap Sort Explained: The ULTIMATE Data Structure Magic!",
+  "ig_caption": "Sorting sorted! 🤯 Witness the magic of Heap Sort with visuals that'll blow your mind. 🌲➡️✅ #HeapSort #CodeMagic #DataStructureGoals #AlgorithmArt",
+  "fb_caption": "Ever wondered how Heap Sort works? 🤔 We've got mind-blowing visualizations that break down this O(n log n) sorting powerhouse! From building heaps to sorting arrays, get ready to have your algorithms understanding leveled UP! 🚀 Watch now!",
+  "threads_caption": "Heap Sort: It's not just sorting, it's building a super-efficient data tree! 🌳 Watch it happen. 👇",
+  "hashtags": "#coding #ai #tech #datascience #algorithms #computerscience #programming #learnhowtocode #codinglife #softwareengineering #developer #techtrends #viral #education #tutorial",
+  "yt_description": "🚀 Dive into the world of Heap Sort! We're breaking down this powerful sorting algorithm with mind-blowing visualizations.  Think trees, heaps, and pure algorithmic brilliance! ✨ Learn how to build a max-heap and extract elements to achieve O(n log n) sorting.  Perfect for coding interviews and leveling up your computer science game! 🧠\n\n#HeapSort #DataStructures #Algorithms #CodingTutorial #ComputerScience #LearnToCode #Programming #TechExplained #Visualizations #O(n log n)",
   "yt_tags": [
-    "Selection Sort",
-    "Sorting Algorithm",
-    "Algorithm Visualization",
+    "Heap Sort",
+    "Sorting Algorithms",
     "Data Structures",
+    "Algorithms",
     "Computer Science",
+    "Coding Tutorial",
+    "Programming Explained",
+    "Algorithmic Visualization",
     "Learn to Code",
-    "Programming Tutorial",
-    "Code Explained",
-    "Coding Challenge",
-    "Developer"
+    "Big O Notation",
+    "O(n log n)",
+    "Max Heap",
+    "Min Heap",
+    "Interview Prep",
+    "Tech Education"
   ],
-  "vk_title": "Визуализация Сортировки Выбором: Проще Не Бывает! 🤯",
-  "vk_desc": "Разбираемся с алгоритмом Сортировка Выбором наглядно! Покажем, как найти минимальный элемент и поставить его на нужное место. Идеально для начинающих программистов и студентов! 🚀 #СортировкаВыбором #Алгоритмы #Программирование #КомпьютерныеНауки"
+  "vk_title": "Сортировка кучей (Heap Sort) - Полное объяснение с визуализацией!",
+  "vk_desc": "🚀 Разбираем мощный алгоритм сортировки Heap Sort! Узнайте, как строится двоичная куча (heap) и как извлекаются элементы для сортировки за O(n log n). Потрясающие визуализации помогут понять суть! ✨ Идеально для подготовки к собеседованиям и углубления знаний в CS. 🧠\n\n#HeapSort #Алгоритмы #СтруктурыДанных #Программирование #Кодинг #Python #Java #C++ #КомпьютерныеНауки #Визуализация"
 }
