@@ -1,22 +1,26 @@
 {
-  "title": "Bubble Sort EXPLAINED: The Simplest (and Slowest?) Sort! 🤯",
-  "ig_caption": "Bubble Sort: The algorithm that's as satisfying to watch as it is to understand! 🫧 Perfect for beginners! #BubbleSort #Coding #LearnToCode #Algorithm",
-  "fb_caption": "Tired of complex algorithms? Let's dive into Bubble Sort! 🫧 This visual breakdown makes understanding sorting super easy. Perfect for anyone dipping their toes into programming! What's your favorite simple algorithm? 👇",
-  "threads_caption": "Bubble Sort: It's not the fastest, but it's definitely the MOST VISUAL way to learn how sorting works. 🫧 Watch the bubbles dance!",
-  "hashtags": "#coding #ai #tech #algorithms #datascience #computerscience #programming #developer #softwaredevelopment #learntocode",
-  "yt_description": "Ever wondered how sorting algorithms actually WORK? 🤔 This video breaks down Bubble Sort, the OG of sorting! 🫧 We'll visualize its simple, step-by-step process and discuss why it's great for learning but not for massive datasets. Get ready for some satisfying visual comparisons! ✨\n\n#BubbleSort #SortingAlgorithms #DataStructures #ComputerScience #Programming #LearnToCode #AlgorithmVisualization #CodingExplained #TechEducation #DeveloperLife",
+  "title": "🤯 Stooge Sort: The DUMBEST Algorithm That Actually Sorts?! 🤡 #CodeFail",
+  "ig_caption": "Behold: Stooge Sort! 🤡 The sorting algorithm so bad, it's kinda good. 😂 Watch this visual disasterpiece unfold! #Coding #Algorithm #StoogeSort #TechHumor #Developer",
+  "fb_caption": "Prepare for a coding laugh riot! 🤡 We're diving deep into Stooge Sort, an algorithm so inefficient, it's become a legend. Watch its bizarre visualization and understand why this 'dumb' sort is actually a must-know for any programmer with a sense of humor! 😂 Hit share if you love quirky tech! 👇",
+  "threads_caption": "Stooge Sort: So dumb, it's genius? 🤔 Watch the algorithm that defies logic (and efficiency). You won't believe your eyes. 🤡 #CodingFail #AlgorithmAdventures",
+  "hashtags": "#coding #ai #tech #programming #computerscience #algorithm #stoogesort #developer #learncode #datastrctures #codinglife #viralcode",
+  "yt_description": "Prepare to have your mind bent (and maybe a little tickled 😂) as we dive into the hilariously inefficient world of Stooge Sort! Is it useful? Absolutely not! Is it fascinating to watch it try? 1000% YES! 🤯 Watch as we visualize this baffling sorting algorithm and explore why it's a coding comedy goldmine. Perfect for anyone who loves quirky algorithms, programming jokes, or just wants to see some truly odd code in action. Don't forget to SMASH that like button if you learned something (or just laughed a lot)! 👇\n\n#StoogeSort #Algorithm #ComputerScience #Programming #Coding #LearnToCode #Developer #Tech #FunnyCoding #WorstAlgorithms #DataStructures #Visualization #CodeHumor",
   "yt_tags": [
-    "Bubble Sort",
-    "Sorting Algorithm",
-    "Data Structures",
-    "Computer Science",
-    "Programming Tutorial",
+    "Stooge Sort",
     "Algorithm Visualization",
-    "Coding Explained",
-    "Learn to Code",
-    "Intro to Algorithms",
-    "Simple Sorting"
+    "Computer Science",
+    "Programming",
+    "Coding Tutorial",
+    "Data Structures",
+    "Worst Algorithms",
+    "Funny Programming",
+    "Code Humor",
+    "Developer Life",
+    "Tech Explained",
+    "Inefficient Algorithms",
+    "Sorting Algorithms",
+    "Learn to Code"
   ],
-  "vk_title": "Пузырьковая сортировка: Простое объяснение алгоритма (с визуализацией!)",
-  "vk_desc": "Разбираем один из самых понятных алгоритмов сортировки - пузырьковую сортировку! 🫧 Смотрите, как элементы меняются местами шаг за шагом. Идеально для начинающих программистов! #программирование #алгоритмы #компьютерныенауки #обучение"
+  "vk_title": "😂 Алгоритм Сортировки Шутников (Stooge Sort): Самый Нелепый Способ Сортировки!",
+  "vk_desc": "Погрузитесь в мир абсурдных алгоритмов с нашей визуализацией Stooge Sort! 🤡 Это настолько неэффективно, что становится смешно. Узнайте, как работает этот курьезный алгоритм и почему его стоит знать (хотя бы для смеха). Приготовьтесь к программистскому юмору! 😂\n\n#Программирование #Алгоритмы #StoogeSort #Код #Разработка #КомпьютерныеНауки #IT"
 }
