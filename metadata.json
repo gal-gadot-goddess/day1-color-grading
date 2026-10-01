@@ -1,22 +1,22 @@
 {
-  "title": "Selection Sort: The MOST Intuitive Sorting Algorithm? 🤔 (Visualized!)",
-  "ig_caption": "Selection Sort: It's simpler than you think! 🤯 Watch how we find the minimum and sort it out, one by one! Full breakdown on our YouTube! Link in bio! #CodeMagic #SelectionSortExplained #AlgorithmArt",
-  "fb_caption": "Selection Sort: The algorithm that's as straightforward as it gets! 💡 See it in action with our easy-to-follow visualization. Perfect for anyone learning about sorting. Click to watch the full breakdown! 👇",
-  "threads_caption": "Selection Sort: The 'find the smallest' king of sorting. 👑 We visualize it so you can finally get it. Link in bio!",
-  "hashtags": "#coding #ai #tech #algorithms #datascience #computerscience #programming #softwaredevelopment #learntocode #codinglife",
-  "yt_description": "Dive into the world of sorting algorithms with a crystal-clear visualization of Selection Sort! 🚀 Ever wondered how a computer finds the smallest (or largest) element repeatedly to sort a list? Selection Sort is your answer! We break down this fundamental algorithm step-by-step, making it easy to understand for beginners and a great refresher for experienced coders. Get ready to see the magic of sorting in action! ✨\n\n#SelectionSort #SortingAlgorithms #DataStructures #ComputerScience #AlgorithmVisualization #CodingTutorial #LearnToCode #Programming",
+  "title": "Bubble Sort EXPLAINED: The Simplest (and Slowest?) Sort! 🤯",
+  "ig_caption": "Bubble Sort: The algorithm that's as satisfying to watch as it is to understand! 🫧 Perfect for beginners! #BubbleSort #Coding #LearnToCode #Algorithm",
+  "fb_caption": "Tired of complex algorithms? Let's dive into Bubble Sort! 🫧 This visual breakdown makes understanding sorting super easy. Perfect for anyone dipping their toes into programming! What's your favorite simple algorithm? 👇",
+  "threads_caption": "Bubble Sort: It's not the fastest, but it's definitely the MOST VISUAL way to learn how sorting works. 🫧 Watch the bubbles dance!",
+  "hashtags": "#coding #ai #tech #algorithms #datascience #computerscience #programming #developer #softwaredevelopment #learntocode",
+  "yt_description": "Ever wondered how sorting algorithms actually WORK? 🤔 This video breaks down Bubble Sort, the OG of sorting! 🫧 We'll visualize its simple, step-by-step process and discuss why it's great for learning but not for massive datasets. Get ready for some satisfying visual comparisons! ✨\n\n#BubbleSort #SortingAlgorithms #DataStructures #ComputerScience #Programming #LearnToCode #AlgorithmVisualization #CodingExplained #TechEducation #DeveloperLife",
   "yt_tags": [
-    "Selection Sort",
-    "Sorting Algorithms",
-    "Algorithm Visualization",
+    "Bubble Sort",
+    "Sorting Algorithm",
     "Data Structures",
     "Computer Science",
     "Programming Tutorial",
+    "Algorithm Visualization",
     "Coding Explained",
     "Learn to Code",
-    "Beginner Coding",
-    "Educational Video"
+    "Intro to Algorithms",
+    "Simple Sorting"
   ],
-  "vk_title": "Визуализация Алгоритма Сортировки Выбором (Selection Sort)",
-  "vk_desc": "Погрузитесь в мир алгоритмов сортировки с наглядной визуализацией Сортировки Выбором! 🚀 Узнайте, как этот простой, но эффективный алгоритм упорядочивает данные, находя минимальный элемент на каждом шаге. Идеально для начинающих программистов! 💡\n\n#СортировкаВыбором #Алгоритмы #СтруктурыДанных #Программирование #Код"
+  "vk_title": "Пузырьковая сортировка: Простое объяснение алгоритма (с визуализацией!)",
+  "vk_desc": "Разбираем один из самых понятных алгоритмов сортировки - пузырьковую сортировку! 🫧 Смотрите, как элементы меняются местами шаг за шагом. Идеально для начинающих программистов! #программирование #алгоритмы #компьютерныенауки #обучение"
 }
