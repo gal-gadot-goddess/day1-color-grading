@@ -1,25 +1,22 @@
 {
-  "title": "Comb Sort: The Sorting Algorithm That ACTUALLY Works Fast! 🚀🤯",
-  "ig_caption": "Comb Sort: The faster, smarter way to sort! 🔥 Watch how this algorithm slays turtles and gets your data in order. You NEED to see this! 👇",
-  "fb_caption": "Prepare to be amazed! ✨ We're breaking down Comb Sort – the algorithm that's surprisingly fast and elegant. Ever wondered how to improve on Bubble Sort? This is it! Watch the visualization and see the difference. 👇 #CodingChallenge #AlgorithmMagic #TechExplained #ProgrammerLife",
-  "threads_caption": "Comb Sort: It's like Bubble Sort, but it grew up and got WAY faster. 📈 See the shrink-gap magic in action!",
-  "hashtags": "#coding #algorithims #datascience #computerscience #programming #techtips #learncoding #comb_sort #viraltech",
-  "yt_description": "Tired of slow sorting algorithms? Meet Comb Sort, the clever evolution of Bubble Sort that eliminates turtles and shrinks your data faster than you can say 'efficiency'! 🐢➡️💨 We'll dive deep into its shrink-gap magic and why it's a hidden gem in the sorting world. ✨\n\n#CombSort #Algorithm #DataStructures #ComputerScience #Programming #CodingTutorial #TechExplained #LearnToCode #ViralCode",
+  "title": "🤯 Insertion Sort: The 'Magic Wand' Sorting Algorithm! ✨ (Visualized)",
+  "ig_caption": "Watch Insertion Sort weave its magic! ✨ This algorithm is like sorting your hand of cards - simple, effective, and surprisingly satisfying to watch. 🃏 Dive into the code with us! #coding #computerscience #algorithm #visualize #learntocode #tech #dev",
+  "fb_caption": "Witness the elegance of Insertion Sort! ✨ This algorithm is a fundamental building block in computer science, and watching it in action is incredibly satisfying. Perfect for anyone wanting to understand how sorting works at a deeper level. What's your favorite sorting algorithm? Let us know below! 👇\n\n#InsertionSort #Algorithm #Coding #ComputerScience #TechEducation #ProgrammingTips #DataStructures #LearnToCode",
+  "threads_caption": "Insertion Sort: So intuitive, it feels like cheating! 🤯 Watch it build order from chaos, one element at a time. Your brain will thank you. 🧠✨ #AlgorithmMagic #CodeVisuals",
+  "hashtags": "#coding #ai #tech #computerscience #algorithm #datascience #programming #learntocode",
+  "yt_description": "Ever wondered how algorithms sort your data? 🤔 Join us for a mesmerizing visualization of Insertion Sort! 🪄 See how this simple yet powerful algorithm builds a sorted array one element at a time. Perfect for beginners and a fun refresher for pros! 🚀\n\nWhat you'll learn:\n✅ Step-by-step visualization of Insertion Sort\n✅ How it works compared to other sorts (briefly!)\n✅ Its time complexity (why it's good for small/nearly sorted data)\n✅ Real-world analogies to make it stick! 💡\n\n#InsertionSort #AlgorithmVisualization #CodingExplained #LearnToCode #ComputerScience #DataStructures #Programming #Tech #DevLife",
   "yt_tags": [
-    "Comb Sort",
-    "Sorting Algorithm",
+    "Insertion Sort",
     "Algorithm Visualization",
-    "Data Structures",
-    "Computer Science",
-    "Programming",
     "Coding Tutorial",
-    "Efficient Sorting",
-    "Bubble Sort Improvement",
-    "Algorithm Explained",
-    "Code Visualization",
-    "Tech",
-    "Education"
+    "Computer Science Explained",
+    "Data Structures",
+    "Learn Programming",
+    "Coding for Beginners",
+    "Sorting Algorithms",
+    "Tech Education",
+    "Development"
   ],
-  "vk_title": "Comb Sort: Революция в сортировке данных! 🚀",
-  "vk_desc": "Узнайте, как Comb Sort, улучшенная версия Bubble Sort, справляется с медленными данными и ускоряет сортировку! Пошаговая визуализация и объяснение."
+  "vk_title": "Сортировка Вставками: Магия Алгоритмов! 🪄 (Визуализация)",
+  "vk_desc": "Узнайте, как работает сортировка вставками, на наглядной визуализации! 🚀 Поймите основы алгоритмов, даже если вы новичок. Показываем шаг за шагом, как этот простой, но мощный метод строит отсортированный массив. Идеально для изучения! 💡 #программирование #алгоритмы #компьютерныенауки #обучениекоду #технологии"
 }
