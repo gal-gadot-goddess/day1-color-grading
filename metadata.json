@@ -1,26 +1,25 @@
 {
-  "title": "🚀 Quick Sort Explained: The ULTIMATE Visual Guide! (Like Magic!) ✨",
-  "ig_caption": "🤯 Quick Sort: Visualized like never before! 🚀 Watch the magic unfold as we sort data at lightning speed. You WON'T believe how simple it is once you see it! ✨ #coding #algorithms #datascience #tech #quickSort #computerscience #programminglife #learncode",
-  "fb_caption": "Is Quick Sort the KING of sorting algorithms? 👑 We're breaking down its ingenious mechanics with jaw-dropping visualizations that will change how you see code forever! 🤩 Ready to master Quick Sort? Click play! 👇 #ComputerScience #Coding #Algorithms #DataStructures #TechEducation #LearnProgramming #QuickSortVisualized",
-  "threads_caption": "Quick Sort: It's not just fast, it's *clever*. See why this algorithm is a coding legend, visualized! 🧠⚡️ #code #algorithm #tech",
-  "hashtags": "#coding #ai #tech #algorithms #datascience #computerscience #programming #quickSort #learncode #developer",
-  "yt_description": "Ever wondered how Quick Sort *actually* works? 🤔 Prepare to be amazed as we break down this powerful sorting algorithm with stunning, easy-to-follow visualizations! 💡 We'll walk you through partitioning, pivoting, and recursion step-by-step, making complex concepts crystal clear. 🤩 Whether you're a beginner or looking to level up your CS game, this video is for you!  Don't forget to LIKE, SUBSCRIBE, and hit that notification bell! 🔔 #QuickSort #Algorithm #DataStructures #ComputerScience #CodingTutorial #LearnToCode #Programming #CS",
+  "title": "Comb Sort: The Sorting Algorithm That ACTUALLY Works Fast! 🚀🤯",
+  "ig_caption": "Comb Sort: The faster, smarter way to sort! 🔥 Watch how this algorithm slays turtles and gets your data in order. You NEED to see this! 👇",
+  "fb_caption": "Prepare to be amazed! ✨ We're breaking down Comb Sort – the algorithm that's surprisingly fast and elegant. Ever wondered how to improve on Bubble Sort? This is it! Watch the visualization and see the difference. 👇 #CodingChallenge #AlgorithmMagic #TechExplained #ProgrammerLife",
+  "threads_caption": "Comb Sort: It's like Bubble Sort, but it grew up and got WAY faster. 📈 See the shrink-gap magic in action!",
+  "hashtags": "#coding #algorithims #datascience #computerscience #programming #techtips #learncoding #comb_sort #viraltech",
+  "yt_description": "Tired of slow sorting algorithms? Meet Comb Sort, the clever evolution of Bubble Sort that eliminates turtles and shrinks your data faster than you can say 'efficiency'! 🐢➡️💨 We'll dive deep into its shrink-gap magic and why it's a hidden gem in the sorting world. ✨\n\n#CombSort #Algorithm #DataStructures #ComputerScience #Programming #CodingTutorial #TechExplained #LearnToCode #ViralCode",
   "yt_tags": [
-    "Quick Sort",
+    "Comb Sort",
     "Sorting Algorithm",
+    "Algorithm Visualization",
     "Data Structures",
     "Computer Science",
-    "Algorithm Visualization",
+    "Programming",
     "Coding Tutorial",
-    "Learn to Code",
-    "Programming Explained",
-    "CS Fundamentals",
-    "Recursion",
-    "Partitioning",
-    "Pivot",
-    "Time Complexity",
-    "Big O Notation"
+    "Efficient Sorting",
+    "Bubble Sort Improvement",
+    "Algorithm Explained",
+    "Code Visualization",
+    "Tech",
+    "Education"
   ],
-  "vk_title": "🚀 Визуализация Быстрой Сортировки (Quick Sort) – Понятно Каждому!",
-  "vk_desc": "🚀 Узнайте, как работает один из самых быстрых алгоритмов сортировки – Quick Sort! Мы покажем его шаг за шагом с наглядной визуализацией. Идеально для начинающих и опытных разработчиков. 💡 #программирование #алгоритмы #компьютерныенауки #обучениекоду"
+  "vk_title": "Comb Sort: Революция в сортировке данных! 🚀",
+  "vk_desc": "Узнайте, как Comb Sort, улучшенная версия Bubble Sort, справляется с медленными данными и ускоряет сортировку! Пошаговая визуализация и объяснение."
 }
