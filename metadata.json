@@ -1,27 +1,22 @@
 {
-  "title": "TimSort: The Master of Your Data's Chaos! 🤯 Sorting Algorithm Explained",
-  "ig_caption": "TimSort: The secret sauce behind lightning-fast sorting! ⚡️ See how this adaptive algorithm conquers data chaos with mind-blowing visuals. Dive into the magic! ✨ #coding #algorithms #tech",
-  "fb_caption": "Unlocking the power of TimSort! 🚀 This video breaks down one of the most efficient sorting algorithms with crystal-clear visualizations. See how it adapts to your data and makes sorting a breeze! Perfect for coders of all levels. #TimSort #Algorithm #Programming #TechExplained #ComputerScience",
-  "threads_caption": "TimSort: It's not just sorting, it's an intelligent dance of data. Watch it turn chaos into order like a pro. Your next favorite algorithm. 💃🕺",
-  "hashtags": "#coding #ai #tech #computerscience #datascience #programming #algorithm #sort #timSort #visualisation #learncode #python #java #developers",
-  "yt_description": "Ever wondered how sorting happens behind the scenes? 🤔 Get ready to meet TimSort – the intelligent, adaptive sorting algorithm that powers your favorite apps! We'll break down its magic with stunning visualizations, showing you how it combines the best of Merge Sort and Insertion Sort. ✨ Whether you're a beginner coder or a seasoned pro, this video will level up your understanding of efficiency and elegance in algorithms. 🚀\n\nWhat you'll learn:\n✅ The core concepts of TimSort\n✅ How it adapts to existing data patterns\n✅ Visual breakdown of its merging and insertion strategies\n✅ Why it's used in Python, Java, and more!\n\nDon't forget to LIKE 👍, SUBSCRIBE 🔔, and hit that notification bell so you don't miss our next algorithmic adventure!",
+  "title": "🤯 QuickSort UNLEASHED: The Fastest Sorting Algorithm Explained Visually!",
+  "ig_caption": "QuickSort: The algorithm that REVOLUTIONIZED sorting! 🤯 See it in action. 👇 #CodeGoals",
+  "fb_caption": "Think sorting is slow? Think again! 🤔 We're diving deep into QuickSort with an incredible visual breakdown. See how this 'divide and conquer' master sorts data at warp speed! Prepare to be amazed! 🤩 #CodingLife #TechExplained #AlgorithmMagic",
+  "threads_caption": "QuickSort: The OG speed demon of sorting. Watch how it shatters data and rebuilds it, faster than you can say 'pivot'! 💥",
+  "hashtags": "#coding #ai #tech #algorithm #computerscience #datastructures #programming #softwaredevelopment #quickSort #learntocode",
+  "yt_description": "Ever wondered how computers sort mountains of data at lightning speed? ⚡️ Get ready for a mind-blowing visual journey into the heart of QuickSort! We break down this powerful algorithm step-by-step with stunning animations and clear explanations. 🚀  Master QuickSort and level up your coding game! #ComputerScience #DataStructures #Algorithms #Programming",
   "yt_tags": [
-    "TimSort",
+    "QuickSort",
     "Sorting Algorithm",
-    "Algorithm Visualization",
-    "Computer Science",
     "Data Structures",
+    "Algorithms Explained",
+    "Visualizing Algorithms",
+    "Computer Science",
+    "Coding Tutorial",
     "Programming",
-    "Coding Explained",
-    "Python Sorting",
-    "Java Sorting",
-    "Merge Sort",
-    "Insertion Sort",
-    "Adaptive Sorting",
-    "Algorithmic Efficiency",
-    "Code Visualization",
-    "Learn to Code"
+    "Fastest Sort",
+    "Divide and Conquer"
   ],
-  "vk_title": "TimSort: Интеллектуальный алгоритм сортировки (Визуализация)",
-  "vk_desc": "Узнайте, как TimSort, умный и адаптивный алгоритм сортировки, используется в Python, Java и других языках. Погрузитесь в завораживающую визуализацию его работы, сочетающей Merge Sort и Insertion Sort. Станьте экспертом в области алгоритмов!"
+  "vk_title": "🚀 Визуализация QuickSort: Самый быстрый алгоритм сортировки!",
+  "vk_desc": "Разбираемся с QuickSort! Пошаговая визуализация и объяснение самого быстрого алгоритма сортировки данных. Узнай, как работает 'разделяй и властвуй' на практике! 💻🔬 #программирование #алгоритмы #сортировка #компьютерныенауки"
 }
