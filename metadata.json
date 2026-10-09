@@ -1,22 +1,25 @@
 {
-  "title": "🤯 QuickSort UNLEASHED: The Fastest Sorting Algorithm Explained Visually!",
-  "ig_caption": "QuickSort: The algorithm that REVOLUTIONIZED sorting! 🤯 See it in action. 👇 #CodeGoals",
-  "fb_caption": "Think sorting is slow? Think again! 🤔 We're diving deep into QuickSort with an incredible visual breakdown. See how this 'divide and conquer' master sorts data at warp speed! Prepare to be amazed! 🤩 #CodingLife #TechExplained #AlgorithmMagic",
-  "threads_caption": "QuickSort: The OG speed demon of sorting. Watch how it shatters data and rebuilds it, faster than you can say 'pivot'! 💥",
-  "hashtags": "#coding #ai #tech #algorithm #computerscience #datastructures #programming #softwaredevelopment #quickSort #learntocode",
-  "yt_description": "Ever wondered how computers sort mountains of data at lightning speed? ⚡️ Get ready for a mind-blowing visual journey into the heart of QuickSort! We break down this powerful algorithm step-by-step with stunning animations and clear explanations. 🚀  Master QuickSort and level up your coding game! #ComputerScience #DataStructures #Algorithms #Programming",
+  "title": "Gnome Sort: The Simplest (and Funniest?) Sorting Algorithm EVER!",
+  "ig_caption": "Behold, Gnome Sort! 🍄 The algorithm that's as simple as it is hilarious. Watch our visualization and see this little guy sort like nobody's watching! 😉 #CodeMagic #GnomeSortFun #AlgoGeek",
+  "fb_caption": "Ever met an algorithm that's as charming as it is clever? ✨ Introducing Gnome Sort! 🍄 We've visualized this delightful sorting method so you can see its simple genius in action. Perfect for beginners and a fun refresher for seasoned coders! Watch now and let the sorting begin! 🤓 #GnomeSort #Algorithm #Coding #TechExplained #LearnToCode",
+  "threads_caption": "Gnome Sort: So simple, even a gnome can do it. 🍄😂 We visualized it. You gotta see this.",
+  "hashtags": "#coding #ai #tech #algorithms #computerscience #programming #datascructures #learntocode #codinglife #gnomesort #viralcode",
+  "yt_description": "Ever wondered how sorting algorithms work? Meet Gnome Sort! 🍄 It's ridiculously simple, almost like a garden gnome tidying up a mess. We'll visualize this quirky algorithm step-by-step with animations and explain why it's both fun and surprisingly effective (sometimes!). Get ready for a laugh and some serious coding insight! 😂✨\n\n#GnomeSort #AlgorithmExplained #CodingHumor #DataStructures #ComputerScience #Programming",
   "yt_tags": [
-    "QuickSort",
+    "Gnome Sort",
     "Sorting Algorithm",
-    "Data Structures",
-    "Algorithms Explained",
-    "Visualizing Algorithms",
-    "Computer Science",
+    "Algorithm Visualization",
     "Coding Tutorial",
+    "Computer Science",
+    "Data Structures",
     "Programming",
-    "Fastest Sort",
-    "Divide and Conquer"
+    "Learn to Code",
+    "Code Animation",
+    "Funny Algorithms",
+    "Simple Algorithms",
+    "Best Sorting Algorithms",
+    "Algorithm Explained"
   ],
-  "vk_title": "🚀 Визуализация QuickSort: Самый быстрый алгоритм сортировки!",
-  "vk_desc": "Разбираемся с QuickSort! Пошаговая визуализация и объяснение самого быстрого алгоритма сортировки данных. Узнай, как работает 'разделяй и властвуй' на практике! 💻🔬 #программирование #алгоритмы #сортировка #компьютерныенауки"
+  "vk_title": "Гном-сортировка: Самый простой и смешной алгоритм!",
+  "vk_desc": "Знакомьтесь, алгоритм Гном-Сортировки! 🍄 Это настолько простой, что кажется, будто гномик убирает беспорядок. Мы визуализировали этот забавный алгоритм шаг за шагом с анимацией и объясним, почему он одновременно смешной и удивительно эффективный (иногда!). Приготовьтесь посмеяться и получить ценные знания о программировании! 😂✨"
 }
