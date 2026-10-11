@@ -1,25 +1,22 @@
 {
-  "title": "Shell Sort: The Algorithm That Jumps Ahead! 🚀 (Visualized)",
-  "ig_caption": "Shell Sort: The sorting algorithm that doesn't play by the usual rules! 🤯 See how its 'gaps' make it a superstar for big lists. #CodingMagic ✨",
-  "fb_caption": "Tired of slow sorts? Meet Shell Sort! 🤩 This isn't your grandma's Bubble Sort. We're visualizing how its unique 'gap' strategy makes it incredibly efficient for large datasets. Click to see the magic happen! ✨ #ShellSort #Algorithm #Coding",
-  "threads_caption": "Shell Sort: Not your average sort. It *jumps* for joy and efficiency! 🚀 Watch it conquer larger arrays like a boss.",
-  "hashtags": "#ShellSort #AlgorithmVisualization #DataStructures #ComputerScience #Programming #Coding #Tech #LearnToCode",
-  "yt_description": "Ever wondered how sorting algorithms can be SO fast? 🤔 Meet Shell Sort, the evolutionary leap from Bubble Sort! We're visualizing its 'gap' magic to show you why it's a game-changer for larger datasets. ✨ Watch how it efficiently moves elements across the array, drastically reducing comparisons. Perfect for coders looking to boost their sorting game! 💻\n\n#ShellSort #AlgorithmExplained #DataStructures #ComputerScience #ProgrammingTutorial #CodingVisuals #LearnToCode #TechEducation",
+  "title": "🚀 Odd-Even Sort: The Simplest Parallel Sort You'll Ever See! (Visualized)",
+  "ig_caption": "Parallel sorting made SIMPLE! ✨ Meet Odd-Even Sort – your new favorite algorithm for understanding how computers sort with lightning speed! ⚡️ Visualizations included! 😉 #CodeMagic #AlgorithmGeek #TechTrends",
+  "fb_caption": "Ever thought sorting was boring? Think again! 🤔 We're breaking down the Odd-Even Sort algorithm with stunning visuals that will make you see code in a whole new light. ✨ Perfect for anyone looking to level up their programming game! Click to watch and learn! 👆",
+  "threads_caption": "Odd-Even Sort: The parallel sorting algorithm that's easier to grasp than your morning coffee order. ☕️ Let's visualize it!",
+  "hashtags": "#coding #ai #tech #computerscience #programming #algorithms #datasructures #learncoding #odd evensort #techillustrated",
+  "yt_description": "Ever wondered how computers sort data *super fast*? 🤯 Dive into the world of parallel sorting with Odd-Even Sort! ✨ We'll break down this surprisingly simple algorithm step-by-step with mind-blowing visualizations. Perfect for aspiring coders, CS students, and anyone curious about the magic behind sorting!\n\nWhat you'll learn:\n✅ How Odd-Even Sort works\n✅ Its parallel nature explained\n✅ Practical use cases (even if it's not the fastest! 😉)\n✅ Visual aids to make it crystal clear\n\n#Algorithm #ComputerScience #Programming #DataStructures #CodingTutorial #LearnToCode #TechExplained #OddEvenSort #ParallelComputing",
   "yt_tags": [
-    "Shell Sort",
+    "Odd-Even Sort",
+    "Sorting Algorithm",
     "Algorithm Visualization",
-    "Sorting Algorithms",
-    "Data Structures",
     "Computer Science",
-    "Programming",
+    "Data Structures",
     "Coding Tutorial",
+    "Programming",
+    "Parallel Sorting",
     "Learn to Code",
-    "Code Visualization",
-    "Big O Notation",
-    "Efficiency",
-    "Algorithms Explained",
-    "Tech"
+    "Tech Explained"
   ],
-  "vk_title": "Визуализация Сортировки Шелла: Прыжки к Эффективности! 🚀",
-  "vk_desc": "Откройте для себя Сортировку Шелла – элегантное решение для быстрой сортировки больших массивов данных! 💻 Мы наглядно покажем, как 'шаг' алгоритма позволяет элементам перемещаться с невероятной скоростью, экономя драгоценное время. Идеально для всех, кто хочет понять, как сделать свои программы быстрее. ✨\n\n#СортировкаШелла #Алгоритмы #СтруктурыДанных #Программирование #Кодинг #КомпьютерныеНауки #ВизуализацияКода"
+  "vk_title": "Сортировка Чёт-Нечёт: Простой Параллельный Алгоритм (Визуализация)",
+  "vk_desc": "Узнайте, как работает один из самых простых параллельных алгоритмов сортировки - Сортировка Чёт-Нечёт (Odd-Even Sort)! 🚀 Подробная визуализация и объяснение для всех, кто хочет разобраться в основах информатики. 💻"
 }
