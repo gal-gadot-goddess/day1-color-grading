@@ -1,22 +1,27 @@
 {
-  "title": "🚀 Odd-Even Sort: The Simplest Parallel Sort You'll Ever See! (Visualized)",
-  "ig_caption": "Parallel sorting made SIMPLE! ✨ Meet Odd-Even Sort – your new favorite algorithm for understanding how computers sort with lightning speed! ⚡️ Visualizations included! 😉 #CodeMagic #AlgorithmGeek #TechTrends",
-  "fb_caption": "Ever thought sorting was boring? Think again! 🤔 We're breaking down the Odd-Even Sort algorithm with stunning visuals that will make you see code in a whole new light. ✨ Perfect for anyone looking to level up their programming game! Click to watch and learn! 👆",
-  "threads_caption": "Odd-Even Sort: The parallel sorting algorithm that's easier to grasp than your morning coffee order. ☕️ Let's visualize it!",
-  "hashtags": "#coding #ai #tech #computerscience #programming #algorithms #datasructures #learncoding #odd evensort #techillustrated",
-  "yt_description": "Ever wondered how computers sort data *super fast*? 🤯 Dive into the world of parallel sorting with Odd-Even Sort! ✨ We'll break down this surprisingly simple algorithm step-by-step with mind-blowing visualizations. Perfect for aspiring coders, CS students, and anyone curious about the magic behind sorting!\n\nWhat you'll learn:\n✅ How Odd-Even Sort works\n✅ Its parallel nature explained\n✅ Practical use cases (even if it's not the fastest! 😉)\n✅ Visual aids to make it crystal clear\n\n#Algorithm #ComputerScience #Programming #DataStructures #CodingTutorial #LearnToCode #TechExplained #OddEvenSort #ParallelComputing",
+  "title": "Stooge Sort: The MOST Ridiculous Sorting Algorithm Ever?! 🤯",
+  "ig_caption": "You won't BELIEVE how this 'sorting' algorithm works... 🤦‍♂️ Meet Stooge Sort! #StoogeSort #CodingFails #AlgorithmGems #ProgrammingHumor",
+  "fb_caption": "Ever heard of Stooge Sort? It's an algorithm so inefficient, it's almost comical! 🤡 Watch our visualization and see why it earned its name. Is this the worst way to sort? Let us know in the comments! 👇 #StoogeSort #CodingComedy #AlgorithmExplained #TechEducation",
+  "threads_caption": "Stooge Sort: So bad, it's... well, it's just bad. But the visualization is WILD! 🤪",
+  "hashtags": "#coding #ai #tech #algorithms #computerscience #programming #datascience #learnprogramming #codinglife #softwaredevelopment #techtrends #viralcode",
+  "yt_description": "Prepare to be amazed (and slightly confused) as we dive into the hilarious and surprisingly complex world of Stooge Sort! 🤯 Is it efficient? Absolutely not. Is it fun to watch? DEFINITELY! Join us for a visual journey into one of the most bizarre sorting algorithms out there. \n\n#StoogeSort #Coding #Algorithms #ComputerScience #Programming #WTF #DataStructures #LearnToCode #Viral #TechHumor",
   "yt_tags": [
-    "Odd-Even Sort",
-    "Sorting Algorithm",
+    "Stooge Sort",
+    "Sorting Algorithms",
     "Algorithm Visualization",
     "Computer Science",
-    "Data Structures",
-    "Coding Tutorial",
     "Programming",
-    "Parallel Sorting",
+    "Coding",
+    "Data Structures",
     "Learn to Code",
-    "Tech Explained"
+    "Tech Explained",
+    "Funny Algorithms",
+    "Ridiculous Code",
+    "Educational",
+    "Tutorial",
+    "Code Visualization",
+    "Software Engineering"
   ],
-  "vk_title": "Сортировка Чёт-Нечёт: Простой Параллельный Алгоритм (Визуализация)",
-  "vk_desc": "Узнайте, как работает один из самых простых параллельных алгоритмов сортировки - Сортировка Чёт-Нечёт (Odd-Even Sort)! 🚀 Подробная визуализация и объяснение для всех, кто хочет разобраться в основах информатики. 💻"
+  "vk_title": "Сортировка Шутников: Самый Безумный Алгоритм Сортировки? 🤯",
+  "vk_desc": "Погрузитесь в мир Stooge Sort – одного из самых неэффективных, но зрелищных алгоритмов сортировки! Смотрите, как он работает, и удивляйтесь его нелепости. 😂 #StoogeSort #Алгоритмы #Программирование #Кодинг #КомпьютерныеНауки"
 }
