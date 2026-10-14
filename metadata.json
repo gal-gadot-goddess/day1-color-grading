@@ -1,24 +1,27 @@
 {
-  "title": "GNOME SORT: The Simplest Sorting Algorithm You've NEVER Seen! 🤯",
-  "ig_caption": "Meet the Gnome Sort! 🍄 The algorithm that's as cute as it is clever. Watch it work its magic! ✨ #GnomeSort #CodingMagic #AlgorithmArt",
-  "fb_caption": "Unpacking the Gnome Sort! 🍄 This algorithm might be the most charmingly straightforward one you'll learn. Perfect for a quick, visual understanding of sorting. Watch it work and see why it’s a fun one for your coding toolkit! 👇 #GnomeSort #Coding #ComputerScience #AlgorithmExplained #ProgrammingTips",
-  "threads_caption": "Gnome Sort: The algorithm that walks its way to sorted data. So simple, it's genius. 🍄➡️✅",
-  "hashtags": "#coding #ai #tech #algorithms #computerscience #programming #datascructure #learncoding #softwaredevelopment #codingchallenge #gnomesort",
-  "yt_description": "Ever wondered how computers sort data? 🤔 Today, we're diving into the charmingly simple, yet surprisingly effective, Gnome Sort! 🍄 Watch as our little gnome sorts an array with just a few basic moves. It's like a tiny digital gardener taming your unsorted lists! 🌳\n\nIn this video, you'll discover:\n✅ The core logic behind Gnome Sort\n✅ A clear, visual step-by-step walkthrough\n✅ When this quirky algorithm shines (and when it doesn't!)\n✅ How it compares to other sorting methods\n\nPerfect for beginners and algorithm enthusiasts alike! ✨\n\n#GnomeSort #SortingAlgorithms #ComputerScience #DataStructures #Programming #LearnToCode #AlgorithmVisualization #CodingTutorial",
+  "title": "🤯 Merge Sort: The SECRET to Perfectly Sorted Chaos! (Visualized)",
+  "ig_caption": "Chaos -> Order. ✨ Witness the elegant magic of Merge Sort in action! Sorting made visual and EPIC. 🚀 #MergeSortMagic #CodingGoals",
+  "fb_caption": "Mind BLOWN by the elegance of Merge Sort! 🤯 This visualization breaks down a fundamental sorting algorithm into pure, understandable art. ✨ If you've ever struggled with sorting data, this is for you! 👇 #MergeSort #Algorithm #Coding",
+  "threads_caption": "Merge Sort: Split, Conquer, MERGE. It's not just sorting, it's an algorithmic ballet. 🩰 Who knew data could be this beautiful? 😉",
+  "hashtags": "#coding #ai #tech #datascience #algorithms #programming #computerscience #softwaredevelopment #learncoding #techviral",
+  "yt_description": "Ever wondered how computers sort massive amounts of data lightning-fast? ⚡ Dive into the mesmerizing world of Merge Sort! 🤩 We're breaking down this powerful divide-and-conquer algorithm with a crystal-clear visualization that'll make your brain do a happy dance. 🧠💃 Watch as arrays split, conquer, and merge back together, flawlessly ordered. ✨ Perfect for students, developers, and anyone curious about the magic behind efficient sorting! \n\n#MergeSort #Algorithm #DataStructures #ComputerScience #CodingTutorial #Programming #TechExplained #ViralCoding #LearnToCode",
   "yt_tags": [
-    "Gnome Sort",
-    "Sorting Algorithm",
+    "Merge Sort",
     "Algorithm Visualization",
-    "Computer Science",
     "Data Structures",
-    "Programming",
+    "Computer Science",
     "Coding Tutorial",
+    "Programming",
+    "Sorting Algorithms",
+    "Divide and Conquer",
     "Learn to Code",
-    "Beginner Coding",
-    "Simple Algorithm",
-    "Funny Algorithm",
-    "Educational Video"
+    "Tech Explained",
+    "CS Basics",
+    "Efficient Sorting",
+    "Code Visualization",
+    "Algorithm Explained",
+    "Software Development"
   ],
-  "vk_title": "Сортировка Гнома: Визуализация и Объяснение",
-  "vk_desc": "Познакомьтесь с алгоритмом сортировки Гнома (Gnome Sort)! 🍄 Простой, наглядный и очень эффективный в определенных сценариях. Идеально подходит для новичков в программировании. Смотрите, как наш маленький гном упорядочивает данные шаг за шагом! #программирование #алгоритмы #компьютерныенауки #обучениекоду #визуализацияалгоритмов"
+  "vk_title": "Merge Sort: Как сортировать данные ЭФФЕКТИВНО (Визуализация)",
+  "vk_desc": "Погрузитесь в мир алгоритмов с визуализацией Merge Sort! 🤩 Узнайте, как этот мощный алгоритм разделяет и властвует, чтобы идеально отсортировать ваши данные. ✨ Идеально для студентов, разработчиков и всех, кто интересуется эффективными методами сортировки. 🚀"
 }
