@@ -1,24 +1,25 @@
 {
-  "title": "Selection Sort: The \"Smartest\" Way to Sort? 🤔 (Algorithmic Visualized!)",
-  "ig_caption": "Selection Sort: The \"find the smallest\" magic! ✨ Watch our visual breakdown & see if it's your coding MVP! #Coding #Algorithm #Tech",
-  "fb_caption": "Ever wondered how Selection Sort works its magic? ✨ We've got a super clear, visual explanation that will make even complex algorithms easy to grasp! Watch now and level up your coding game. 🧠",
-  "threads_caption": "Selection Sort: Finds the minimum, swaps it in. Simple, but is it efficient? Let's visualize! 👇",
-  "hashtags": "#coding #ai #tech #computerscience #algorithm #datascience #programming #learncode #visualizations",
-  "yt_description": "Dive into the world of sorting algorithms with Selection Sort! 🚀 We break down how it works, visualize it step-by-step, and uncover its pros and cons. Is it the ultimate choice or just a stepping stone? Watch to find out! 💡\n\n#SelectionSort #SortingAlgorithms #ComputerScience #DataStructures #CodingTutorial #AlgorithmExplained #Programming #LearnToCode #TechEducation #ViralCoding",
+  "title": "Cycle Sort: The MIND-BENDING Algorithm That REPAIRS Arrays!",
+  "ig_caption": "This algorithm is ART. 🎨 Cycle Sort isn't just sorting, it's a dance of elements finding their perfect spot. 💃🕺 You NEED to see this! #CycleSort #CodeArt #AlgorithmMagic #TechTok",
+  "fb_caption": "Prepare to have your mind blown! 🤯 Cycle Sort is here to revolutionize how you think about sorting algorithms. It's not just about order; it's about elegant repair. Click to witness the magic! ✨ #CycleSort #Algorithm #CodingLife #TechExplained #ProgrammingTips",
+  "threads_caption": "Cycle Sort: It's not just sorting, it's *fixing* your arrays. Your brain will thank you. 🧠💡 #CycleSort #AlgorithmHacks",
+  "hashtags": "#coding #ai #tech #algorithms #datascience #computerscience #programming #learncode #viral #devlife",
+  "yt_description": "🤯 Ever seen an algorithm that not only sorts but also REPAIRS!?! Dive deep into the mesmerizing world of Cycle Sort, the algorithm that shuffles elements into their correct positions with elegant precision. ✨ Perfect for competitive programmers & algorithm enthusiasts! 🚀\n\nIn this video, we'll cover:\n\n🔄 What is Cycle Sort and how does it work?\n💡 Its unique approach to sorting and in-place operations.\n🚀 Time and space complexity analysis.\n🌟 When to use Cycle Sort over other sorting algorithms.\n\n#CycleSort #Algorithms #DataStructures #Coding #Programming #ComputerScience #Tech #LearnToCode #ViralCoding",
   "yt_tags": [
-    "Selection Sort",
+    "Cycle Sort",
     "Sorting Algorithms",
     "Algorithm Visualization",
-    "Computer Science",
     "Data Structures",
-    "Programming Tutorial",
-    "Coding Explained",
-    "Learn to Code",
-    "Big O Notation",
-    "Time Complexity",
+    "Computer Science",
+    "Coding Tutorial",
+    "Programming Concepts",
     "In-place Sorting",
-    "Educational Video"
+    "Efficient Algorithms",
+    "Competitive Programming",
+    "Tech Explained",
+    "Learn to Code",
+    "Algorithm Animation"
   ],
-  "vk_title": "Визуализация Сортировки Выбором (Selection Sort) - Пошаговое Объяснение",
-  "vk_desc": "Разбираемся с алгоритмом Сортировка Выбором! 🧐 Смотрите наглядную визуализацию, узнайте, как он работает, и оцените его плюсы и минусы. Отличный старт для понимания сортировок! #программирование #алгоритмы #компьютерныенауки #обучение"
+  "vk_title": "Сортировка Циклами: Алгоритм, Который Восстанавливает Массивы!",
+  "vk_desc": "🚀 Откройте для себя Cycle Sort – завораживающий алгоритм, который не только сортирует, но и 'исправляет' массивы, перемещая элементы на их правильные места с умопомрачительной точностью! ✨ Идеально для олимпиадников и любителей алгоритмов! 🤓\n\n#CycleSort #Алгоритмы #СтруктурыДанных #Программирование #КомпьютерныеНауки #Технологии"
 }
