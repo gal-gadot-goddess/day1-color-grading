@@ -1,27 +1,24 @@
 {
-  "title": "TimSort Explained: The SECRET Sauce of Python's Speed! 🤯",
-  "ig_caption": "TimSort: The unsung hero of efficient sorting! ✨ See this hybrid sorter in action and unlock the secrets to Python's speed. 🚀 #TimSort #Coding #Python #Algorithm #Tech #ComputerScience #Viral",
-  "fb_caption": "Unlocking the mystery of TimSort! 🗝️ We're breaking down this brilliant hybrid sorting algorithm with captivating visualizations. Learn why TimSort is the go-to for Python and Java and how it handles your data like a pro! Don't miss out – dive into the world of efficient sorting! 💡 #TimSort #SortingAlgorithm #PythonProgramming #JavaCoding #ComputerScienceExplained #TechTutorial",
-  "threads_caption": "TimSort: It's not just sorting, it's optimizing. 🧠 Discover the hybrid genius behind Python's speed. Visualized. Explained. Perfected. \n\n#TimSort #Algorithm #Python",
-  "hashtags": "#coding #ai #tech #algorithms #datascience #programming #computerscience #softwaredevelopment #python #java #techie",
-  "yt_description": "Ever wondered WHY Python is so lightning-fast for sorting? 🚀 The answer is TimSort! Join us as we dive deep into this ingenious hybrid sorting algorithm, combining the best of Merge Sort and Insertion Sort. See its magic unfold with stunning visualisations and understand how it dominates real-world data! ✨\n\nIn this video, you'll learn:\n✅ What TimSort is and its origins\n✅ How it cleverly uses Merge Sort and Insertion Sort\n✅ The concept of 'runs' and why they matter\n✅ Practical examples and performance insights\n✅ Why it's the default in Python and Java! 🐍☕\n\nDon't get sorted into mediocrity – master TimSort today! 👇\n#TimSort #Algorithm #DataStructures #Python #Java #CS #ComputerScience #Programming #CodingTutorial #TechExplained #ViralCoding",
+  "title": "Selection Sort: The \"Smartest\" Way to Sort? 🤔 (Algorithmic Visualized!)",
+  "ig_caption": "Selection Sort: The \"find the smallest\" magic! ✨ Watch our visual breakdown & see if it's your coding MVP! #Coding #Algorithm #Tech",
+  "fb_caption": "Ever wondered how Selection Sort works its magic? ✨ We've got a super clear, visual explanation that will make even complex algorithms easy to grasp! Watch now and level up your coding game. 🧠",
+  "threads_caption": "Selection Sort: Finds the minimum, swaps it in. Simple, but is it efficient? Let's visualize! 👇",
+  "hashtags": "#coding #ai #tech #computerscience #algorithm #datascience #programming #learncode #visualizations",
+  "yt_description": "Dive into the world of sorting algorithms with Selection Sort! 🚀 We break down how it works, visualize it step-by-step, and uncover its pros and cons. Is it the ultimate choice or just a stepping stone? Watch to find out! 💡\n\n#SelectionSort #SortingAlgorithms #ComputerScience #DataStructures #CodingTutorial #AlgorithmExplained #Programming #LearnToCode #TechEducation #ViralCoding",
   "yt_tags": [
-    "TimSort",
-    "Algorithm Visualization",
+    "Selection Sort",
     "Sorting Algorithms",
-    "Python Sorting",
-    "Java Sorting",
+    "Algorithm Visualization",
     "Computer Science",
     "Data Structures",
     "Programming Tutorial",
     "Coding Explained",
-    "Merge Sort",
-    "Insertion Sort",
-    "Hybrid Sort",
+    "Learn to Code",
     "Big O Notation",
-    "Algorithm Analysis",
-    "Tech Education"
+    "Time Complexity",
+    "In-place Sorting",
+    "Educational Video"
   ],
-  "vk_title": "TimSort: Магия сортировки в Python и Java! 🐍☕",
-  "vk_desc": "Разбираем TimSort – самый эффективный гибридный алгоритм сортировки, который используется в Python и Java. Наглядная визуализация и объяснение, почему он так быстр на реальных данных! 🔥\n\n#TimSort #Алгоритмы #Python #Java #Программирование #ComputerScience"
+  "vk_title": "Визуализация Сортировки Выбором (Selection Sort) - Пошаговое Объяснение",
+  "vk_desc": "Разбираемся с алгоритмом Сортировка Выбором! 🧐 Смотрите наглядную визуализацию, узнайте, как он работает, и оцените его плюсы и минусы. Отличный старт для понимания сортировок! #программирование #алгоритмы #компьютерныенауки #обучение"
 }
