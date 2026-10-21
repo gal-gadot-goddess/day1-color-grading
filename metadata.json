@@ -1,27 +1,22 @@
 {
-  "title": "🔥 Quick Sort Explained: The Fastest Way to Organize Data (Visualized!)",
-  "ig_caption": "Sorting chaos? Meet Quick Sort! ⚡️ Watch this algorithm go from messy to masterful in seconds. Full visual breakdown incoming! #QuickSort #CodeMagic #AlgorithmArt",
-  "fb_caption": "🤯 Prepare to be amazed by Quick Sort! We're breaking down one of the most efficient sorting algorithms with jaw-dropping visuals. Ever wondered how your favorite apps organize data so quickly? This is a huge part of the answer! Watch now and level up your coding knowledge. #QuickSortExplained #CodingVisuals #TechBreakdown #ComputerScienceSimplified",
-  "threads_caption": "Quick Sort: The algorithm that laughs at messy data. 💨 See it in action – it's faster than your morning coffee.",
-  "hashtags": "#coding #ai #tech #algorithm #datascience #computerscience #programming #learncode #viraltutorial #quickexplanation",
-  "yt_description": "Ever wondered how computers sort millions of items in milliseconds? 🤔 Dive into the mesmerizing world of Quick Sort! 🚀 We'll break down this powerful algorithm with stunning visualizations, making complex concepts crystal clear. Perfect for coders, students, and anyone curious about the magic behind efficient sorting. ✨\n\nIn this video, you'll discover:\n✅ The 'Divide and Conquer' strategy of Quick Sort.\n✅ How 'Pivots' work their magic.\n✅ Visual walkthroughs of the sorting process.\n✅ Time complexity and why it's so efficient.\n✅ Common pitfalls and optimizations.\n\n#QuickSort #Algorithm #DataStructures #ComputerScience #CodingTutorial #Programming #LearnToCode #TechExplained #ViralCoding",
+  "title": "Selection Sort: The Simplest Sorting Algorithm (Visualized!) 🚀",
+  "ig_caption": "Selection Sort: The OG of simple sorting! 🧊 Watch it unfold like a magic trick. ✨ Can you guess the next swap? #CodeVisuals #SelectionSort #CodingLife #TechTok #Algorithms101",
+  "fb_caption": "Unlock the mystery of sorting! 🔑 We're breaking down Selection Sort with a mind-blowing visualization that makes it crystal clear. See how finding the smallest and swapping works! What other algorithms should we tackle? Tell us below! 👇 #SelectionSortExplained #CodingVisuals #TechEducation #LearnProgramming #AlgorithmBreakdown",
+  "threads_caption": "Selection Sort: It's not the fastest, but it's SO intuitive. See why it's a fundamental building block! 🧱",
+  "hashtags": "#coding #ai #tech #algorithm #computerscience #datascience #programming #javascript #python #java",
+  "yt_description": "Ever wondered how computers sort things? 🤔 Dive into the world of algorithms with this super clear, visual breakdown of Selection Sort! 🌈 Watch as we find the smallest element and swap it into place, step-by-step. Perfect for beginners and a great refresher for pros! 💡 What algorithm should we visualize next? Let us know in the comments! 👇 #SelectionSort #Algorithm #DataStructures #ComputerScience #CodingTutorial #LearnToCode #Programming",
   "yt_tags": [
-    "Quick Sort",
+    "Selection Sort",
     "Algorithm Visualization",
     "Sorting Algorithms",
+    "Computer Science Explained",
     "Data Structures",
-    "Computer Science",
     "Coding Tutorial",
-    "Programming Explained",
+    "Programming Basics",
     "Learn to Code",
-    "Tech Education",
-    "Fastest Sorting",
-    "Divide and Conquer",
-    "Pivot Element",
-    "Algorithm Deep Dive",
-    "Viral Coding",
-    "CS Fundamentals"
+    "Algorithm Explained",
+    "Beginner Coding"
   ],
-  "vk_title": "Быстрая сортировка: Визуализация самого быстрого алгоритма! 🚀",
-  "vk_desc": "Разбираем алгоритм быстрой сортировки (Quick Sort) с потрясающей визуализацией! 💡 Узнайте, как он работает, почему он так эффективен и как он сортирует огромные массивы данных за мгновения. Идеально для студентов, программистов и всех, кто хочет понять основы информатики. #программирование #алгоритмы #быстраясортировка #компьютерныенауки #обучениекоду #технологии #визуализация"
+  "vk_title": "Визуализация Сортировки Выбором: Как это работает?",
+  "vk_desc": "Простое и наглядное объяснение алгоритма Сортировка Выбором. Узнайте, как компьютер находит минимальный элемент и ставит его на нужное место. Идеально для начинающих! 🚀 #Сортировка #Алгоритмы #Программирование #КомпьютерныеНауки"
 }
