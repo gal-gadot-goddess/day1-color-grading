@@ -1,26 +1,24 @@
 {
-  "title": "🔥 Heap Sort: The Ultimate Sorting Hack You NEED to See! 🚀",
-  "ig_caption": "Heap Sort: The secret weapon for lightning-fast sorting! ⚡️ Watch our visualization and master this powerful algorithm. #HeapSort #Coding #Algorithms #DataScience #Tech",
-  "fb_caption": "Unlock the power of Heap Sort! 🧠 Our new visualization breaks down this efficient sorting algorithm in a way you'll never forget. Perfect for boosting your coding skills! What's your favorite sorting algorithm? Let us know below! 👇",
-  "threads_caption": "Heap Sort: More than just sorting, it's a data structure superpower! 🌳 Visualize the magic. #HeapSort #AlgorithmMagic",
-  "hashtags": "#HeapSort #Coding #Algorithms #DataStructures #ComputerScience #Programming #Tech #LearnToCode #SoftwareEngineering #BigO",
-  "yt_description": "🤯 Ever wondered how to sort massive amounts of data at lightning speed? Meet Heap Sort! In this mind-blowing visualization, we break down the elegant, tree-based magic of Heap Sort step-by-step. See how it builds a binary heap and extracts elements to achieve O(n log n) efficiency. Perfect for coders, data scientists, and anyone who loves a good algorithm! ✨\n\nDon't forget to LIKE, SUBSCRIBE, and hit the notification bell for more epic algorithm breakdowns! 🔔\n\n#HeapSort #Algorithm #DataStructures #ComputerScience #CodingTutorial #Programming #BigO #Efficiency #TechExplained #LearnToCode",
+  "title": "Cycle Sort: The Algorithm That's NOT What You Think! 🤯 (Visualized)",
+  "ig_caption": "Cycle Sort: The sorting algorithm that's pure sorcery! ✨ Watch how it puts everything in its EXACT place. Mind. Blown. 🤯 #CycleSort #CodingMagic #AlgorithmArt #TechGeek",
+  "fb_caption": "Prepare to be amazed! 🤩 We're demystifying Cycle Sort with incredible visuals. This algorithm is a masterclass in efficiency and a must-see for any coder!  Click to unravel the mystery of cycles! 🌀",
+  "threads_caption": "Cycle Sort: It's not just sorting, it's a puzzle solved with elegant cycles. You NEED to see this visualization! 🚀",
+  "hashtags": "#coding #ai #tech #algorithms #datascience #computerscience #programming #learncode #codinglife #techtrends",
+  "yt_description": "Ever seen an algorithm that seems to defy logic? 🤔 Dive into the mesmerizing world of Cycle Sort! We break down this unique sorting algorithm with stunning visualizations, revealing its clever approach to placing elements in their correct positions.  Perfect for learning, revising, or just appreciating algorithmic elegance!  ✨\n\n✅ What is Cycle Sort?\n✅ How does it work visually?\n✅ Time and Space Complexity Explained\n✅ When to use Cycle Sort?\n\n#CycleSort #Algorithm #DataStructures #ComputerScience #CodingTutorial #LearnToCode #Programming #Visualizations #TechExplained",
   "yt_tags": [
-    "Heap Sort",
+    "Cycle Sort",
     "Algorithm Visualization",
+    "Sorting Algorithms",
     "Data Structures",
     "Computer Science",
-    "Coding Tutorial",
     "Programming",
-    "Big O Notation",
-    "Sorting Algorithms",
-    "Efficiency",
-    "O(n log n)",
-    "Binary Heap",
-    "Tree Data Structure",
-    "Code Explained",
-    "Tech Education"
+    "Coding Tutorial",
+    "Learn to Code",
+    "Algorithm Explained",
+    "Code Visualization",
+    "In-place Sort",
+    "Complexity Analysis"
   ],
-  "vk_title": "Визуализация Сортировки Кучей (Heap Sort) - Поймет каждый!",
-  "vk_desc": "🚀 Ускорьте свои знания! Посмотрите нашу потрясающую визуализацию алгоритма сортировки кучей (Heap Sort). Узнайте, как эффективно сортировать данные с помощью двоичной кучи. Идеально для программистов и студентов! #HeapSort #Алгоритмы #СтруктурыДанных #Программирование #Код"
+  "vk_title": "Сортировка Циклами: Визуализация и Объяснение Алгоритма",
+  "vk_desc": "Узнайте, как работает алгоритм сортировки циклами (Cycle Sort)! Пошаговая визуализация и полное объяснение для лучшего понимания. Идеально для студентов и программистов. 💡"
 }
