@@ -1,22 +1,26 @@
 {
-  "title": "Heap Sort: The Ultimate Sorting Power-Up! 🚀 (Visualized!)",
-  "ig_caption": "Heap Sort: More than just sorting, it's a data structure superpower! 🔥 Watch our visualization and level up your coding game. #HeapSortExplained",
-  "fb_caption": "Ever wondered how Heap Sort works its magic? ✨ Our latest visualization breaks down this powerful O(n log n) algorithm step-by-step. If you're looking to ace your coding interviews or just understand data structures better, this is a must-watch! 👇",
-  "threads_caption": "Heap Sort: Not your average sort. It's a tree-mendous performance boost! 🌳📈",
-  "hashtags": "#coding #ai #tech #datascience #algorithms #computerscience #programming #softwaredevelopment #codinglife #developer",
-  "yt_description": "Unlock the secrets of Heap Sort with our mind-blowing visualization! 🤯 Learn how this efficient sorting algorithm builds a 'heap' to achieve O(n log n) time complexity. Perfect for your next coding challenge or interview prep! \n\n✨ What you'll discover:\n- How a max-heap works\n- The 'heapify' process\n- Step-by-step sorting illustration\n- Real-world applications\n\n#HeapSort #SortingAlgorithms #ComputerScience #DataStructures #CodingTutorial #AlgorithmVisualization #LearnToCode",
+  "title": "🤯 Stooge Sort: The FUNNIEST Way to Sort (It's NOT Efficient!)",
+  "ig_caption": "This is STOOGE SORT! 😂 The algorithm so bad, it's good. Prepare for some serious sorting fails! #coding #tech #computerscience #algorithm #stoogesort #developer #funnycoding",
+  "fb_caption": "Is this the worst sorting algorithm ever? 🤔 Meet Stooge Sort! It's a masterclass in inefficiency and guaranteed to give you a chuckle. Watch its painfully slow journey to a sorted list! 😂 Perfect for a dose of programming humor. #Coding #Algorithm #StoogeSort #ComputerScienceHumor #DeveloperLife #TechFun",
+  "threads_caption": "Stooge Sort: So dumb, it circles back to being brilliant? Nah, it's just hilariously slow. 🤡 Let's laugh at code.",
+  "hashtags": "#coding #ai #tech #computerscience #algorithm #stoogesort #programming #developer #learntocode #codingmemes",
+  "yt_description": "Ever heard of Stooge Sort? 🤪 It's one of the most absurd and inefficient sorting algorithms out there, but it's also incredibly entertaining to watch! Join us as we dive deep into the logic (or lack thereof!) behind this coding comedy. \n\nIn this video, you'll learn:\n✅ What Stooge Sort is and how it works\n✅ Why it's called 'Stooge Sort' (hint: it's not smart!)\n✅ A visual demonstration of its hilariously slow process\n✅ Why you should *definitely* NOT use it in production code! 🤣\n\nPerfect for beginners curious about sorting algorithms, or anyone needing a good laugh in the world of computer science!\n\n#StoogeSort #SortingAlgorithms #ComputerScience #CodingHumor #AlgorithmExplained #LearnToCode #Programming #TechTok #DeveloperLife #FunnyCoding",
   "yt_tags": [
-    "Heap Sort",
-    "Sorting Algorithms",
+    "Stooge Sort",
+    "Sorting Algorithm",
     "Computer Science",
-    "Data Structures",
     "Algorithm Visualization",
     "Coding Tutorial",
     "Programming",
-    "O(n log n)",
-    "Interview Prep",
-    "Software Development"
+    "Data Structures",
+    "Inefficient Algorithm",
+    "Coding Humor",
+    "Learn to Code",
+    "Algorithm Explained",
+    "Tech",
+    "Software Development",
+    "Code"
   ],
-  "vk_title": "Визуализация Сортировки Кучей (Heap Sort)",
-  "vk_desc": "Погрузитесь в мир эффективных алгоритмов с нашей наглядной визуализацией сортировки кучей (Heap Sort)! Узнайте, как работает этот мощный алгоритм и почему он так важен в информатике. 🚀 #HeapSort #Алгоритмы #Программирование #Информатика"
+  "vk_title": "Сортировка Шпаны: Самый Смешной Алгоритм Сортировки!",
+  "vk_desc": "Погрузитесь в мир Stooge Sort – одного из самых нелепых и неэффективных алгоритмов сортировки, который, тем не менее, невероятно забавен для наблюдения! 🤪 Мы разберем его логику (или ее отсутствие!) и покажем, почему его НЕ СТОИТ использовать в реальных проектах. Идеально для начинающих и всех, кто любит посмеяться над программированием! 😂\n\n#StoogeSort #Алгоритмы #КомпьютерныеНауки #Программирование #ЮморВКоде"
 }
