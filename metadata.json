@@ -1,25 +1,22 @@
 {
-  "title": "🤯 Insertion Sort: The Hacker's Secret Weapon for Nearly Sorted Data!",
-  "ig_caption": "Unlock the magic of Insertion Sort! 🪄 Perfect for when your data is *almost* sorted. Watch our visual breakdown and level up your coding game! 🚀 #InsertionSort #CodingHacks #AlgorithmVisuals #LearnToCode",
-  "fb_caption": "🤯 Master Insertion Sort! Discover its efficiency for nearly sorted arrays with our captivating visualization. This is a must-watch for anyone learning algorithms or prepping for tech interviews! Click to see the magic! ✨ #InsertionSort #AlgorithmsExplained #CodingTips #TechSkills #ComputerScience101",
-  "threads_caption": "Insertion Sort: If your data's already *almost* there, this is your cheat code. 🤫 Watch how it works! 👇",
-  "hashtags": "#coding #ai #tech #algorithms #datasructures #computerscience #programming #learntocode #codinglife #softwaredevelopment #techtrends",
-  "yt_description": "Ever wondered how to sort data *super* efficiently when it's already almost perfect? 🤔 Enter Insertion Sort! 🚀 This visual breakdown reveals its elegant logic, showing you step-by-step how it builds a sorted array one element at a time. Perfect for interviews and understanding fundamental sorting algorithms! ✨\n\nIn this video, you'll learn:\n✅ The core principle of Insertion Sort.\n✅ When Insertion Sort shines (and when to avoid it!).\n✅ A clear, animated visualization.\n✅ Practical coding insights!\n\nDon't forget to LIKE, SUBSCRIBE, and hit the BELL for more mind-bending algorithm visuals! 🔔\n\n#InsertionSort #Algorithms #DataStructures #ComputerScience #CodingTutorial #LearnToCode #Programming #TechEducation #Visualizations #InterviewPrep",
+  "title": "Gnome Sort: The Simplest Sorting Algorithm? (Visualized!)",
+  "ig_caption": "Meet Gnome Sort! 🍄 The algorithm that's as cute as it is clever. We're visualizing this surprisingly efficient sorting method! Link in bio for the full breakdown! #GnomeSortMagic #CodeArt #AlgorithmExplained",
+  "fb_caption": "Ever heard of Gnome Sort? 🍄 It's arguably one of the most intuitive sorting algorithms out there! We've created a crystal-clear visualization to show you exactly how it works. Dive into the world of efficient coding with this charming algorithm. Click to watch and understand Gnome Sort like never before! 👇 #GnomeSort #CodingVisuals #TechExplained #ProgrammingForBeginners",
+  "threads_caption": "Gnome Sort: So simple, it practically sorts itself... almost! 😉 Watch the visual magic happen.",
+  "hashtags": "#coding #ai #tech #GnomeSort #Algorithms #DataStructures #ComputerScience #LearnToCode #ProgrammingHumor #DevLife",
+  "yt_description": "Ever wondered about the *simplest* sorting algorithm? 🤔 Meet Gnome Sort! We're breaking down this charmingly straightforward algorithm with a super clear visualization that makes it easy to understand. Perfect for beginners or anyone who loves elegant code. ✨ Watch now and see why Gnome Sort is a hidden gem in the sorting world! 🚀 #GnomeSort #Algorithm #DataStructures #ComputerScience #CodingTutorial #LearnToCode",
   "yt_tags": [
-    "insertion sort",
-    "sorting algorithm",
-    "data structures",
-    "computer science",
-    "coding tutorial",
-    "learn to code",
-    "programming",
-    "algorithm visualization",
-    "tech education",
-    "interview preparation",
-    "cse",
-    "software engineering",
-    "beginner coding"
+    "Gnome Sort",
+    "Sorting Algorithms",
+    "Algorithm Visualization",
+    "Data Structures",
+    "Computer Science",
+    "Coding Tutorial",
+    "Learn to Code",
+    "Programming",
+    "Beginner Coding",
+    "Simple Algorithms"
   ],
-  "vk_title": "Сортировка Вставками: Секретное Оружие Программиста!",
-  "vk_desc": "Узнайте, как эффективно сортировать почти отсортированные данные с помощью Сортировки Вставками! 🚀 Визуализация, объяснение и практические советы для ваших проектов. #сортировкa #алгоритмы #программирование #компьютерныенауки #обучениекоду"
+  "vk_title": "Гном Сортировка: Простейший Алгоритм Сортировки (Визуализация)",
+  "vk_desc": "Знакомьтесь с Гном Сортировкой! 🍄 Этот очаровательно простой алгоритм сортировки мы визуализируем для вас в мельчайших деталях. Идеально для новичков и всех, кто ценит элегантность в коде. Смотрите сейчас и узнайте, почему Гном Сортировка – настоящая скрытая жемчужина! ✨"
 }
