@@ -1,28 +1,23 @@
 {
-  "title": "🤯 Merge Sort: The Sorting Algorithm That Divides and CONQUERS! (Visualized)",
-  "ig_caption": "Merge Sort: Divide, conquer, and SORT your way to success! 🏆 This algorithm is pure genius. See it in action! 💥",
-  "fb_caption": "Is your data a mess? 🌪️ Let Merge Sort show you how to bring order to chaos! This 'divide and conquer' algorithm is a true work of art in computer science. Watch our visual breakdown and understand why it's a favorite for efficiency! 💯",
-  "threads_caption": "Merge Sort: It's not just sorting, it's a tactical masterpiece. 🧠 Divide and CONQUER your data!",
-  "hashtags": "#coding #ai #tech #algorithms #datascience #programming #softwaredevelopment #comp sci #education",
-  "yt_description": "Ever wondered how computers sort massive amounts of data efficiently? 🤔 Meet Merge Sort! 🚀 In this visual deep-dive, we'll break down the 'divide and conquer' strategy of Merge Sort with mind-blowing animations and clear explanations. Perfect for aspiring developers, CS students, and anyone curious about the magic behind efficient algorithms! ✨ Get ready to level up your coding game! 💪\n\n#MergeSort #Algorithm #DataStructures #ComputerScience #CodingTutorial #Programming #LearnToCode #TechExplained #ViralCode",
+  "title": "🤯 Odd-Even Sort: The Simplest Parallel Sort You've Never Heard Of! (Visualized)",
+  "ig_caption": "Odd-Even Sort: The sorting algorithm that's easier than it looks! ✨ Visualized and explained for ultimate clarity. You NEED to see this! 🤯 #CodeGems #AlgorithmicArt #TechTok",
+  "fb_caption": "Ever wondered about parallel sorting? 🤔 Meet Odd-Even Sort! We've created an epic visualization to make this algorithm crystal clear. Perfect for students and seasoned devs alike! Watch now and level up your CS knowledge! 🚀 #CodingChallenge #TechEducation #Algorithm",
+  "threads_caption": "Odd-Even Sort: So simple, your brain will thank you. 🧠 Visualize this parallel sorting magic. ✨",
+  "hashtags": "#coding #ai #tech #algorithms #computerscience #programming #visualization #sort #odd evensort",
+  "yt_description": "Dive deep into the surprisingly simple yet powerful Odd-Even Sort algorithm! 🤩 We're breaking down how this parallel sorting technique works with mind-blowing visualizations. Perfect for understanding sorting, parallel computing, and impressing your coding buddies! 🚀\n\n✨ What you'll learn:\n* The core logic of Odd-Even Sort\n* How it achieves parallelization\n* Its advantages and disadvantages\n* Real-world applications (or why it's a great teaching tool!)\n\n#CodeMagic #AlgorithmVisualization #ComputerScience #OddEvenSort #LearnToCode #Programming",
   "yt_tags": [
-    "Merge Sort",
+    "Odd-Even Sort",
+    "Sorting Algorithms",
     "Algorithm Visualization",
-    "Data Structures",
     "Computer Science",
+    "Data Structures",
+    "Parallel Computing",
     "Coding Tutorial",
     "Programming",
     "Learn to Code",
-    "Divide and Conquer",
-    "Sorting Algorithms",
     "Tech Explained",
-    "CS Fundamentals",
-    "Software Engineering",
-    "Python",
-    "JavaScript",
-    "Java",
-    "Big O Notation"
+    "Software Engineering"
   ],
-  "vk_title": "Визуализация Сортировки Слиянием: Как Компьютеры Упорядочивают Мир 🚀",
-  "vk_desc": "Погрузитесь в мир эффективных алгоритмов с нашей полной визуализацией Сортировки Слиянием (Merge Sort)! 💡 Узнайте, как принцип 'разделяй и властвуй' помогает сортировать огромные массивы данных. Идеально для студентов и всех, кто хочет понять основы программирования. Смотрите и учитесь! 📊"
+  "vk_title": "Визуализация Сортировки \"Чет-Нечет\" (Odd-Even Sort)",
+  "vk_desc": "Погрузитесь в мир алгоритмов с наглядной визуализацией сортировки \"Чет-Нечет\"! 🤩 Узнайте, как этот простой параллельный метод работает и почему он так эффективен для обучения. 🚀\n\n#программирование #алгоритмы #компьютерныенауки #сортировка"
 }
