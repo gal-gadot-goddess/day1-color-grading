@@ -1,24 +1,25 @@
 {
-  "title": "Gnome Sort: The Algorithm That's SO SIMPLE, It's Genius! 🤯 (Visualized)",
-  "ig_caption": "Meet the Gnome! 🍄 This ridiculously simple sorting algorithm is pure magic for your data. ✨ Watch it work its tiny wonders! #GnomeSort #CodingMagic #AlgorithmArt #DataSort #CS #TechHumor",
-  "fb_caption": "Prepare to be charmed! 😊 We're breaking down Gnome Sort, an algorithm so straightforward, it's almost too good to be true. See how it efficiently sorts data with our unique visualization. Perfect for anyone curious about the magic behind sorting! ✨ #GnomeSort #CodingTutorial #AlgorithmExplained #TechEducation #LearnProgramming",
-  "threads_caption": "Gnome Sort: So simple, it practically sorts itself. 🍄 Click for the visual proof! 👇 #Algorithm #Coding",
-  "hashtags": "#coding #algorithm #computerscience #datascience #programming #tech #learn #visualization #gnomesort",
-  "yt_description": "Ever wondered how sorting algorithms work? 🤔 Today, we're diving into the charmingly simple, yet surprisingly effective, Gnome Sort! Watch as our little gnome sorts elements like they're picking flowers. 🌸 Perfect for beginners and a fun refresher for pros!  #GnomeSort #SortingAlgorithms #DataStructures #ComputerScience #AlgorithmVisualization #CodingExplained #LearnToCode #Programming #TechTok",
+  "title": "Selection Sort: The 'Smartest' Way to Sort? 🤔 | Visualized Algorithm",
+  "ig_caption": "Selection Sort: Finding the ONE! 🎯 Watch this visually stunning breakdown and see how it snatches the smallest element every time! 🤯 #CodingIsMagic #AlgoArt #SelectionSortExplained",
+  "fb_caption": "Is Selection Sort the 'smartest' way to sort? 🤔 We're breaking down this fundamental algorithm with a clear, engaging visualization! Watch how it systematically finds the minimum element and builds a sorted list. Perfect for anyone looking to deepen their understanding of core computer science concepts. Share with your coding buddies! 👇",
+  "threads_caption": "Selection Sort: The algorithm that *always* knows the smallest number. 🧠 See it in action! 👇",
+  "hashtags": "#coding #ai #tech #algorithm #datascience #computerscience #programming #learncoding #dev #softwaredeveloper #computerscience #algorithme #codage",
+  "yt_description": "Ever wondered how sorting algorithms actually *work*? 🤔 Today, we're diving deep into Selection Sort! 🚀 Watch as we visually break down this unique sorting method, explaining its logic step-by-step. Is it the most efficient? We'll find out! Perfect for beginners and seasoned coders alike looking to master fundamental algorithms. 💡\n\nIn this video, you'll learn:\n✅ The core concept of Selection Sort\n✅ How it finds the minimum element in each pass\n✅ A clear, step-by-step visualization\n✅ Its time and space complexity\n\n#SelectionSort #Algorithms #DataStructures #ComputerScience #CodingTutorial #Programming #LearnToCode #TechExplained #VisualLearning #CS",
   "yt_tags": [
-    "Gnome Sort",
-    "Sorting Algorithm",
+    "Selection Sort",
     "Algorithm Visualization",
     "Data Structures",
     "Computer Science",
-    "Programming Tutorial",
-    "Coding Explained",
+    "Coding Tutorial",
+    "Programming Explained",
     "Learn to Code",
-    "Simple Algorithm",
+    "Tech Education",
+    "Sorting Algorithms",
     "Beginner Coding",
-    "Algorithm Animation",
-    "Code Visualizer"
+    "CS Fundamentals",
+    "Visual Algorithm",
+    "Code Explained"
   ],
-  "vk_title": "Сортировка Гнома: Простейший Алгоритм Сортировки! (Визуализация)",
-  "vk_desc": "Узнайте, как работает сортировка Гнома – один из самых интуитивных алгоритмов сортировки. Идеально для новичков в программировании! 🚀 #Программирование #Алгоритмы #Сортировка #КомпьютерныеНауки #ВизуализацияКода"
+  "vk_title": "Сортировка Выбором: Визуализация Алгоритма",
+  "vk_desc": "Разбираемся с одним из самых интуитивных алгоритмов сортировки - Сортировкой Выбором! 💡 Пошаговая визуализация, объяснение логики и сложности. Отлично подходит для начинающих программистов! 🚀 #программирование #алгоритмы #компьютерныенауки #обучение #сортировкавыбором"
 }
