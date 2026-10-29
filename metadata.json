@@ -1,26 +1,24 @@
 {
-  "title": "Cycle Sort: The Algorithm That Paints Your Data!",
-  "ig_caption": "Prepare to be mesmerized! ✨ Cycle Sort: where algorithms become art. 🎨 See how data dances in perfect cycles. Full breakdown on our YouTube! Link in bio. 👆",
-  "fb_caption": "Mind. Blown. 🤯 Cycle Sort is a sorting algorithm like no other, transforming raw data into a beautiful, flowing cycle. We've created a stunning visualization to show you *exactly* how it works.  Ready to see algorithms in a whole new light? Watch the full video here: [Link to YouTube Video]",
-  "threads_caption": "Cycle Sort: It's not just sorting, it's a cosmic ballet for your data. 🌌 Watch it unfold. Video link in bio!",
-  "hashtags": "#CycleSort #AlgorithmArt #CodeMagic #DataVisualization #CS #DevLife #ProgrammingHumor #TechTok #ViralCode #Algorithmic",
-  "yt_description": "🚀 Ever seen an algorithm like this? Cycle Sort isn't just about sorting, it's about visualizing the beautiful, cyclical nature of data movement! ✨ We break down this unique sorting method, showing you exactly how it works with stunning visual animations. Perfect for aspiring developers, CS students, and anyone who loves elegant code. Watch till the end for a mind-bending visualization! 🤯 #CycleSort #AlgorithmVisualization #ComputerScience #CodingTutorial #DataStructures #Programming #LearnToCode #ViralCoding",
+  "title": "Gnome Sort: The Algorithm That's SO SIMPLE, It's Genius! 🤯 (Visualized)",
+  "ig_caption": "Meet the Gnome! 🍄 This ridiculously simple sorting algorithm is pure magic for your data. ✨ Watch it work its tiny wonders! #GnomeSort #CodingMagic #AlgorithmArt #DataSort #CS #TechHumor",
+  "fb_caption": "Prepare to be charmed! 😊 We're breaking down Gnome Sort, an algorithm so straightforward, it's almost too good to be true. See how it efficiently sorts data with our unique visualization. Perfect for anyone curious about the magic behind sorting! ✨ #GnomeSort #CodingTutorial #AlgorithmExplained #TechEducation #LearnProgramming",
+  "threads_caption": "Gnome Sort: So simple, it practically sorts itself. 🍄 Click for the visual proof! 👇 #Algorithm #Coding",
+  "hashtags": "#coding #algorithm #computerscience #datascience #programming #tech #learn #visualization #gnomesort",
+  "yt_description": "Ever wondered how sorting algorithms work? 🤔 Today, we're diving into the charmingly simple, yet surprisingly effective, Gnome Sort! Watch as our little gnome sorts elements like they're picking flowers. 🌸 Perfect for beginners and a fun refresher for pros!  #GnomeSort #SortingAlgorithms #DataStructures #ComputerScience #AlgorithmVisualization #CodingExplained #LearnToCode #Programming #TechTok",
   "yt_tags": [
-    "Cycle Sort",
-    "Algorithm",
+    "Gnome Sort",
     "Sorting Algorithm",
+    "Algorithm Visualization",
     "Data Structures",
     "Computer Science",
     "Programming Tutorial",
-    "Coding Visualization",
+    "Coding Explained",
+    "Learn to Code",
+    "Simple Algorithm",
+    "Beginner Coding",
     "Algorithm Animation",
-    "Best Sorting Algorithm",
-    "Efficient Sorting",
-    "In-place Sort",
-    "Cycle Sort Explained",
-    "Code Animation",
-    "Learn Programming"
+    "Code Visualizer"
   ],
-  "vk_title": "Сортировка Циклами: Визуализация Алгоритма",
-  "vk_desc": "✨ Откройте для себя Сортировку Циклами – алгоритм, который превращает сортировку данных в завораживающее зрелище! 🌀 Пошаговая визуализация, объяснение работы и примеры. Идеально для программистов и студентов. Смотрите, как данные оживают! #СортировкаЦиклами #Алгоритмы #Программирование #КомпьютерныеНауки #ВизуализацияКода"
+  "vk_title": "Сортировка Гнома: Простейший Алгоритм Сортировки! (Визуализация)",
+  "vk_desc": "Узнайте, как работает сортировка Гнома – один из самых интуитивных алгоритмов сортировки. Идеально для новичков в программировании! 🚀 #Программирование #Алгоритмы #Сортировка #КомпьютерныеНауки #ВизуализацияКода"
 }
