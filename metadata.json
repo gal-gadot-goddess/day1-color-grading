@@ -1,22 +1,27 @@
 {
-  "title": "Odd-Even Sort: The Simplest Parallel Sort You NEED to See! 🤯⚡️",
-  "ig_caption": "Odd-Even Sort: So simple, yet so powerful! 🚀 Watch it sort like magic! ✨ #OddEvenSort #CodingIsFun #AlgorithmArt #TechTok",
-  "fb_caption": "Ever wondered about parallel sorting? 🤔 Odd-Even Sort breaks it down with stunning visuals!  See how simple comparisons can achieve powerful results.  Click to learn and be amazed! 👇 #Algorithm #OddEvenSort #CodingLife #TechTrends",
-  "threads_caption": "Odd-Even Sort: The ultimate parallel sorting sorcery. Prepare to be amazed. 🪄",
-  "hashtags": "#coding #ai #tech #algorithms #computerscience #programming #sorting",
-  "yt_description": "Dive into the mesmerizing world of Odd-Even Sort! 🧮 Discover how this elegantly simple parallel sorting algorithm works by comparing and swapping adjacent elements. Perfect for understanding distributed systems and parallel processing concepts!  \n\n✨ What you'll learn:\n- The core logic of Odd-Even Sort\n- How it achieves parallelism\n- Its advantages and disadvantages\n- Visual examples that make it crystal clear!\n\n#Algorithm #SortingAlgorithm #ComputerScience #ParallelProcessing #OddEvenSort #CodingTutorial #TechExplained #Programming #DataStructures",
+  "title": "🔥 Heap Sort: The ULTIMATE Sorting Powerhouse Revealed! (Anime Visualized!)",
+  "ig_caption": "Heap Sort unlocked! 🔓 Witness sorting power like you've NEVER seen before. Anime vibes + pure algorithmic genius! ✨ Watch the full breakdown on YouTube! Link in bio! #Coding #HeapSort #DataStructures #Algorithm #Tech #Programming",
+  "fb_caption": "Unleash the power of Heap Sort! 🚀 We've visualized this incredible sorting algorithm with stunning anime graphics. Ever wondered how your data gets organized so fast? Watch our deep dive into Heap Sort and understand its magic. Click to learn more! 👇 #HeapSort #CodingLife #DataScience #AlgorithmsExplained #TechTok",
+  "threads_caption": "Heap Sort: It's not just sorting, it's an epic quest. Your data will be stronger than ever. 💪 #HeapSort #Algorithms",
+  "hashtags": "#coding #ai #tech #Algorithm #DataStructures #HeapSort #Programming #LearnToCode #ComputerScience",
+  "yt_description": "🚀 Ever wondered how computers sort massive amounts of data with lightning speed? Today, we're diving deep into the mesmerizing world of Heap Sort! 🌳 Witness its algorithmic magic visualized like never before, with epic anime-inspired graphics that'll make your brain sing! 🎶\n\nWe'll break down:\n✅ The core concepts of heaps (min-heap vs. max-heap) 🧠\n✅ How Heap Sort builds the heap structure 🏗️\n✅ The ingenious 'heapify' process in action ⚡\n✅ Why Heap Sort is a beast for in-place sorting and its time complexity (O(n log n))! ⏱️\n\nPerfect for aspiring coders, data structure enthusiasts, and anyone who loves a good algorithmic showdown! 💥\n\n#HeapSort #Algorithm #DataStructures #CodingTutorial #ComputerScience #LearnToCode #Programming #TechExplained #VisualizedCoding #AnimeCoding",
   "yt_tags": [
-    "Odd-Even Sort",
-    "Sorting Algorithm",
+    "Heap Sort",
     "Algorithm Visualization",
-    "Parallel Sorting",
-    "Computer Science",
     "Data Structures",
+    "Sorting Algorithms",
+    "Computer Science",
     "Coding Tutorial",
-    "Programming Concepts",
-    "Algorithm Explained",
-    "Tech Education"
+    "Programming",
+    "O(n log n)",
+    "In-place Sorting",
+    "Heapify",
+    "Min Heap",
+    "Max Heap",
+    "Tech Explained",
+    "Coding Visualized",
+    "Anime Coding"
   ],
-  "vk_title": "Визуализация Сортировки 'Чёт-Нечет' (Odd-Even Sort)",
-  "vk_desc": "Разбираем алгоритм сортировки 'Чёт-Нечет' (Odd-Even Sort)! Простой, но эффективный параллельный алгоритм сортировки, который легко понять. Идеально для изучения параллельных вычислений! 🚀"
+  "vk_title": "Сортировка Кучей (Heap Sort): Визуализация Алгоритма!",
+  "vk_desc": "Погрузитесь в мир сортировки с Heap Sort! 🌳 Узнайте, как работает этот мощный алгоритм, с потрясающей аниме-визуализацией. Разбор структуры кучи, процесс сортировки и почему Heap Sort так эффективен. Идеально для изучения структур данных и алгоритмов!"
 }
