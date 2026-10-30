@@ -1,25 +1,22 @@
 {
-  "title": "Cocktail Sort: The Algorithm That Shakes Things Up! 🍸 | Viral Coding Visualizations",
-  "ig_caption": "Shaking up the sorting world! 🍸 Cocktail Sort is here to prove that sometimes, going both ways is faster. 😉 Watch this slick visualization and level up your algorithm game! ✨ #CocktailSort #CodingLife #TechTok #Algorithms #DataStructures #LearnToCode #ViralTech",
-  "fb_caption": "Get ready for a visual treat! 🍸 We're diving deep into the Cocktail Sort algorithm, a fascinating approach that shakes data into place by sorting in both directions. See how it works with our dynamic visualization and understand why it's more than just a fancy Bubble Sort. Perfect for anyone looking to boost their coding skills! Like and share if you love algorithm magic! ✨",
-  "threads_caption": "Why sort one way when you can shake it both ways? 🍸 Cocktail Sort: The algorithm with the most 'buzz'. ⚡️ Visualized and explained!",
-  "hashtags": "#coding #ai #tech #algorithms #computerscience #programming #datascience #developer #javascript #python",
-  "yt_description": "Ever seen an algorithm that's as busy as a bartender? 🍹 Meet Cocktail Sort! We're breaking down this unique sorting algorithm with a mind-blowing visualization that'll have you saying 'Cheers!' to efficient code. 🤓\n\nThis isn't your average bubble sort. Cocktail Sort (also known as bidirectional bubble sort, shaker sort, ripple sort, shuffle sort, or shuttle sort) sorts in both directions, making it a bit more zippy. Watch as we animate its journey to perfectly ordered data! ✨\n\nPerfect for: Coders, CS students, algorithm enthusiasts, and anyone who loves a good visual explanation. Don't forget to LIKE, SUBSCRIBE, and hit that notification bell for more awesome algorithm content! 🔔\n\n#CocktailSort #Algorithm #DataStructures #ComputerScience #Coding #Programming #ViralCoding #Tech #LearnToCode #Visualization",
+  "title": "Odd-Even Sort: The Simplest Parallel Sort You NEED to See! 🤯⚡️",
+  "ig_caption": "Odd-Even Sort: So simple, yet so powerful! 🚀 Watch it sort like magic! ✨ #OddEvenSort #CodingIsFun #AlgorithmArt #TechTok",
+  "fb_caption": "Ever wondered about parallel sorting? 🤔 Odd-Even Sort breaks it down with stunning visuals!  See how simple comparisons can achieve powerful results.  Click to learn and be amazed! 👇 #Algorithm #OddEvenSort #CodingLife #TechTrends",
+  "threads_caption": "Odd-Even Sort: The ultimate parallel sorting sorcery. Prepare to be amazed. 🪄",
+  "hashtags": "#coding #ai #tech #algorithms #computerscience #programming #sorting",
+  "yt_description": "Dive into the mesmerizing world of Odd-Even Sort! 🧮 Discover how this elegantly simple parallel sorting algorithm works by comparing and swapping adjacent elements. Perfect for understanding distributed systems and parallel processing concepts!  \n\n✨ What you'll learn:\n- The core logic of Odd-Even Sort\n- How it achieves parallelism\n- Its advantages and disadvantages\n- Visual examples that make it crystal clear!\n\n#Algorithm #SortingAlgorithm #ComputerScience #ParallelProcessing #OddEvenSort #CodingTutorial #TechExplained #Programming #DataStructures",
   "yt_tags": [
-    "Cocktail Sort",
+    "Odd-Even Sort",
+    "Sorting Algorithm",
     "Algorithm Visualization",
-    "Data Structures",
+    "Parallel Sorting",
     "Computer Science",
+    "Data Structures",
     "Coding Tutorial",
-    "Programming",
-    "Bubble Sort",
-    "Bidirectional Bubble Sort",
-    "Sorting Algorithms",
-    "Tech Explained",
-    "Viral Coding",
-    "Code Animation",
-    "CS Student"
+    "Programming Concepts",
+    "Algorithm Explained",
+    "Tech Education"
   ],
-  "vk_title": "Сортировка Коктейлем: Алгоритм, Который Взбалтывает! 🍸",
-  "vk_desc": "Представляем Сортировку Коктейлем (Cocktail Sort) — уникальный алгоритм сортировки, который движется в обе стороны! 🍹 Смотрите нашу завораживающую визуализацию и поймите, как он работает, чтобы сделать ваш код быстрее. Идеально для студентов и разработчиков! 🤓 #алгоритмы #программирование #компьютерныенауки #разработка #код"
+  "vk_title": "Визуализация Сортировки 'Чёт-Нечет' (Odd-Even Sort)",
+  "vk_desc": "Разбираем алгоритм сортировки 'Чёт-Нечет' (Odd-Even Sort)! Простой, но эффективный параллельный алгоритм сортировки, который легко понять. Идеально для изучения параллельных вычислений! 🚀"
 }
