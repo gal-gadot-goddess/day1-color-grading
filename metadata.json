@@ -1,25 +1,25 @@
 {
-  "title": "Selection Sort: The 'Smartest' Way to Sort? 🤔 | Visualized Algorithm",
-  "ig_caption": "Selection Sort: Finding the ONE! 🎯 Watch this visually stunning breakdown and see how it snatches the smallest element every time! 🤯 #CodingIsMagic #AlgoArt #SelectionSortExplained",
-  "fb_caption": "Is Selection Sort the 'smartest' way to sort? 🤔 We're breaking down this fundamental algorithm with a clear, engaging visualization! Watch how it systematically finds the minimum element and builds a sorted list. Perfect for anyone looking to deepen their understanding of core computer science concepts. Share with your coding buddies! 👇",
-  "threads_caption": "Selection Sort: The algorithm that *always* knows the smallest number. 🧠 See it in action! 👇",
-  "hashtags": "#coding #ai #tech #algorithm #datascience #computerscience #programming #learncoding #dev #softwaredeveloper #computerscience #algorithme #codage",
-  "yt_description": "Ever wondered how sorting algorithms actually *work*? 🤔 Today, we're diving deep into Selection Sort! 🚀 Watch as we visually break down this unique sorting method, explaining its logic step-by-step. Is it the most efficient? We'll find out! Perfect for beginners and seasoned coders alike looking to master fundamental algorithms. 💡\n\nIn this video, you'll learn:\n✅ The core concept of Selection Sort\n✅ How it finds the minimum element in each pass\n✅ A clear, step-by-step visualization\n✅ Its time and space complexity\n\n#SelectionSort #Algorithms #DataStructures #ComputerScience #CodingTutorial #Programming #LearnToCode #TechExplained #VisualLearning #CS",
+  "title": "Cocktail Sort: The Algorithm That Shakes Things Up! 🍸 | Viral Coding Visualizations",
+  "ig_caption": "Shaking up the sorting world! 🍸 Cocktail Sort is here to prove that sometimes, going both ways is faster. 😉 Watch this slick visualization and level up your algorithm game! ✨ #CocktailSort #CodingLife #TechTok #Algorithms #DataStructures #LearnToCode #ViralTech",
+  "fb_caption": "Get ready for a visual treat! 🍸 We're diving deep into the Cocktail Sort algorithm, a fascinating approach that shakes data into place by sorting in both directions. See how it works with our dynamic visualization and understand why it's more than just a fancy Bubble Sort. Perfect for anyone looking to boost their coding skills! Like and share if you love algorithm magic! ✨",
+  "threads_caption": "Why sort one way when you can shake it both ways? 🍸 Cocktail Sort: The algorithm with the most 'buzz'. ⚡️ Visualized and explained!",
+  "hashtags": "#coding #ai #tech #algorithms #computerscience #programming #datascience #developer #javascript #python",
+  "yt_description": "Ever seen an algorithm that's as busy as a bartender? 🍹 Meet Cocktail Sort! We're breaking down this unique sorting algorithm with a mind-blowing visualization that'll have you saying 'Cheers!' to efficient code. 🤓\n\nThis isn't your average bubble sort. Cocktail Sort (also known as bidirectional bubble sort, shaker sort, ripple sort, shuffle sort, or shuttle sort) sorts in both directions, making it a bit more zippy. Watch as we animate its journey to perfectly ordered data! ✨\n\nPerfect for: Coders, CS students, algorithm enthusiasts, and anyone who loves a good visual explanation. Don't forget to LIKE, SUBSCRIBE, and hit that notification bell for more awesome algorithm content! 🔔\n\n#CocktailSort #Algorithm #DataStructures #ComputerScience #Coding #Programming #ViralCoding #Tech #LearnToCode #Visualization",
   "yt_tags": [
-    "Selection Sort",
+    "Cocktail Sort",
     "Algorithm Visualization",
     "Data Structures",
     "Computer Science",
     "Coding Tutorial",
-    "Programming Explained",
-    "Learn to Code",
-    "Tech Education",
+    "Programming",
+    "Bubble Sort",
+    "Bidirectional Bubble Sort",
     "Sorting Algorithms",
-    "Beginner Coding",
-    "CS Fundamentals",
-    "Visual Algorithm",
-    "Code Explained"
+    "Tech Explained",
+    "Viral Coding",
+    "Code Animation",
+    "CS Student"
   ],
-  "vk_title": "Сортировка Выбором: Визуализация Алгоритма",
-  "vk_desc": "Разбираемся с одним из самых интуитивных алгоритмов сортировки - Сортировкой Выбором! 💡 Пошаговая визуализация, объяснение логики и сложности. Отлично подходит для начинающих программистов! 🚀 #программирование #алгоритмы #компьютерныенауки #обучение #сортировкавыбором"
+  "vk_title": "Сортировка Коктейлем: Алгоритм, Который Взбалтывает! 🍸",
+  "vk_desc": "Представляем Сортировку Коктейлем (Cocktail Sort) — уникальный алгоритм сортировки, который движется в обе стороны! 🍹 Смотрите нашу завораживающую визуализацию и поймите, как он работает, чтобы сделать ваш код быстрее. Идеально для студентов и разработчиков! 🤓 #алгоритмы #программирование #компьютерныенауки #разработка #код"
 }
