@@ -16,12 +16,12 @@ KREGGS_PAGES = [
     {
         'id': '503243842882427',
         'name': 'kreggscode',
-        'token': 'EAAM2KQECaR0BSQzUPZChfwgdNZAVwZCnDpUofmFIHZCzkPFWy5fgMVMl5d1EfTOfmHiafdZA6Q9ZBUuJav5DybyRffyqB9CM0lTimZB38CbZAQwpypHVxw80VOAXQs7I93tTsREj9TrmPGrU9eDC8uElHSBwtKAuYxkRXCFtt8ZC0qrOnLXZBCSD1UmntDXq5wjVV72DZA0zieQaZATnihgBmiXqQvf8'
+        'token': os.getenv('FACEBOOK_PAGE_TOKEN_KREGGSCODE', '')
     },
     {
         'id': '106890212286933',
         'name': 'kreggscode coding',
-        'token': 'EAAM2KQECaR0BSaIESZAqKEOZAWlV6V855jFTcAP7ypNifLCLz0auVRgTgsEDyW31ywIobovSda9rtWKhDkv55hLYlx7bQoVmalrVS8aVfYsRsBwExEm33aEdhXhpBOKvcquHQ6YyrZBtZApkYi5Gvt8WDEWQ73vH7mfbGEmgidG1hBCFdTmnElsEEcNLjEZBt9SJEUgjaKs2EQDdYXr3PgqUZD'
+        'token': os.getenv('FACEBOOK_PAGE_TOKEN_KREGGSCODE_CODING', '')
     }
 ]
 
